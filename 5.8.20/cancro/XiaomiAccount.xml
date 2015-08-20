@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="failed_get_mibi_info">"Can't get balance"</string>
+  <string name="hide_mibi_info">Mi Credits info has been hidden</string>
+  <string name="mibi_balance">%s Mi Credits</string>
+  <string name="loading_mili_center">Loading…</string>
+</resources>

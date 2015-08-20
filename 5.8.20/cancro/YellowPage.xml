@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="express_order_info">Order info</string>
+  <string name="express_order_created_time">Created</string>
+  <string name="express_order_internal_id">Order #</string>
+  <string name="order_status">%s</string>
+  <string name="follow_express">Follow %1$s</string>
+  <string name="follow_express_success">Now following %1$s.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cloud_sync_setting_summary_standard">Use mobile data connection to sync contacts, messages, call history, notes, WLAN settings, Browser data and playlists</string>
+  <string name="only_in_wlan">Off</string>
+  <string name="sync_setting">Mobile data usage</string>
+  <string name="voip_dspt">Mi Voice</string>
+  <string name="sync_standard">SMS and call history</string>
+  <string name="cloud_sync_setting_summary_wlan">Sync data when connected to WLAN</string>
+</resources>
