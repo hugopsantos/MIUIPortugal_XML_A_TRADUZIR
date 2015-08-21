@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="user_agreement3">" and "</string>
-  <string name="user_agreement4">Privacy Policy</string>
-  <string name="user_agreement1">"By using this service, you are accepting MIUI Voip's "</string>
-  <string name="user_agreement2">User Agreement</string>
+  <string name="user_agreement3">" e "</string>
+  <string name="user_agreement4">Politica de privacidade</string>
+  <string name="user_agreement1">"Ao utilizar este serviço, está a aceitar Voip MIUI Voip "</string>
+  <string name="user_agreement2">Termo de acordo do utilizador</string>
 </resources>

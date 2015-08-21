@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="boot_reminder_only_day">Device will power on in %1$dd</string>
-  <string name="boot_shutdown">Device will power on at %1$s and power off at %2$s</string>
-  <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
-  <string name="shutdown_boot">Device will power off at %1$s and power on at %2$s</string>
-  <string name="boot_reminder_only_hour">Device will power on in %1$dh</string>
-  <string name="boot_reminder_minute">Device will power on in %1$dm</string>
-  <string name="boot_reminder_hour">Device will power on in %1$dh %2$dm</string>
-  <string name="shutdown_boot_day">Device will power off at %1$s and power on in %2$dd at %3$s</string>
-  <string name="shutdown_day_boot_day">Device will power off in %1$dd at %2$s and power on in %3$dd at %4$s</string>
-  <string name="boot_reminder_day_hour">Device will power on in %1$dd %2$dh</string>
-  <string name="boot_shutdown_day">Device will power on at %1$s and power off in %2$dd at %3$s</string>
-  <string name="boot_day_shutdown_day">Device will power on in %1$dd at %2$s and power off in %3$dd at %4$s</string>
+  <string name="boot_reminder_only_day">O dispositivo vai ligar em %1$dd</string>
+  <string name="boot_shutdown">O dispositivo vai ligar às %1$s e desligar às %2$s</string>
+  <string name="boot_reminder_day">O dispositivo vai ligar em %1$dd %2$dh %3$dm</string>
+  <string name="shutdown_boot">O dispositivo vai desligar às %1$s e ligar às %2$s</string>
+  <string name="boot_reminder_only_hour">O dispositivo vai ligar em %1$dh</string>
+  <string name="boot_reminder_minute">O dispositivo vai ligar em %1$dm</string>
+  <string name="boot_reminder_hour">O dispositivo vai ligar em %1$dh %2$dm</string>
+  <string name="shutdown_boot_day">O dispositivo vai desligar às %1$s e ligar em %2$dd às %3$s</string>
+  <string name="shutdown_day_boot_day">O dispositivo vai desligar em %1$dd às %2$s e ligar em %3$dd às %4$s</string>
+  <string name="boot_reminder_day_hour">O dispositivo vai ligar em %1$dd %2$dh</string>
+  <string name="boot_shutdown_day">O dispositivo vai ligar às %1$s e desligar em %2$dd às %3$s</string>
+  <string name="boot_day_shutdown_day">O dispositivo vai ligar em %1$dd às %2$s e desligar em %3$dd às %4$s</string>
 </resources>
