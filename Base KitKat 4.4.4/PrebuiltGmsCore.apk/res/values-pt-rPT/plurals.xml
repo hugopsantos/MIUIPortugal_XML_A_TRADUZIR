@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="other">Há %d dias</item>
+        <item quantity="one">Há %d dia</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="other">Há %d semanas</item>
+        <item quantity="one">Há %d semana</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">minutos</item>
+        <item quantity="one">minuto</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d anos&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os anos&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d anos&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os anos&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d anos&lt;/price> nos próximos &lt;duration>%3$d anos&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os anos&lt;/price> nos próximos &lt;duration>%3$d anos&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d anos&lt;/price> nos próximos &lt;duration>%3$d anos&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os anos&lt;/price> nos próximos &lt;duration>%3$d anos&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d meses&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os meses&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d meses&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os meses&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d meses&lt;/price> nos próximos &lt;duration>%3$d meses&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os meses&lt;/price> nos próximos &lt;duration>%3$d meses&lt;/duration> a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d meses&lt;/price> nos próximos &lt;duration>%3$d meses&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os meses&lt;/price> nos próximos &lt;duration>%3$d meses&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d dias&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os dias&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d dias&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os dias&lt;/price>, a partir de &lt;start_time>%3$s&lt;/start_time> até cancelar a subscrição.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s a cada %2$d dias&lt;/price> nos próximos &lt;duration>%3$d dias&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s todos os dias&lt;/price> nos próximos &lt;duration>%3$d dias&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis a cada %2$d dias&lt;/price> nos próximos &lt;duration>%3$d dias&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+        <item quantity="one">Ser-lhe-á(ão) automaticamente cobrado(s) &lt;price>%1$s mais quaisquer impostos aplicáveis todos os dias&lt;/price> nos próximos &lt;duration>%3$d dias&lt;/duration>, a partir de &lt;start_time>%4$s&lt;/start_time>.</item>
+    </plurals>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d jogadores</item>
+        <item quantity="one">Jogadores</item>
+    </plurals>
+    <plurals name="games_select_players_del_autopick_players">
+        <item quantity="other">Remover %1$d jogadores</item>
+        <item quantity="one">Remover %1$d jogador</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Convidar até mais %1$d</item>
+        <item quantity="one">Convidar até mais %1$d</item>
+    </plurals>
+    <plurals name="games_waiting_room_waited_start_early">
+        <item quantity="other">%1$d de %2$d jogadores ainda não aderiram. Pretende iniciar mesmo assim?</item>
+        <item quantity="one">%1$d de %2$d jogadores ainda não aderiram. Pretende iniciar mesmo assim?</item>
+    </plurals>
+    <plurals name="games_waiting_room_start_with">
+        <item quantity="other">Com %1$d jogadores</item>
+        <item quantity="one">Com %1$d jogador</item>
+    </plurals>
+    <plurals name="games_waiting_room_players_ready">
+        <item quantity="other">%1$d jogadores prontos</item>
+        <item quantity="one">%1$d jogador pronto</item>
+    </plurals>
+    <plurals name="games_notification_new_activity">
+        <item quantity="other">%1$d novas ações no jogo</item>
+        <item quantity="one">Ação de jogo pendente</item>
+    </plurals>
+    <plurals name="games_notification_non_acl_summary">
+        <item quantity="other">Mais %1$d</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s jogadores</item>
+        <item quantity="one">%1$s jogador</item>
+    </plurals>
+    <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="other">Tenho %1$d jogadas</item>
+        <item quantity="one">A minha jogada</item>
+    </plurals>
+    <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="other">%1$d jogadores têm as suas jogadas</item>
+        <item quantity="one">%1$d jogador tem a sua jogada</item>
+    </plurals>
+    <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="other">%1$d convites</item>
+        <item quantity="one">%1$d convite</item>
+    </plurals>
+    <plurals name="games_inbox_matches_toast_message">
+        <item quantity="other">%1$d partidas em curso</item>
+        <item quantity="one">%1$d partida em curso</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_gift_count_format">
+        <item quantity="other">%1$d presentes</item>
+        <item quantity="one">%1$d presente</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_wish_count_format">
+        <item quantity="other">%1$d pedidos</item>
+        <item quantity="one">%1$d pedido</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_player_names_html">
+        <item quantity="other">"De &lt;b>%1$s&lt;/b>
+e outras pessoas"</item>
+        <item quantity="one">De &lt;b>%1$s&lt;/b></item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s pessoas</item>
+        <item quantity="one">%1$s pessoa</item>
+        <item quantity="two">%1$s pessoas</item>
+        <item quantity="few">%1$s pessoas</item>
+        <item quantity="many">%1$s pessoas</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">de um navegador %1$s em %2$s há menos de %s minutos</item>
+        <item quantity="one">de um navegador %1$s em %2$s há menos de %s minuto</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">de %1$s há menos de %2$s minutos</item>
+        <item quantity="one">de %1$s há menos de %2$s minuto</item>
+    </plurals>
+</resources>

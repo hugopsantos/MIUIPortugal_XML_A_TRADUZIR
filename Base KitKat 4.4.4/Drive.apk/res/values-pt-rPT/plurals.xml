@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="replace_result_count">
+        <item quantity="other">%d ocorrências substituídas</item>
+        <item quantity="one">1 ocorrência substituída</item>
+    </plurals>
+    <plurals name="search_result_count">
+        <item quantity="other">%d ocorrências encontradas</item>
+        <item quantity="zero">Nenhuma ocorrência encontrada</item>
+        <item quantity="one">1 ocorrência encontrada</item>
+    </plurals>
+    <plurals name="table_num_columns">
+        <item quantity="other">%d colunas</item>
+        <item quantity="one">1 coluna</item>
+    </plurals>
+    <plurals name="table_num_rows">
+        <item quantity="other">%d linhas</item>
+        <item quantity="one">1 linha</item>
+    </plurals>
+    <plurals name="accounts_title">
+        <item quantity="other">%1$d contas</item>
+        <item quantity="one">%1$d conta</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed">
+        <item quantity="other">%1$d de %2$s ficheiros disponíveis off-line.</item>
+        <item quantity="one">%1$d de %2$s ficheiros disponíveis off-line.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_completed_all">
+        <item quantity="other">Os %1$d ficheiros estão disponíveis off-line</item>
+        <item quantity="one">%1$d ficheiro já está disponível off-line.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_progress">
+        <item quantity="other">A disponibilizar %1$d ficheiros offline.</item>
+        <item quantity="one">A disponibilizar %1$d ficheiro offline.</item>
+    </plurals>
+    <plurals name="pin_notification_sync_queued_files">
+        <item quantity="other">%1$d ficheiros</item>
+        <item quantity="one">%1$d ficheiro</item>
+    </plurals>
+    <plurals name="upload_notification_prepare_upload_failures">
+        <item quantity="other">Falha ao agendar %1$d ficheiros para o carregamento.</item>
+        <item quantity="one">Falha ao agendar %1$d ficheiro para o carregamento.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_successfully">
+        <item quantity="other">%1$d ficheiros carregados.</item>
+        <item quantity="one">%1$d ficheiro carregado.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_completed_with_failures">
+        <item quantity="other">O carregamento de %1$d de %2$d ficheiros falhou.</item>
+        <item quantity="one">O carregamento de %1$d de %2$d ficheiro falhou.</item>
+    </plurals>
+    <plurals name="upload_notification_sync_progress">
+        <item quantity="other">A carregar %1$d ficheiros.</item>
+        <item quantity="one">A carregar %1$d ficheiro.</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_resume">
+        <item quantity="other">Retomar tudo agora</item>
+        <item quantity="one">Retomar agora</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_ticker">
+        <item quantity="other">Carregamentos em pausa, a aguardar Wi-Fi...</item>
+        <item quantity="one">Carregamento em pausa, a aguardar Wi-Fi...</item>
+    </plurals>
+    <plurals name="upload_notification_waiting_title">
+        <item quantity="other">%1$d carregamentos em pausa.</item>
+        <item quantity="one">%1$d carregamento em pausa.</item>
+    </plurals>
+    <plurals name="upload_spinner_message">
+        <item quantity="other">A preparar %1$d ficheiros para o carregamento.</item>
+        <item quantity="one">A preparar %1$d ficheiro para o carregamento.</item>
+    </plurals>
+    <plurals name="upload_toast_message">
+        <item quantity="other">Os seus %1$d ficheiros estão a ser carregados para: %2$s</item>
+        <item quantity="one">O seu %1$d ficheiro está a ser carregado para: %2$s</item>
+    </plurals>
+    <plurals name="add_collaborators_invalid_contact_address">
+        <item quantity="other">%s não são endereços de e-mail válidos.</item>
+        <item quantity="one">%s não é um endereço de e-mail válido.</item>
+    </plurals>
+    <plurals name="drag_shadow_text">
+        <item quantity="other">Mover %d itens</item>
+        <item quantity="one">Mover \"%s\"</item>
+    </plurals>
+</resources>

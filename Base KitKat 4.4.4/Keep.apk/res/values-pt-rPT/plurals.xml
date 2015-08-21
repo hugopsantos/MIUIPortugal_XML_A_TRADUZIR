@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_photos">
+        <item quantity="other">%d fotografias</item>
+        <item quantity="one">%d fotografia</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d arquivada(s)</item>
+        <item quantity="one">%d arquivada(s)</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d eliminada(s)</item>
+        <item quantity="one">%d eliminada(s)</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">mais %d</item>
+        <item quantity="one">mais %d</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d lembretes</item>
+        <item quantity="one">%d lembrete</item>
+    </plurals>
+</resources>

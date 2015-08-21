@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s jogadores</item>
+        <item quantity="one">%1$s jogador</item>
+    </plurals>
+    <plurals name="games_dest_player_detail_circle_format">
+        <item quantity="other">%1$s CÍRCULOS</item>
+        <item quantity="one">%1$s CÍRCULO</item>
+    </plurals>
+</resources>

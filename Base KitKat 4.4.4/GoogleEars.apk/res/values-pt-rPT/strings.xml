@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pesquisa de Sons para o Google Play</string>
+    <string name="ears_widget_name">Pesquisa de Sons</string>
+    <string name="click_to_recognize">Que música é esta?</string>
+    <string name="no_results_found_status">Não foram encontradas correspondências.</string>
+    <string name="no_network_status">Parece estar offline.</string>
+    <string name="no_history_status">O histórico está atualmente vazio.</string>
+    <string name="retry_status">Tentar novamente?</string>
+    <string name="network_error">falha de rede</string>
+    <string name="audio_capture_error">falha na recolha de áudio</string>
+    <string name="generic_error">falha no pedido</string>
+    <string name="ears_widget_error_prefix">Ups, %s.</string>
+    <string name="buy">Comprar</string>
+    <string name="buy_album">Álbum</string>
+    <string name="buy_free">Grátis</string>
+    <string name="prerelease">"Brevemente
+"</string>
+    <string name="permission_label_read">Permissão para ler Correspondências de Pesquisa de Som</string>
+    <string name="permission_label_write">Permissão para gravar Correspondências de Pesquisa de Som</string>
+    <string name="history_title_label">Ouvidos anteriormente</string>
+    <string name="history_title_label2">Histórico da Pesquisa de Sons</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_all">Limpar tudo</string>
+    <string name="delete_all_confirmation">Tem a certeza de que pretende limpar todo o histórico?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="cancel">Cancelar</string>
+    <string name="one_item_selected">Um item selecionado</string>
+    <string name="x_items_selected">%d itens selecionados</string>
+    <string name="sync">Sincronizar</string>
+    <string name="sync_pending">Sincronização pendente...</string>
+    <string name="switch_account">Alterar conta</string>
+    <string name="switch_account_title">Sincronizar o seu histórico com...</string>
+    <string name="close_button_desc">Fechar</string>
+    <string name="listening_button_desc">A ouvir, clique para parar</string>
+    <string name="history_button_desc">Histórico de Pesquisa de Volume Aberto</string>
+    <string name="album_art_desc">Imagem do álbum</string>
+</resources>

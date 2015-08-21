@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Pesquisa no tablet</string>
+    <string name="search_phone_or_tablet">Pesquisar Tablet</string>
+    <string name="no_summons_found">"Nenhum resultado
+encontrado no tablet."</string>
+    <string name="icing_manage_storage_summary">Aceleramos a pesquisa no seu tablet fornecendo um motor de pesquisa que será utilizado pelas suas aplicações.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_sizes">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+    <array name="font_faces" />
+    <string-array name="alignments">
+        <item>À esquerda</item>
+        <item>À direita</item>
+        <item>Centrado</item>
+        <item>Justificado</item>
+    </string-array>
+    <string-array name="night_mode_bg_colors">
+        <item>\#ffffffff</item>
+        <item>\#ff191816</item>
+        <item>\#ffBDB5A0</item>
+    </string-array>
+    <string-array name="night_mode_text_colors">
+        <item>\#ff000000</item>
+        <item>\#ffB8B3A2</item>
+        <item>\#ff212121</item>
+    </string-array>
+</resources>
