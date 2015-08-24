@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="millis">%d millis</string>
+  <string name="browse">View</string>
+  <string name="seconds">%d seconds</string>
+  <string name="buff_enable">[ enable ]</string>
+</resources>

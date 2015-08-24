@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="children_mode_tips">Return to Settings and manage access to apps.</string>
+  <string name="wallpaper_auto_change_title">Lock screen</string>
+  <string name="wallpaper_scaling_message">Scaling to fixed size</string>
+  <string name="children_mode_exit">Exit</string>
+  <string name="children_folder_title">Kids</string>
+</resources>

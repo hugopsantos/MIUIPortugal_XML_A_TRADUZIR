@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="dialog_body_no_network">"Can't connect to network"</string>
+  <string name="altitude_uncalibrate_refresh">Try again</string>
+  <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
+  <string name="error_camera_unavailable">Check if another app is currently using Camera.</string>
+  <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
+  <string name="error_camera_unavailable_title">Camera unavailable</string>
+  <string name="altitude_uncalibrate_cancel">Cancel</string>
+</resources>

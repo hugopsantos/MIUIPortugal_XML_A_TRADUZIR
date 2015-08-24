@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="no_vip_show_info">"Speed up downloads
+across all your devices with Xunlei"</string>
+  <string name="start_xunlei_speedup_info">Sign in to accelerate your downloads.</string>
+  <string name="vip_expire_today_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
+  <string name="third_web_title">Save</string>
+  <string name="vip_expire_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
+  <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="vip_show_info">"5 million members.
+Accelerate downloads across all your devices."</string>
+  <string name="third_web_savepath">Location</string>
+  <string name="third_web_cancel">Cancel</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="third_web_default">Remember this location</string>
+  <string name="third_web_confirm">OK</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="third_web_filesize">Size</string>
+  <string name="expire_notification_msg">Xunlei membership expires soon.</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
+  <string name="third_web_filename_hint">Name</string>
+</resources>

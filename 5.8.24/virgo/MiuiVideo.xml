@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="need_upgrade_button">Check</string>
+  <string name="need_upgrade_title">Available in new version</string>
+  <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
+</resources>

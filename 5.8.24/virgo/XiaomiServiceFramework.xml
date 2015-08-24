@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="activate_popup_desc_voip_privacy_prefix">". VoIP is supported by Weihui. View Weihui's "</string>
+  <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
+  <string name="activate_popup_desc_voip_privacy">Privacy Policy</string>
+</resources>

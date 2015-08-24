@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="network_speed_for_apps_close">Force stop</string>
+  <string name="lock_screen_warning_category">Lock screen notifications</string>
+  <string name="network_speed_for_apps_others">Other</string>
+  <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
+  <string name="operator_setted_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+  <string name="dialog_title_attention">Attention</string>
+  <string name="lock_screen_warning_switch_title">Show warnings on lock screen</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
+  <string name="saving_conflict_dialog_cancel">Cancel</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s used %2$s this month</string>
+  <string name="lock_screen_warning_switch_summary">Show warning on lock screen when data usage exceeds a certain amount</string>
+  <string name="notify_weekly_traffic_title">Used %s this week</string>
+  <string name="lock_screen_warning_value">Data usage warning</string>
+  <string name="operator_setted_error_notify_message">Tap to change SIM location.</string>
+  <string name="notify_month_traffic_title">Used %s this month</string>
+  <string name="notify_weekly_traffic_body">To limit data usage automatically, set up your monthly data plan.</string>
+  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
+  <string name="daily_limit_and_lock_screen">Data limit &amp; notifications</string>
+  <string name="operator_setted_error_notify_title">SIM card error</string>
+  <string name="pref_roaming_setting_gategory">Data roaming</string>
+  <string name="network_speed_for_apps_title">Connection speed details</string>
+  <string name="network_speed_for_apps_total">Connection speed</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
+  <string name="traffic_saving_can_optimized">Optimize</string>
+</resources>

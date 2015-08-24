@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="choose_new_themes">Themes</string>
+  <string name="theme_precast_update_notification_content">Tap to view new themes.</string>
+  <string name="theme_provision_title">Choose a theme</string>
+  <string name="present_online_themes">Online</string>
+  <string name="lockscreen_magazine_subscribe">%1$s followers</string>
+  <string name="present_local_themes">Downloaded</string>
+  <string name="theme_applying">Applying…</string>
+  <string name="theme_apply_failured">"Can't apply lock screen wallpaper"</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
+  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
+  <string name="theme_provision_default_theme_title">Default</string>
+  <string name="theme_provision_loading_tips">Just a sec…</string>
+  <string name="lockscreen_magazine_title">Daily lock screens</string>
+  <string name="theme_precast_update_notification_title">Updated to MIUI 7</string>
+  <string name="theme_apply_success">Lock screen applied</string>
+  <string name="lockscreen_magazine_system_title">Default</string>
+</resources>

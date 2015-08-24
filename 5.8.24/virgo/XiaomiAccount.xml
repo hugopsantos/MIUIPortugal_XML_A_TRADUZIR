@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
+  <string name="passport_reset_password_prompt">Password is incorrect</string>
+  <string name="passport_restart">Start over</string>
+  <string name="passport_restart_register_title">Create a Mi Account</string>
+  <string name="passport_reset_password_title">Reset password</string>
+  <string name="passport_confirm_recycle_account">Yes</string>
+  <string name="passport_reject_recycle_account">Nope</string>
+  <string name="passport_register_restricted_title">"Can't use this phone number"</string>
+  <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
+  <string name="passport_setting">Setting up…</string>
+  <string name="passport_recycle_account_prompt">Is this your Mi Account?</string>
+  <string name="passport_identitfication_expired">Verification code expired, start over</string>
+  <string name="passport_reset_fail_title">"Couldn't reset"</string>
+  <string name="passport_wrong_password">Password is incorrect</string>
+  <string name="passport_change_phone_number">Switch numbers</string>
+  <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
+  <string name="passport_account_identity_title">Verify your identity</string>
+  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+</resources>

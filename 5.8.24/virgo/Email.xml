@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="setting_default_lable">None</string>
+  <string name="get_database_exception">Database abnormal, please clear data in App info of Mail</string>
+  <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
+  <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
+  <string name="bottom_bar_more_share">Share</string>
+  <string name="share_choose">Please choose</string>
+  <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+</resources>

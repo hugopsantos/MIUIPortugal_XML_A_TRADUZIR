@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="record_name_minute">None</string>
+  <string name="alert_message_delete_record_title">Delete Record</string>
+  <string name="loading_recording">Loading</string>
+</resources>
