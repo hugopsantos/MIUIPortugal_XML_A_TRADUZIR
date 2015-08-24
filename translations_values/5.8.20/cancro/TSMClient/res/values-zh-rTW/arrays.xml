@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_recharge_array_first_time_amounts">
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="card_recharge_array_amounts">
+        <item>100</item>
+        <item>150</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="card_detail_more_items">
+        <item>交易記錄</item>
+        <item>常見問題</item>
+    </string-array>
+</resources>

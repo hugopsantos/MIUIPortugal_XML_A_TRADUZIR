@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d天</item>
+        <item quantity="one">%d天</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d小时</item>
+        <item quantity="one">%d小时</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d分钟</item>
+        <item quantity="one">%d分钟</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">允许%d个应用自启动</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">禁止%d个应用自启动</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d项权限</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d个应用</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">允许%d个应用使用ROOT权限</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">禁止%d个应用使用ROOT权限</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">当前有%d个应用可以升级</item>
+    </plurals>
+</resources>

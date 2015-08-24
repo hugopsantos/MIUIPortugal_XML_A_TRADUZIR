@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_num_days">
+        <item quantity="other">过去%d天</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">第 %1$d 项，共 %2$d 项</item>
+        <item quantity="one">1 个匹配项</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">已选择%1$d项</item>
+        <item quantity="one">已选择%1$d项</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">共有%d处匹配</item>
+        <item quantity="one">共有%d处匹配</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">屏蔽%d条</item>
+        <item quantity="one">屏蔽%d条</item>
+    </plurals>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d个应用不统计流量</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d个应用统计流量</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">已优化%d个应用</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">可优化%d个应用</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d个应用使用流量节省</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d个应用不使用流量节省</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d天前使用</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">搜索%d个应用</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">允许%d个应用漫游联网</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">禁止%d个应用漫游联网</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">找到%d个应用</item>
+    </plurals>
+</resources>

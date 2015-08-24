@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>預設模式</item>
+        <item>神隱模式</item>
+        <item>閱讀模式</item>
+        <item>媒體模式</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>程式啟動時</item>
+        <item>螢幕點亮</item>
+        <item>螢幕關閉</item>
+        <item>螢幕關閉超過10分鐘</item>
+        <item>程式全屏時</item>
+        <item>退出全屏時</item>
+        <item>程式在後台運行時</item>
+        <item>手機正在充電時</item>
+        <item>手機退出充電</item>
+        <item>手機進入待機模式時</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>螢幕最大亮度</item>
+        <item>CPU最高頻率</item>
+        <item>螢幕模式</item>
+        <item>CPU模式</item>
+        <item>資料連線</item>
+        <item>定位</item>
+        <item>首消息提醒</item>
+        <item>螢幕顯示通知</item>
+        <item>限制資料連線</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>不改變</item>
+        <item>標準模式</item>
+        <item>照片模式</item>
+        <item>電影模式</item>
+        <item>省電模式</item>
+        <item>正常模式</item>
+        <item>性能模式</item>
+        <item>允許</item>
+        <item>禁止</item>
+        <item>立即關閉資料連線</item>
+        <item>10分鐘後關閉資料連線</item>
+        <item>30分鐘後關閉資料連線</item>
+        <item>螢幕關閉後關閉資料連線</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>屬於此模式的程式</item>
+        <item>待選程式</item>
+        <item>屬於其它模式的程式</item>
+    </string-array>
+</resources>

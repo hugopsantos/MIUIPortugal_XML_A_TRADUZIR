@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">已更新%s个联系人</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d名联系人</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d条短信</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d个便签</item>
+    </plurals>
+</resources>

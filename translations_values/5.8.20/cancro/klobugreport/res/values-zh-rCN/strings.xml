@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">KLO Bugreport</string>
+    <string name="title">错误日志收集工具</string>
+    <string name="btn_not_upload">暂不上传</string>
+    <string name="btn_upload">立即上传</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_done">完成</string>
+    <string name="btn_failed">上传失败,退出</string>
+    <string name="noti_title">错误日志已经生成</string>
+    <string name="noti_body">生成了一份错误日志</string>
+    <string name="noti_btn_text">上报</string>
+    <string name="mem_collect_text_1_1">欢迎您使用MIUI体验版，近期我们正在处理内存不足的问题。根据预先设定的内存占用阈值，我们发现之前您使用的</string>
+    <string name="mem_collect_text_1_2">应用可能存在内存占用问题。</string>
+    <string name="mem_collect_text_2_1">我们已经将</string>
+    <string name="mem_collect_text_2_2">的整个进程保存在您的手机上，希望您能同意回传该信息给我们，该信息仅被用于查找可能存在的内存占用问题。</string>
+    <string name="mem_collect_text_3">在查找过程中，我们将保证您的个人隐私数据安全。</string>
+    <string name="mem_collect_text_thx">"上传成功
+感谢您的支持"</string>
+    <string name="to_turn_on_wifi">请连接无线网络</string>
+    <string name="klomain_content_2">2.请在安全中心->授权管理->应用权限管理 中允许KLORobot使用小米账号(选项不存在则不用设置)</string>
+    <item type="string" name="APKTOOL_DUMMY_0016">false</item>
+</resources>

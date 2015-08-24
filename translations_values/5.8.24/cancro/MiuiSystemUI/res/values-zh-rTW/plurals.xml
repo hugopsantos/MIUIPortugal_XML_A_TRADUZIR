@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d 個最近執行的應用程式</item>
+        <item quantity="one">1 個最近執行的應用程式</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">共選擇%d個程式</item>
+    </plurals>
+</resources>

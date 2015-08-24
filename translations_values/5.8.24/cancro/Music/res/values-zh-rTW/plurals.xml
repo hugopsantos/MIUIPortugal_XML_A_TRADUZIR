@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">共有%d首歌曲</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d天後即將過期</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">將要下載 %d 首歌曲</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">新增%d首</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d首歌曲</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d首相似歌曲</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d 首歌曲已新增到播放清單</item>
+        <item quantity="one">已將 1 首歌曲新增到播放清單。</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d 首歌曲从播放清單移除</item>
+        <item quantity="one">已將 1 首歌曲從播放清單移除。</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d首歌曲已經被選擇進行發送</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">新增%d首本機歌曲</item>
+    </plurals>
+</resources>

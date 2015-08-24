@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>新月</item>
+        <item>娥眉月</item>
+        <item>上弦月</item>
+        <item>渐盈凸月</item>
+        <item>满月</item>
+        <item>渐亏凸月</item>
+        <item>下弦月</item>
+        <item>残月</item>
+        <item>晦日</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>雾</item>
+        <item>特大暴雨</item>
+        <item>大暴雨</item>
+        <item>暴雨</item>
+        <item>雷阵雨</item>
+        <item>阵雨</item>
+        <item>大雨</item>
+        <item>中雨</item>
+        <item>小雨</item>
+        <item>雨夹雪</item>
+        <item>暴雪</item>
+        <item>阵雪</item>
+        <item>大雪</item>
+        <item>中雪</item>
+        <item>小雪</item>
+        <item>强沙尘暴</item>
+        <item>沙尘暴</item>
+        <item>沙尘</item>
+        <item>扬沙</item>
+        <item>冰雹</item>
+        <item>浮尘</item>
+        <item>霾</item>
+        <item>冻雨</item>
+        <item>暂无数据</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>最弱</item>
+        <item>弱</item>
+        <item>中等</item>
+        <item>强</item>
+        <item>很强</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>北风</item>
+        <item>东北风</item>
+        <item>东风</item>
+        <item>东南风</item>
+        <item>南风</item>
+        <item>西南风</item>
+        <item>西风</item>
+        <item>西北风</item>
+    </string-array>
+</resources>

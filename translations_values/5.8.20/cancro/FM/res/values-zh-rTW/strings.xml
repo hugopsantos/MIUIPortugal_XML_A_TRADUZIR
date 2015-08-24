@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">收音機</string>
+    <string name="menu_record_start">開始錄音</string>
+    <string name="menu_record_stop">停止錄音</string>
+    <string name="menu_sleep">睡眠模式</string>
+    <string name="menu_sleep_cancel">取消睡眠模式</string>
+    <string name="menu_record_list">錄音列表</string>
+    <string name="menu_scan_start">掃瞄電台</string>
+    <string name="menu_new_station">新建電台</string>
+    <string name="menu_save_station_list">加入清單</string>
+    <string name="menu_save_station_presets">加入收藏</string>
+    <string name="menu_speaker">外放模式</string>
+    <string name="menu_headset">耳機模式</string>
+    <string name="menu_exit">退出</string>
+    <string name="dialog_sleep_title">請選擇進入休眠的時間</string>
+    <string name="search_dialog_title">掃瞄電台</string>
+    <string name="fmradio_clear_confirm_msg">將會刪除已儲存電台，確認掃瞄嗎？</string>
+    <string name="set">設定</string>
+    <string name="stations_list">電台清單</string>
+    <string name="stations_list_empty">沒有電台</string>
+    <string name="alert_message_delete_station">確認刪除該電台嗎？</string>
+    <string name="msg_noantenna_message">沒有檢測到耳機，可能無法正常收聽</string>
+    <string name="msg_do_not_support_fm">本機器不支持收音機</string>
+    <string name="exit_fm">退出</string>
+    <string name="toast_sleep_mode">將於 %s關閉收音機</string>
+    <string name="toast_sleep_mode_exit">睡眠模式已退出</string>
+    <string name="notification_rec_title">點選檢視錄音</string>
+    <string name="record_completed">收音機錄音結束</string>
+    <string name="turn_off_fm">關閉收音機</string>
+    <string name="view_stations_list">查看頻道清單</string>
+    <string name="pre_station">上一頻道</string>
+    <string name="next_station">下一頻道</string>
+    <string name="new_frequency">新頻道</string>
+    <string name="alert_invalid_frequency">請輸入合法的頻率</string>
+    <string name="alert_frequency_duplicate">此頻率已存在</string>
+    <string name="hint_frequency">頻率: %1$s ~ %2$s</string>
+    <string name="hint_label">標簽</string>
+    <string name="context_menu_item_edit">編輯</string>
+    <string name="context_menu_item_delete">刪除</string>
+    <string name="context_menu_item_favorite">新增到收藏</string>
+    <string name="context_menu_item_unfavorite">取消收藏</string>
+    <string name="label_recording">正在錄音:%s</string>
+    <string name="toast_added_to_presets">已新增到收藏</string>
+    <string name="toast_added_to_list">已新增到清單</string>
+    <string name="toast_removed_from_presets">已取消收藏</string>
+    <string name="toast_fm_starting">正在啓動收音機，請稍候</string>
+    <string name="toast_fm_seeking">正在搜索電台，請稍候</string>
+    <string name="station_check_favorite">新增到收藏</string>
+    <string name="toast_fm_recorder_internal_error">收音機錄音出現錯誤。</string>
+    <string name="toast_fm_recorder_storage_full">存儲卡空間已滿，無法錄音</string>
+    <string name="toast_fm_error_startfailed">錄音出錯，可能有其他錄音軟件正在錄音。請檢查後再試。</string>
+    <string name="toast_fm_recorder_access_error">訪客模式下無法啓動收音機錄音</string>
+    <string name="fm_has_turned_off">點擊開啟收音機</string>
+    <string name="msg_fm_starting">正在啓動收音機</string>
+    <string name="txt_sleep_mode">睡眠模式</string>
+    <string name="group_favor">收藏頻道</string>
+    <string name="group_other">其他頻道</string>
+    <item type="string" name="APKTOOL_DUMMY_003c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_003d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_003e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_003f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0040">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0041">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0042">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0043">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0044">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0045">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0046">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0047">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0048">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0049">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_004f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0050">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0051">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0052">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0053">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0054">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0055">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0056">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0057">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0058">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0059">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_005f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0060">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0061">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0062">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0063">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0064">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0065">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0066">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0067">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0068">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0069">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_006f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0070">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0071">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0072">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0073">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0074">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0075">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0076">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0077">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0078">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0079">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_007f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0080">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0081">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0082">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0083">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0084">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0085">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0086">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0087">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0088">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0089">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_008f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0090">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0091">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0092">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0093">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0094">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0095">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0096">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0097">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0098">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0099">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009f">false</item>
+</resources>
