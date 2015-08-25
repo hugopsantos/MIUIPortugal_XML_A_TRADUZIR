@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sina_share_pendding">正在傳送...</string>
+    <string name="sina_share_success">傳送成功</string>
+    <string name="sina_share_fail">傳送失敗</string>
+    <string name="sina_token_expired_warning">微博帳號已過期，請重新綁定</string>
+    <string name="sina_token_invalid_warning">微博帳號無效，請重新綁定</string>
+    <string name="sina_share_fail_content_repeat">內容重複,傳送失敗</string>
+    <string name="app_name">小米雲服務</string>
+    <string name="sync_item_sms_title">同步簡訊</string>
+    <string name="sync_item_sms_summary">開啟後將同步您手機上的簡訊</string>
+    <string name="sub_sync_item_sms_title_wifi_only">僅在WLAN下同步MMS</string>
+    <string name="sub_sync_item_sms_summary">建議開啟，否則將消耗手機流量</string>
+    <string name="pref_title_sync_contacts_title">同步聯絡人</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">僅在WLAN下同步頭像</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">建議開啟，否則將消耗數據流量</string>
+    <string name="pref_title_sync_video_on_wifi_only">僅在WLAN下同步來電秀</string>
+    <string name="pref_summary_sync_video_on_wifi_only">建議開啟，否則將消耗數據流量</string>
+    <string name="find_device_stop_noise">停止</string>
+    <string name="find_device_noise_title">查找手機功能正在發聲</string>
+    <string name="error_title">%s同步錯誤</string>
+    <string name="error_unauthorized">認證失敗次數過多，同步已關閉</string>
+    <string name="error_forbidden">您的帳號出現問題，同步已關閉</string>
+    <string name="error_not_acceptable">服務器狀態異常，同步已關閉</string>
+    <string name="error_data_in_transfer_title">雲服務暫時不可用</string>
+    <string name="error_data_in_transfer">您的雲服務資料正在轉移，請等待%d小時</string>
+    <string name="activate">啟動</string>
+    <string name="no_sim">沒有檢測到SIM卡，服務不可用</string>
+    <string name="find_device_status_ok">可在i.mi.com發送尋找手機命令</string>
+    <string name="find_device_status_ok_international">可在i.mi.com發送尋找手機命令</string>
+    <string name="account">帳號</string>
+    <string name="verify">驗證</string>
+    <string name="next">下一步</string>
+    <string name="password">密碼</string>
+    <string name="vcode">驗證碼</string>
+    <string name="bad_authentication">用戶名密碼不匹配</string>
+    <string name="header_data_and_synchronization">數據與同步</string>
+    <string name="header_other_settings">其他功能</string>
+    <string name="title_reg">註冊小米帳號</string>
+    <string name="unactivated_user">未啟用</string>
+    <string name="error_network">目前網路不可用</string>
+    <string name="error_server">伺服器出錯</string>
+    <string name="error_unknown">未知錯誤</string>
+    <string name="sync_dspt">開啟小米雲服務</string>
+    <string name="sync_sub_dspt">"您的手機可能會發送一條簡訊來啟用服務
+(產生的資費由電信商收取)"</string>
+    <string name="sync_sub_int_dspt">"您的手機可能會發送一條國際簡訊來啟用服務
+(產生的資費由電信商收取)"</string>
+    <string name="access_denied">瀏覽受限</string>
+    <string name="internet_access_dspt">雲服務在使用過程中需要連接網路。</string>
+    <string name="sync_on">開啟</string>
+    <string name="sync_off">關閉</string>
+    <string name="mx_dspt">免費網路簡訊</string>
+    <string name="mx_voip_dspt">免費網路電話</string>
+    <string name="mx_sub_dspt_provision">網路簡訊</string>
+    <string name="mx_sub_dspt_provision_with_voip">網路通訊</string>
+    <string name="voip_choose_sim">選擇開啟網路電話的號碼</string>
+    <string name="activate_number_change_dialog_message">選擇需要啟動的主號碼，免費網路電話時，對方看到的是此號碼</string>
+    <string name="phone_number_may_required_dspt_provision">本服務可能會取得您的手機號碼。</string>
+    <string name="phone_number_required_dspt_provision">本服務需要取得您的手機號碼。</string>
+    <string name="sync_resend_sms_dspt_provision">。如您開啟了尋找手機，每次更換SIM卡時，系統將自動發送一條簡訊來重新啟動服務。</string>
+    <string name="sync_dspt_provision_title">小米雲服務內容</string>
+    <string name="sync_dspt_provision">"同步：
+小米雲服務可以跨裝置同步您小米裝置上的照片、簡訊、便條，通訊錄，通話記錄等資料。您也可以使用瀏覽器瀏覽 "</string>
+    <string name="sync_dspt_provision3">" 來查看這些資料，您可以隨時在設定中開啟和關閉此服務。
+"</string>
+    <string name="sync_dspt_entrance_provision">跨設備同步照片、連絡人、通話記錄、簡訊、便條、桌面圖示佈局、答錄機等資料，同步資料時可能會連接網路和開啟WIFI。 並從瀏覽器中訪問 %s 來查看這些資料。</string>
+    <string name="sync_dspt_entrance_provision_2">更多小米雲服務內容</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">關閉</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">開啟</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">確認關閉小米雲服務？</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">您可以將圖片，聯絡人，簡訊，便條等資料時時備份到網路上，方便簡單。無需為儲存資料擔憂。</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>跳過</u></string>
+    <string name="find_device_dspt_provision">"如果您丟失您的裝置，您可以造訪 %s 來尋找、鎖定和重置裝置。您可以隨時在裝置中開啟和關閉服務。
+"</string>
+    <string name="find_device_dspt_provision_3">，啟動裝置定位，嘗試尋找裝置，鎖定裝置或清除資料，您可以隨時在設定中開啟和關閉該服務。</string>
+    <string name="find_device_dspt_provision_4">為保證尋找裝置的可用性，每次您更換SIM卡時，系統將自動發送一條簡訊來重新啟動該服務。</string>
+    <string name="find_device_send_sms_alert">"
+
+如果您更換SIM卡，需要重新自動發送一條簡訊來重新啟動此功能。"</string>
+    <string name="mx_dspt_provision">"啟用後您​可以和其他小米用戶透過網際網路免費發送訊息
+您可以隨時在設定中開啟和關閉"</string>
+    <string name="mx_dspt_provision_with_voip">啟用後可以和其他小米使用者通過網路免費打電話或發消息，您可以隨時在設定中開啟和關閉。 其中免費電話由微會提供技術支援，請查看微會的隱私政策</string>
+    <string name="mx_dspt_provision_with_voip2">隱私政策</string>
+    <string name="mx_dspt_provision_privacy">"啟用此服務需要：
+1. 首次開啟可能需要發送一條普通簡訊驗證您的手機號碼
+2. 加密上傳你的裝置資訊
+3. 後台運行消耗極低的網路流量"</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"啟用此服務需要：
+1. 首次開啟可能需要發送兩條普通簡訊驗證您的手機號碼
+2. 加密上傳你的裝置資訊
+3. 後台運行消耗極低的網路流量"</string>
+    <string name="user_agreement_p6">"
+啟用此功能即表示您同意"</string>
+    <string name="user_agreement_p7">小米雲服務協議</string>
+    <string name="user_agreement_p8">。</string>
+    <string name="user_agreement_title">小米雲服務協議</string>
+    <string name="privacy_policy">隱私政策</string>
+    <string name="loading">讀取中…</string>
+    <string name="license_host_unreachable">您的手機未連線到網路服務。要立即檢視此訊息，請通過連線到網路的任意電腦瀏覽 %s。</string>
+    <string name="user_agreement">用戶協議</string>
+    <string name="activating">正在啟用...</string>
+    <string name="other_settings">其他功能</string>
+    <string name="find_device">開啟尋找手機</string>
+    <string name="find_device_enabling">正在開啟...</string>
+    <string name="find_device_disabling">正在關閉...</string>
+    <string name="enable_find_device_error">%1$s，開啟查找手機失敗</string>
+    <string name="disable_find_device_error">%1$s，關閉查找手機失敗</string>
+    <string name="find_device_error_network">網路不可用</string>
+    <string name="find_device_error_server">伺服器出錯</string>
+    <string name="find_device_success_title">查找手機功能已經開啟</string>
+    <string name="find_device_notice_p1">當您的手機丟失時，可登入</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">"嘗試找回、鎖定手機或移除資料
+當手機更換SIM卡時，系統可能會發送一條簡訊來重新註冊尋找手機服務"</string>
+    <string name="i_know">我知道了</string>
+    <string name="find_device_disabled_title">查找手機功能已經關閉</string>
+    <string name="find_device_disabled_notice">您可以在 設定 -> 帳號與同步-> 小米帳號中重新開啟此功能</string>
+    <string name="button_cancel">取消</string>
+    <string name="enable_micloud">啟用雲服務</string>
+    <string name="micloud_more"><u>瞭解更多</u></string>
+    <string name="xiaomi_cloud_service">小米雲服務</string>
+    <string name="micloud_dspt">提供免費網路簡訊、手機資料同步、查找手機等眾多功能，</string>
+    <string name="cmcc_micloud_dspt">提供手機資料同步、尋找手機等眾多功能，還可以通過定位功能找回丟失手機</string>
+    <string name="micloud_sec_dspt">並能讓您随時線上管理</string>
+    <string name="micloud_dspt_provision">提供照片、連絡人、簡訊、通話記錄、便條、桌面圖示佈局、答錄機等資料的同步功能，同步資料時可能會連接網路和開啟WIFI，還可以通過定位功能找回丟失手機</string>
+    <string name="start_micloud">開始使用</string>
+    <string name="micloud_single_dspt">提供連絡人、簡訊、通話記錄、答錄機等資料的同步功能, 還可以通過定位功能找回丟失手機</string>
+    <string name="micloud_proceed">繼續</string>
+    <string name="master_alert_notif_title">您有%s天沒有同步數據了</string>
+    <string name="sub_alert_notif_title">您有關鍵同步服務未啟用</string>
+    <string name="alert_notif_title_dspt">建議恢復同步，保證數據安全</string>
+    <string name="noRemind">暫不提醒</string>
+    <string name="restoreSync">恢復同步</string>
+    <string name="enableAll">一鍵啟用</string>
+    <string name="master_alert_notif_dspt_add">"在此期間手機新增了%s等資料。
+
+如果您的手機遺失或被擦除，這些資料就會永久丟失。建議您恢復同步，保證資料安全"</string>
+    <string name="master_alert_notif_dspt_no">"在此期間手機沒有新增資料。
+
+如果您的手機遺失或被擦除，這些資料就會永久丟失。建議您恢復同步，保證資料安全"</string>
+    <string name="sub_alert_notif_dspt_add">"您手機本地有%s等資料還未同步。
+
+如果您的手機遺失或被擦除，這些資料將會永久丟失。建議您啟動同步，保證資料安全"</string>
+    <string name="sub_alert_notif_dspt_no">"您手機本地沒有資料還未同步。
+
+如果您的手機遺失或被擦除，這些資料將會永久丟失。建議您啟動同步，保證資料安全"</string>
+    <string name="cloudservice_new_sync">%s可以同步到小米雲啦</string>
+    <string name="click_to_enabled">點選可開啟此功能</string>
+    <string name="calendar_sync">日曆</string>
+    <string name="antispam_sync">騷擾攔截</string>
+    <string name="deskclock_backup">時鐘</string>
+    <string name="wipe_data_dialog_msg_separator">、</string>
+    <string name="micloud_space_duokan_title">多看雲空間</string>
+    <string name="micloud_space_duokan_detail">"請您打開多看閱讀，並到書架-雲空間中管理雲儲存空間。
+說明：請確定多看中登入的帳號與目前小米帳號保持一致。"</string>
+    <string name="micloud_space_applist_title">桌面圖示佈局</string>
+    <string name="micloud_space_applist_detail">桌面圖示佈局暫只支援手機，請您使用小米手機登入雲服務查看備份檔案。</string>
+    <string name="micloud_space_soundrecorder_title">錄音備份</string>
+    <string name="micloud_space_soundrecorder_detail">"請您使用小米手機，打開答錄機App，選擇錄音檔中的雲錄音資料夾。 
+說明：請確定手機MIUI中登入的帳號和當前小米帳號保持一致。"</string>
+    <string name="micloud_space_full_influence"><u>空間滿了對我有什麼影響</u></string>
+    <string name="micloud_storage_usage" formatted="false">已用%s/共%s</string>
+    <string name="micloud_title_dspt" formatted="false">"您目前總空間%s 
+已使用%s儲存空間，還剩餘%s"</string>
+    <string name="micloud_title_dspt_remain">還剩餘%s</string>
+    <string name="micloud_title_full_dspt">您的%s儲存空間已經用滿！</string>
+    <string name="micloud_user_space_usage">已使用儲存空間</string>
+    <string name="micloud_web_discription_01">在電腦上瀏覽i.mi.com</string>
+    <string name="micloud_web_discription_02">隨時管理您的個人資料</string>
+    <string name="micloud_web_discription">在電腦上瀏覽 i.mi.com 隨時管理您的個人資料</string>
+    <string name="micloud_web_discription_international">在電腦上造訪 mi.com/micloud 隨時管理您的個人資料</string>
+    <string name="micloud_full_influence_title">空間滿了對我有什麼影響</string>
+    <string name="micloud_warn_low_title">您的雲儲存空間快滿了</string>
+    <string name="micloud_warn_low_sum">您已使用了90%的儲存空間</string>
+    <string name="micloud_warn_full_title">您的雲儲存空間已滿</string>
+    <string name="micloud_warn_full_sum">相關同步服務已經停止</string>
+    <string name="micloud_storage_expires_soon_title">收費空間即將到期</string>
+    <string name="micloud_storage_expires_very_soon_title">收費空間馬上到期啦</string>
+    <string name="micloud_storage_expires_auto_renewal_sum">請確保米幣帳戶餘額充足，以便自動加值</string>
+    <string name="micloud_storage_expires_manually_renewal_sum">到期後，部分同步可能將會暫停，建議開啟自動加值</string>
+    <string name="micloud_full_influence_dspt">"您在手機上拍攝的照片、視訊，包括安裝的APP資料備份都會儲存到您的雲空間中。
+
+這樣，即便手機遺失或發生意外刪除，您的資料依然十分安全，不會遺失。
+
+當雲空間滿了後，意味著您新拍攝的照片、視訊以及APP備份無法再儲存到雲空間中。雖然之前的資料不受影響，但新資料就無法繼續儲存並享受相應服務。
+
+因此，當空間快滿時，您可以根據自己的需求來選擇刪除一部分舊資料，或者升級更大的儲存空間。"</string>
+    <string name="micloud_upgrade_space">升級儲存空間</string>
+    <string name="enable_sync_dspt">所有同步已關閉</string>
+    <string name="enable_sync">立即開啟</string>
+    <string name="cloud_find_device">查找手機</string>
+    <string name="find_device_dspt">啟用後可以遠程定位，鎖定和擦除資料</string>
+    <string name="micloud_user_space_title">儲存空間</string>
+    <string name="sync_sub_dspt_provision">提供眾多手機資料同步功能</string>
+    <string name="btn_return">返回</string>
+    <string name="sync_sub_1_sms">您的手機可能會發送一封普通簡訊來啟動本服務。</string>
+    <string name="sync_sub_1_intl_sms">您的手機可能會發送一封國際簡訊來啟動本服務。</string>
+    <string name="sync_sub_2_sms">您的手機可能會發送兩封普通簡訊來分別啟動本服務。</string>
+    <string name="sync_sub_2_intl_sms">您的手機可能會發送兩封國際簡訊來分別啟動本服務。</string>
+    <string name="sync_sub_1_sms_1_intl_sms">您的手機可能會發送一封普通簡訊和一封國際簡訊來分別啟動本服務</string>
+    <string name="sync_item_calllog_title">同步通話記錄</string>
+    <string name="sync_item_calllog_summary">開啟後將同步您手機上的通話記錄</string>
+    <string name="view_storage_title">檢視儲存空間</string>
+    <string name="storage">儲存</string>
+    <string name="setting">設定</string>
+    <string name="remind_later">稍後提醒</string>
+    <string name="enable_cloud_service_notification">您還未啟用小米雲服務</string>
+    <string name="contact">聯絡人</string>
+    <string name="sms">簡訊</string>
+    <string name="photo">照片</string>
+    <string name="micloud_first_login_title">登入提示</string>
+    <string name="micloud_first_login_summary">您登入了小米雲服務，若非您的裝置，可登出小米雲並刪除同步資料</string>
+    <string name="micloud_unlogin_for_time_title">啟動小米雲服務</string>
+    <string name="micloud_unlogin_for_time_summary">為防止丟失，建議將聯絡人，簡訊等資料同步到小米雲服務</string>
+    <string name="micloud_main_sync_stop">同步停止</string>
+    <string name="micloud_main_sync_pause">同步暫停</string>
+    <string name="micloud_main_sync_exception">同步異常</string>
+    <string name="micloud_main_stop_sync">停止同步</string>
+    <string name="micloud_main_suggest_sync">您的雲端資料陳舊，建議開啟同步</string>
+    <string name="micloud_main_set_internet">設定網路</string>
+    <string name="micloud_main_sync_now">立即同步</string>
+    <string name="micloud_main_network_error">當前網路異常/請檢查網路設定</string>
+    <string name="micloud_main_sync_on_wifi">將在WLAN環境下進行同步</string>
+    <string name="micloud_main_sync_setting">設定</string>
+    <string name="micloud_main_suggest_setting">"您設定了僅在WLAN下同步
+請點擊設置更改模式或連接WLAN"</string>
+    <string name="micloud_main_data_unsynced">%d條資料待同步</string>
+    <string name="micloud_main_detail">檢視資訊</string>
+    <string name="micloud_main_network_abnormal">您的手機網路異常</string>
+    <string name="micloud_main_sync_init">同步狀態檢查中</string>
+    <string name="micloud_main_syncing">正在同步資料</string>
+    <string name="micloud_main_last_sync_time">最後同步於%s</string>
+    <string name="micloud_main_synced_data_count">已安全儲存%d條資料</string>
+    <string name="micloud_main_wlan_sync_data_count">%d條資料將在WLAN下同步</string>
+    <string name="micloud_main_space_full">您的雲服務空間已滿，請升級空間同步資料</string>
+    <string name="micloud_main_space_low">您的雲服務空間快滿了，請升級空間同步資料</string>
+    <string name="micloud_main_update_space">升級空間</string>
+    <string name="micloud_detail_syncing">正在同步...</string>
+    <string name="micloud_detail_upload_syncing">正在上傳 %s</string>
+    <string name="micloud_detail_download_syncing">正在下載 %s</string>
+    <string name="micloud_detail_pending">等待中...</string>
+    <string name="micloud_detail_success">已完成</string>
+    <string name="micloud_detail_fail">同步失敗</string>
+    <string name="micloud_detail_lastest">已同步至最新</string>
+    <string name="micloud_detail_preference_syncing">正在同步</string>
+    <string name="micloud_detail_preference_wlan">在WLAN下同步</string>
+    <string name="micloud_detail_wlan">%d條資料未同步</string>
+    <string name="micloud_detail_wlan_contact">%d條聯絡人頭像未同步</string>
+    <string name="micloud_detail_wlan_mms">%d條多媒體簡訊未同步</string>
+    <string name="micloud_check_sim_title">"檢測到您更換SIM卡，請重新驗證帳號
+用於開啟小米雲服務，尋找手機等功能"</string>
+    <string name="micloud_check_sim_notify_title">重新開啟雲服務</string>
+    <string name="micloud_check_sim_notify_text">更換SIM卡，請重新驗證帳號，開啟雲服務</string>
+    <string name="micloud_setting_contact_summary">聯絡人資訊，頭像</string>
+    <string name="micloud_setting_sms_summary">簡訊，多媒體簡訊</string>
+    <string name="micloud_setting_gallery_summary">相片，影片</string>
+    <string name="micloud_setting_browser_summary">書簽，歷史記錄，標籤</string>
+    <string name="micloud_setting_music_summary">收藏清單，歌單</string>
+    <string name="micloud_setting_wifi_summary">WLAN設定</string>
+    <string name="micloud_setting_deskclock_summary">時鐘雲備份</string>
+    <string name="micloud_setting_antispam_summary">黑白名單，勿擾模式VIP名單</string>
+    <string name="upgrade_space_gb">GB</string>
+    <string name="upgrade_space_tb">TB</string>
+    <string name="upgrade_space_mibipreyear">%s米幣/每年</string>
+    <string name="get_this_month_gb">領取本月%s免費空間</string>
+    <string name="get_first_month_gb">領取首次%s免費空間</string>
+    <string name="more_activity_in_upgrade_space">更多優惠活動請造訪<a href="http://i.mi.com">http://i.mi.com</a></string>
+    <string name="success_upgraded_space">成功升級%s空間</string>
+    <string name="total_space_upgraded_to">總空間已增加到%s</string>
+    <string name="apple_cloud">蘋果雲端服務</string>
+    <string name="google_cloud">谷歌雲端服務</string>
+    <string name="microsoft_cloud">微軟雲端服務</string>
+    <string name="apple_cloud_eng">icloud</string>
+    <string name="google_cloud_eng">Google Drive</string>
+    <string name="microsoft_cloud_eng">One Drive</string>
+    <string name="apple_10gb">20GB</string>
+    <string name="google_100gb">100GB</string>
+    <string name="apple_cloud_price">約72元/每年</string>
+    <string name="google_cloud_price">約143元/每年</string>
+    <string name="microsoft_cloud_price">約80元/每年</string>
+    <string name="upgrade_space">升級空間</string>
+    <string name="upgrade_space_successful">成功增加%sGB空間</string>
+    <string name="upgrade_space_successful_total">總空間已達到%sGB</string>
+    <string name="free_space_has_received">本月免費空間已領取</string>
+    <string name="free_space_receive_fail">升級容量失敗，不滿足要求或已升級</string>
+    <string name="buy_space_sulotion_title">雲端服務儲存方案</string>
+    <string name="buy_space_sulotion_renew_title">選擇續約方式</string>
+    <string name="buy_space_sulotion_message">您將購買%sGB空間</string>
+    <string name="buy_space_sulotion_renew_message">有效期: %s</string>
+    <string name="buy_space_sulotion_auto_renew">自動續約</string>
+    <string name="buy_space_sulotion_not_auto_renew">不自動續約</string>
+    <string name="cloud_space_upgrade_title">雲空間免費升級啦！</string>
+    <string name="cloud_space_upgrade_message">點擊馬上領取本月%sGB免費空間</string>
+    <string name="cloud_space_upgrade_no_quota_info">未查詢到有效資料，請稍後重試</string>
+    <string name="micloud_other_product_price">其他同類產品價格：</string>
+    <string name="loading_hint">正在載入中...</string>
+    <string name="buy_space_expire">購買的空間將於%s到期</string>
+    <string name="buy_space_expire_concat">%1$s至%2$s</string>
+    <string name="buy_more_space_b_class">"登入mi.com/micloud取得更多儲存空間
+僅支援支付寶和國內信用卡"</string>
+    <string name="buy_more_space_c_class">"我們暫時只支援中國銀行卡升級空間
+升級請造訪mi.com/micloud"</string>
+    <string name="micloud_member_buy_title">確定購買</string>
+    <string name="micloud_member_buy_content" formatted="false">"會員有效期：%s-%s-%s
+
+價格：%s米幣/年"</string>
+    <string name="micloud_member_net_error_alert_title">網路錯誤</string>
+    <string name="micloud_member_net_error_alert_message">網路錯誤請稍後重試</string>
+    <string name="micloud_member_pay_fail_toast">支付失敗，請重新購買</string>
+    <string name="micloud_member_webload_fail_toast_5xx">伺服器錯誤，請稍後重試</string>
+    <string name="micloud_member_webload_fail_toast_4xx">瀏覽受限</string>
+    <string name="micloud_member_webload_fail_error_message">網路錯誤，請重試</string>
+    <string name="micloud_member_pay_order_error_toast">資料有誤，請重試</string>
+    <string name="micloud_member_pay_miid_error_toast">帳號有誤，請重試</string>
+    <string name="micloud_member_refresh_button">重新載入</string>
+    <string name="share_miliao_not_installed">米聊未安裝</string>
+    <string name="share_weibo_not_installed">微博未安裝</string>
+    <string name="share_weixin_not_installed">微信未安裝</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_cancel">分享取消</string>
+    <string name="share_failed">分享失敗</string>
+    <string name="cloud_back_up_title">桌面圖示佈局備份</string>
+    <string name="settings_backup_title">系統設定備份</string>
+    <string name="cloud_back_up_open_info_no_backuptime">在WLAN環境下，%1$s備份一次</string>
+    <string name="cloud_back_up_open_info">"在WLAN環境下，%1$s備份一次
+上次備份時間:%2$s"</string>
+    <string name="cloud_back_up_interval_long">7天</string>
+    <string name="cloud_back_up_interval_short">1天</string>
+    <string name="cloud_back_up_close_info">雲備份已關閉，點選開啟</string>
+    <string name="cloud_back_up_dialog_content">目前有備份正在進行，強制關閉將導致任務終止，確認關閉嗎？</string>
+    <string name="cloud_back_up_button_ok">強制關閉</string>
+    <string name="cloud_back_up_network_unavailable">刪除失敗，目前無wifi連接，請連線wifi後重試</string>
+    <string name="cloud_back_up_remove_success">成功刪除備份</string>
+    <string name="cloud_back_up_date_format">yyyy-MM-dd HH:mm</string>
+    <string name="micloud_storage">雲儲存空間</string>
+    <string name="micloud_member">小米雲服務會員</string>
+    <string name="micloud_buy_member">開通會員</string>
+    <string name="micloud_member_advantage">更大容量/專屬特權</string>
+    <string name="micloud_main_title_sync_fail">同步失敗</string>
+    <string name="micloud_main_title_sync_on_wifi">等待WLAN同步</string>
+    <string name="micloud_main_title_sync_off">雲服務同步未開啟</string>
+    <string name="micloud_sync_alert_dialog_title">開啟小米雲服務</string>
+    <string name="micloud_sync_alert_dialog_message">小米雲服務將會為您自動儲存連絡人，簡訊，通話記錄，便條，圖庫等重要資料，方便您在各個小米設備之間共用資料。</string>
+    <string name="micloud_sync_alert_dialog_negative">取消</string>
+    <string name="micloud_sync_alert_dialog_positive">確認</string>
+    <string name="cloud_back_up_dialog_title">桌面圖示佈局備份</string>
+    <item type="string" name="APKTOOL_DUMMY_0138">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_013f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0140">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0141">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0142">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0144">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0145">false</item>
+</resources>

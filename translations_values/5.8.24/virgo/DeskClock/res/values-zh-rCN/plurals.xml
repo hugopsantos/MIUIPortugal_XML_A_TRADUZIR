@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">%1$d小时</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">%1$d分钟</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d秒</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d 秒钟</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d 分钟</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">%d分钟后提醒</item>
+    </plurals>
+</resources>

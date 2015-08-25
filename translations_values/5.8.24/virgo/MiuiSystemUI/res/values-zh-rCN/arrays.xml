@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrier_name">
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>SmarToneVodafone</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>移动</item>
+        <item>联通</item>
+        <item>电信</item>
+        <item>SMC HK</item>
+    </string-array>
+</resources>

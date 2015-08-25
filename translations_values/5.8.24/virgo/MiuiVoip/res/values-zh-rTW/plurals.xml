@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">只需 %1$d 步操作即可進入VOIP內測使用者模式</item>
+    </plurals>
+    <plurals name="show_nondev_countdown">
+        <item quantity="other">只需 %1$d 步操作即可退出VOIP內測使用者模式</item>
+    </plurals>
+</resources>

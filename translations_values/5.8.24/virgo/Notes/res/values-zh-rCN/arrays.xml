@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>姓名</item>
+        <item>昵称</item>
+        <item>电话</item>
+        <item>邮件</item>
+        <item>公司</item>
+        <item>即时消息</item>
+        <item>网络电话</item>
+        <item>生日</item>
+        <item>网址</item>
+        <item>地址</item>
+        <item>备注</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>小</item>
+        <item>默认</item>
+        <item>大</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"点击新建便签，开始记录吧！
+"</item>
+        <item>"写便签时点击底部按钮，插入图片或清单
+"</item>
+        <item>"在列表长按，可置顶、移动或删除便签
+"</item>
+        <item>"还有更多贴心功能...
+  - 与小米云服务同步
+  - 设置提醒
+
+想要了解更多？去论坛逛逛吧：
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+</resources>

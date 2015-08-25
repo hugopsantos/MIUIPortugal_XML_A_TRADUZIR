@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d封未讀郵件</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">要將這 %1$d 個會話歸檔嗎？</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">要刪除這 %1$d 個會話嗎？</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">會話中包含多封郵件，是否全部刪除？</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">已選擇%d項</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">已將 %1$d 個會話歸檔。</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">已刪除 %1$d 個會話。</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">已更改資料夾。</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">已忽略 %1$d 個會話。</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">已將 %1$d 個會話標記為不重要。</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">已將 %1$d 個會話舉報為非垃圾郵件。</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">已將 %1$d 個會話舉報為網路詐騙。</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">已將 %1$d 個會話舉報為垃圾郵件。</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">草稿</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d封郵件將會永久刪除。</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">移動 %1$d 個會話</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">有%1$d封新郵件。顯示</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">已選擇%d項</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d封較早的郵件</item>
+    </plurals>
+</resources>

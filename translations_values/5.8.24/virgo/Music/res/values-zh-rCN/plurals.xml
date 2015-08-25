@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">共有%d首歌曲</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d天后即将过期</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">将要下载 %d 首歌曲</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">新增%d首</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d首歌曲</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d首相似歌曲</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d 首歌曲已添加到歌单</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d 首歌曲从歌单移除</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d 首歌曲</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d首歌曲已经被选择进行发送</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d 首歌</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">新增%d首本地歌曲</item>
+    </plurals>
+</resources>
