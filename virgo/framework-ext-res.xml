@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
-  <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
-  <string name="fc_dialog_jump_to_preview">View the summary</string>
-  <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">%1$d个主题有更新，快来看看吧</item>
-    </plurals>
-    <plurals name="theme_batch_has_update_text">
-        <item quantity="other">%1$d个主题有新版本</item>
-    </plurals>
-</resources>

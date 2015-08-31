@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="history_details_title">History details</string>
-  <string name="cache_check_content_none">@string/memory_check_content_none</string>
-  <string name="btn_text_power_cleanup">Deep clean</string>
-  <string name="memory_check_content_none">Empty</string>
-</resources>

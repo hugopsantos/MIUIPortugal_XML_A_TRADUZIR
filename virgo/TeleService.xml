@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
-  <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
-  <string name="overseas_roaming_setting">Overseas roaming</string>
-</resources>

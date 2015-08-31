@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="permstep_label">读取步数</string>
-    <string name="permstep_description">允许应用读取手机计步信息。</string>
-</resources>

@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="delete_backup_title">Delete backup</string>
-  <string name="camera_summary">Camera settings (not including photos)</string>
-</resources>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
-  <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
-  <string name="app_store_install_hint">Install now</string>
-  <string name="app_store_installing_message">Installing…</string>
-  <string name="app_store_missing_title">"App Store isn't installed"</string>
-</resources>
