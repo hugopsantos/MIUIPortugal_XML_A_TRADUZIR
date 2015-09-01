@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="cloud_sync_setting_summary_standard">Utilizar dados móveis para sincronizar contactos, mensagens, histórico de chamadas, notas, definições Wi-Fi, dados no navegador e playlists</string>
-  <string name="only_in_wlan">Desligado</string>
-  <string name="sync_setting">Utilização de dados móveis</string>
-  <string name="voip_dspt">Voz Mi</string>
-  <string name="sync_standard">Histórico de mensagens e chamadas</string>
-  <string name="cloud_sync_setting_summary_wlan">Sincronizar dados quando ligado a rede Wi-Fi</string>
-</resources>
