@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="vp_media_type_banned">This type of media cannot be supported</string>
+  <string name="vp_media_type_banned">Este formato não é suportado</string>
 </resources>

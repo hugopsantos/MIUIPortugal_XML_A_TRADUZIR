@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="bank_card_account_limit">账户额度</string>
-  <string name="bank_card_action_delete_card">删除此卡</string>
-  <string name="bank_card_action_set_default_card">设置为默认卡</string>
-  <string name="bank_card_choose_valid_date">选择有效期</string>
+  <string name="bank_card_account_limit">Crédito</string>
+  <string name="bank_card_action_delete_card">Apagar cartão</string>
+  <string name="bank_card_action_set_default_card">Definir como pré-definido</string>
+  <string name="bank_card_choose_valid_date">Seleccionar validade</string>
   <string name="bank_card_cvv2">CVV2</string>
   <string name="bank_card_cvv2_hint">卡背面末尾三位数</string>
   <string name="bank_card_default_card_have_been_set">该卡已经是默认卡片</string>
@@ -47,9 +47,9 @@
   <string name="bank_card_type_ecash">电子现金卡</string>
   <string name="bank_card_unit">张</string>
   <string name="bank_card_valid_date">有效期</string>
-  <string name="bank_card_valid_date_hint">月/年</string>
-  <string name="card_not_supported">暂时不支持此卡</string>
-  <string name="card_num_error">您输入的银行卡格式不正确</string>
-  <string name="hint_card_holder_name">姓名</string>
-  <string name="hint_input_bank_card_num">输入银行卡号</string>
+  <string name="bank_card_valid_date_hint">Mês/Ano</string>
+  <string name="card_not_supported">Cartão não suportado</string>
+  <string name="card_num_error">Formato incorrecto da data</string>
+  <string name="hint_card_holder_name">Nome completo</string>
+  <string name="hint_input_bank_card_num">Insira o cartão do banco</string>
 </resources>

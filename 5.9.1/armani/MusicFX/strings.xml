@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="eq_preset_classical">Classical</string>
-  <string name="eq_preset_dance">Dance</string>
-  <string name="eq_preset_flat">Flat</string>
+  <string name="eq_preset_classical">Clássica</string>
+  <string name="eq_preset_dance">Disco</string>
+  <string name="eq_preset_flat">Plano</string>
   <string name="eq_preset_folk">Folk</string>
   <string name="eq_preset_heavymetal">Heavy Metal</string>
   <string name="eq_preset_hiphop">Hip Hop</string>
