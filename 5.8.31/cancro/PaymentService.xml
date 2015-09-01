@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mibi_enter_failed">Open failed</string>
-  <string name="mibi_bill_menu_delete_item">Delete</string>
-  <string name="mibi_bill_delete_message">Delete “%1$s”?</string>
   <string name="mibi_bill_delete_dialog_title">Delete %1$s</string>
+  <string name="mibi_bill_delete_message">Delete “%1$s”?</string>
+  <string name="mibi_bill_menu_delete_item">Delete</string>
+  <string name="mibi_enter_failed">Open failed</string>
 </resources>
