@@ -10,7 +10,7 @@
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Auriculares de ouvido</string>
   <string name="audio_mode_speaker">Alta-voz</string>
-  <string name="audio_mode_wired_headset">Wired headset</string>
+  <string name="audio_mode_wired_headset">Auriculares com fio</string>
   <string name="badPin">O PIN antigo que digitou não está correcto. Tente novamente.</string>
   <string name="badPin2">O PIN2 antigo que digitou não está correcto. Tente de novo.</string>
   <string name="badPuk2">O PUK2 antigo que digitou não está correcto. Tente de novo.</string>
