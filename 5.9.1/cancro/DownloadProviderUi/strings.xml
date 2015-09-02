@@ -1,39 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="about">Sobre</string>
-  <string name="action_settings">Definições</string>
-  <string name="app_name">Explorador</string>
-  <string name="auth_fail">Não foi possível obter autorização</string>
-  <string name="cancel">Cancelar</string>
   <string name="confirm">OK</string>
-  <string name="create_task">Criar tarefa</string>
-  <string name="do_not_support_url">Este tipo de endereço não é suportado</string>
-  <string name="download_auth">A obter autorização…</string>
-  <string name="downloaded">Transferência concluída</string>
-  <string name="downloading">A transferir…</string>
-  <string name="edit_hint">Insira o endereço (http ou https)</string>
-  <string name="file_picker">Seleccione a localização</string>
-  <string name="input_valid_address">Insira o caminho do ficheiro</string>
-  <string name="install">Instalar</string>
-  <string name="installing">A instalar…</string>
-  <string name="invalid_address">O caminho não é válido</string>
-  <string name="network_error">Não foi possível ligar à rede</string>
-  <string name="new_add">Novo</string>
-  <string name="open">Abrir</string>
-  <string name="paused">Em pausa</string>
   <string name="pref_download_revert_default">Default</string>
-  <string name="pref_download_storage_path">Criar uma nova pasta para as transferências</string>
-  <string name="revert_default">Repor</string>
-  <string name="revert_download_path">Utilizar o localização pré-definida?</string>
-  <string name="save_path">"Guardar transferências em: "</string>
-  <string name="setting_close_debug">Desligar o modo de depuração</string>
-  <string name="setting_debug_fail">Não foi possível entrar no modo de depuração</string>
-  <string name="setting_open_debug">Modo de depuração ligado. Toque aqui 6 vezes para desligar o modo de depuração.</string>
-  <string name="start_analysis">Verificar</string>
-  <string name="start_download">Transferir</string>
-  <string name="starting_analysis">A obter informação…</string>
-  <string name="storage_internal">Armazenamento interno</string>
-  <string name="storage_sd_card">Cartão SD</string>
-  <string name="storage_usb">Armazenamento USB</string>
-  <string name="version">Versão %s</string>
 </resources>
