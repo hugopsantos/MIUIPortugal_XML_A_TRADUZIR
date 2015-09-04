@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
+  <string name="bottom_bar_more_share">Share</string>
+  <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
+</resources>
