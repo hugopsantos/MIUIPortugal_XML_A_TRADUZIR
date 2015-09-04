@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
+  <string name="notify_need_on_BT_before_retry">Bluetooth is Off. Please enable Bluetooth before retry sending</string>
+  <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering disconnected</string>
+  <string name="panu_no_need_connect">Unable to use Bluetooth tethering while connected to WLAN</string>
+  <string name="sim_selected_dialog_title">Select SIM</string>
+  <string name="suggested">Suggested</string>
+  <string name="too_much_file_sent">Maximum %1$s files one time</string>
+</resources>
