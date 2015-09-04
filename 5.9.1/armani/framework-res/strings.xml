@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="global_action_reboot_summary">Close all apps and restart phone</string>
-  <string name="reboot_title">Restart phone?</string>
-  <string name="storage_external_usb">External USB storage</string>
-  <string name="storage_ic_usb1">External IC-USB storage1</string>
-  <string name="storage_ic_usb2">External IC-USB storage2</string>
-  <string name="storage_phone">Phone storage</string>
+  <string name="global_action_reboot_summary">Fechar todas as aplicações e reiniciar o telefone</string>
+  <string name="reboot_title">Reiniciar o telefone?</string>
+  <string name="storage_external_usb">Armazenamento externo USB</string>
+  <string name="storage_ic_usb1">Armazenamento externo IC-USB 1</string>
+  <string name="storage_ic_usb2">Armazenamento externo IC-USB 2</string>
+  <string name="storage_phone">Armazenamento do telefone</string>
 </resources>
