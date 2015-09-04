@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="msim_disable_sim_card_btn_text">OK</string>
+  <string name="msim_disable_sim_card_summary_default_card">"This card is currently set as your default SIM. If you stop using it, you won't be able to make calls or use your mobile data connection.You can stop this SIM card after setting another SIM as your default card."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">You may not be able to make calls or use your mobile data connection. Stop using %s SIM card?</string>
+  <string name="msim_disable_sim_card_title">Stop using SIM card</string>
+  <string name="msim_has_been_disabled">(Disabled)</string>
+  <string name="overseas_roaming_setting">Overseas roaming</string>
+</resources>

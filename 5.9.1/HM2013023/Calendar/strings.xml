@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="alert_reminder_divider">|</string>
+  <string name="alert_reminder_expired">Expired</string>
+  <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
+  <string name="event_info_reminders_label_1">Reminder</string>
+  <string name="event_info_reminders_label_more">Reminder %d</string>
+  <string name="notice_button_ok">Agree</string>
+  <string name="notice_button_ok_and_go_on">同意并继续</string>
+  <string name="notice_title_agreement">声明与条款</string>
+  <string name="notice_title_request">Request</string>
+  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+  <string name="topic_dialog_title">退订订阅</string>
+  <string name="travel_airport">Airport</string>
+  <string name="travel_carriage_number_text">Car</string>
+  <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
+  <string name="travel_ets_advice">Drive to %2$s before %1$s.</string>
+  <string name="travel_event_add_successfully">Event created</string>
+  <string name="travel_event_add_unsuccessfully">"Couldn't create event"</string>
+  <string name="travel_event_added">Event created</string>
+  <string name="travel_event_delete_successfully">Event deleted</string>
+  <string name="travel_event_delete_unsuccessfully">"Couldn't delete event"</string>
+  <string name="travel_event_title_flight">Flight: %1$s-%2$s %3$s</string>
+  <string name="travel_event_title_train">Train: %1$s-%2$s %3$s</string>
+  <string name="travel_event_title_train_only_dep">Train: %1$s %2$s</string>
+  <string name="travel_item_hotel">Hotel</string>
+  <string name="travel_item_reminder">Reminder</string>
+  <string name="travel_item_reminder_overdue">Attention</string>
+  <string name="travel_item_trafic">Traffic</string>
+  <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
+  <string name="travel_item_weather_forecast">Destination forecast</string>
+  <string name="travel_item_weather_now">Destination weather</string>
+  <string name="travel_load_failed">"Couldn't load"</string>
+  <string name="travel_loaded">Powered by Veryzhun</string>
+  <string name="travel_loading">Just a sec…</string>
+  <string name="travel_local">Destination</string>
+  <string name="travel_notice_message">Calendar needs to connect to the internet and access your location in order to display travel information.</string>
+  <string name="travel_seat_number_text">Seat</string>
+  <string name="travel_train_number_text">Train</string>
+  <string name="travel_train_station">Train station</string>
+</resources>

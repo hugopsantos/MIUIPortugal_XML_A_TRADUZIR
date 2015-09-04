@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
+  <string name="online_music_enabled_summary">Listen and download your favorite songs. View billboard charts and curated playlists wherever you go!</string>
+  <string name="online_music_enabled_title">Free streaming is here</string>
+</resources>

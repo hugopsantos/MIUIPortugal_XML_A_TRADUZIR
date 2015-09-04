@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
+  <string name="button_confirm">Allow</string>
+  <string name="button_exit">Exit</string>
+</resources>

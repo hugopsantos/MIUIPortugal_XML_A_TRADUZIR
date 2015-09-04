@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="button_download_now">Download now</string>
+  <string name="button_wait_for_wifi">Wait</string>
+  <string name="enter_garbage_clean">Clean up internal storage.</string>
+  <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
+  <string formatted="false" name="recommended_file_more_in_mobile">Using your mobile data connection to download these %s files (%s ) will increase your mobile data usage.</string>
+  <string name="recommended_file_one_in_mobile">Using your mobile data connection to download this file (%s ) will increase your mobile data usage.</string>
+  <string formatted="false" name="recommended_file_size_download_in_mobile">"You're not connected to WLAN at the moment. %s
+
+Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
+  <string formatted="false" name="recommended_no_file_size_download_in_mobile">"Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
+</resources>

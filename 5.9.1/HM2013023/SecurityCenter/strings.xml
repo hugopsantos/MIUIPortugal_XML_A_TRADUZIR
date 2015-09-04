@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="antivirus_choose_engine">Use definitions from %s</string>
+  <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
+  <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
+  <string name="antivirus_choose_engine_settings">Virus definition settings</string>
+  <string name="antivirus_choose_engine_title">Definitions</string>
+  <string name="antivirus_more_engine_dialog_summary">Using multiple sets of definitions to scan may take more time.</string>
+  <string name="antivirus_more_engine_dialog_title">Attention</string>
+  <string name="antivirus_none_engine_dialog_ok">OK</string>
+  <string name="antivirus_none_engine_dialog_title">Choose definitions</string>
+  <string name="antivirus_privacy_dialog_cloudscan">Upload app names and details</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Upload and scan app names and details using online virus definitions.</string>
+  <string name="antivirus_privacy_dialog_ok">OK</string>
+  <string name="antivirus_privacy_dialog_summary">"This feature encrypts and uploads your device's ID to AVL and Tencent's servers (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary_link">view Privacy Policy</string>
+  <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
+  <string name="antivirus_update_db">%s</string>
+  <string name="battery_stats_charging_label">Charging</string>
+  <string name="battery_stats_gps_on_label">GPS</string>
+  <string name="battery_stats_on_battery">%1$s remaining</string>
+  <string name="battery_stats_phone_signal_label">Mobile network signal</string>
+  <string name="battery_stats_screen_on_label">Display</string>
+  <string name="battery_stats_wake_lock_label">Awake</string>
+  <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+  <string name="boot_time_day_tomorrow">Power on: %1$s</string>
+  <string name="btn_text_power_cleanup">Deep clean</string>
+  <string name="cache_check_content_none">@string/memory_check_content_none</string>
+  <string name="descx_quick_scan_preparation">Just a sec…</string>
+  <string name="history_details_title">History details</string>
+  <string name="memory_check_content_none">Empty</string>
+  <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
+  <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
+  <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
+  <string name="shutdown_time_day_tomorrow">Power off: %1$s</string>
+</resources>
