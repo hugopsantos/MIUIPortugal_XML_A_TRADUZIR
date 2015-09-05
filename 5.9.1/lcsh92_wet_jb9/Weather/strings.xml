@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="activity_main_refresh_fail">Não é possível ligar à rede</string>
-  <string name="button_allow">Permitir</string>
-  <string name="button_exit">Sair</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">Este cartão SIM está é o pré-definido. Se parar de utilizar não poderá efectuar chamadas nem utilizar os dados móveis. Pode parar de utilizar este cartão SIM depois de pré-definir outro cartão SIM.</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Não poderá efectuar chamadas, nem utilizar os dados móveis. Parar de utilizar o cartão SIM %s?</string>
-  <string name="msim_disable_sim_card_title">Parar de utilizar o cartão SIM</string>
-  <string name="msim_has_been_disabled">(Desligado)</string>
-  <string name="overseas_roaming_setting">Roaming internacional</string>
-</resources>

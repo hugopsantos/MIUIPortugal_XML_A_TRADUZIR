@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="notify_device_lose_connection_text">Pressione para desemparelhar %1$s</string>
-  <string name="notify_device_lose_connection_title">O dispositivo %1$s perdeu a ligação</string>
-  <string name="unbind_device_alert_cancel">Cancelar</string>
-  <string name="unbind_device_alert_content">O dispositivo %1$s perdeu ligação. Desemparelhar para poupar bateria?</string>
-  <string name="unbind_device_alert_ok">Desemparelhar</string>
-  <string name="unbind_device_alert_title">Desemparelhar dispositivo</string>
-</resources>
