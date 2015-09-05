@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="searchable_lable_app">app</string>
-  <string name="searchable_lable_browser">browser</string>
-  <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">music</string>
-  <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">video</string>
+  <string name="searchable_lable_app">Apps</string>
+  <string name="searchable_lable_browser">Naveg.</string>
+  <string name="searchable_lable_duokan">Duokan</string>
+  <string name="searchable_lable_music">Música</string>
+  <string name="searchable_lable_o2o">O2O</string>
+  <string name="searchable_lable_video">Vídeo</string>
   <string name="searchable_sources">Online</string>
 </resources>

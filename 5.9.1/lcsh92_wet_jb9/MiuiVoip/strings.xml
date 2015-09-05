@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="notification_activate_failed">"Can't activate Mi Voice."</string>
-  <string name="user_agreement">Private Policy</string>
+  <string name="notification_activate_failed">Não é possível activar o MiVoip</string>
+  <string name="user_agreement">Política de Privacidade</string>
 </resources>

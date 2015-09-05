@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="button_confirm">Allow</string>
-  <string name="button_exit">Exit</string>
+  <string name="button_allow">Permitir</string>
+  <string name="button_exit">Sair</string>
 </resources>

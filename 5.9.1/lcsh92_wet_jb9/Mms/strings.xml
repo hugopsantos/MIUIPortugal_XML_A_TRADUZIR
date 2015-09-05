@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="exceed_message_text_limitation">Message text length limit reached.</string>
+  <string name="exceed_message_text_limitation">Atingiu o limite de comprimento do texto das mensagens.</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
-  <string name="msg_type_hint_mx_omit">Mi Msg</string>
+  <string name="msg_type_hint_mx_omit">Mensagens Mi</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
-  <string name="mx_activate_dlg_title_ex">Activate Mi Message &amp; Voice</string>
-  <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
-  <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
-  <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
-  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
-  <string name="mx_dspt_provision_ex2">Privacy Policy</string>
-  <string name="mx_enable_ex">Mi Message &amp; Voice</string>
-  <string name="pref_show_sms_template_in_summary">Automatically detect OTP in SMS messages</string>
-  <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
-  <string name="security_alert_desc_highlight">Report this number</string>
-  <string name="title_show_sms_template_in">Check SMS for OTP</string>
-  <string name="voip_enable">Mi Message and Voice</string>
-  <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
-  <string name="voip_enable_popup_msg2">Privacy Policy</string>
+  <string name="mx_activate_dlg_title_ex">Activar mensagens Mi e voz</string>
+  <string name="mx_and_voip_enable">Mensagens e voz Mi</string>
+  <string name="mx_and_voip_enable_popup_msg">Enviar mensagens e efectuar chamadas gratuitas para outros utilizadores MIUI. O voIP é suportado pela Weihui. Ver política de privacidade Weihui.</string>
+  <string name="mx_and_voip_enable_popup_msg2">Politica de privacidade</string>
+  <string name="mx_dspt_provision_ex">Enviar mensagens e fazer chamadas para outros utilizadores MIUI sem ter encargos com a sua operadora. VoIP é apoiado pela Política de Privacidade Weihui. Ver Weihui.</string>
+  <string name="mx_dspt_provision_ex2">Polilica e privacidade</string>
+  <string name="mx_enable_ex">Mensagem Mi e voz</string>
+  <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
+  <string name="pref_time_auto_group_disabled_summary">Não é suportado no tamanho actual do texto</string>
+  <string name="security_alert_desc_highlight">Reportar este número</string>
+  <string name="title_show_sms_template_in">Verificar OTP nas SMS</string>
+  <string name="voip_enable">Mensagens e voz Mi</string>
+  <string name="voip_enable_popup_msg">Efectuar chamadas gratuitas para outros utilizadores MIUI. O voIP é suportado pela Weihui. Ver política de privacidade Weihui.</string>
+  <string name="voip_enable_popup_msg2">Política de privacidade</string>
 </resources>

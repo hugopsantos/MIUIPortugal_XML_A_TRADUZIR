@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
-  <string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
-  <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
-  <string name="fc_dialog_jump_to_preview">View the summary</string>
-  <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
-  <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
-  <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
-  <string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
-  <string name="international_livetalk_enable">Use top-up packages for international calls</string>
-  <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
-  <string name="location_usage_restricted_body">Touch to remove restriction.</string>
-  <string name="location_usage_restricted_title">Background location restricted</string>
-  <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
-  <string name="permlab_manageLocationPolicy">manage location policy</string>
+  <string name="all_call_livetalk_enable">Utilizar pacotes top-up para chamadas domésticas e internacionais</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s doméstico) | %2$s (%3$s)</string>
+  <string name="fc_dialog_body">Enviar relatório de erro para a Mi para análise? Este relatório pode ter informações pessoais Informações de identificação. O relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado para fins comerciais.</string>
+  <string name="fc_dialog_jump_to_preview">Ver resumo</string>
+  <string name="handy_mode_enter_dlg_msg">Entrar no modo de uma mão?</string>
+  <string name="handy_mode_enter_dlg_title">Modo de uma mão</string>
+  <string name="internal_livetalk_enable">Utilizar pacotes top-up para chamadas domésticas</string>
+  <string name="internal_remain_mins">%1$s minutos restantes (chamadas domésticas)</string>
+  <string name="international_livetalk_enable">Utilizar pacotes top-up para chamadas internacionais</string>
+  <string name="international_remain_mins">%1$s minutos restantes (%2$s chamadas)</string>
+  <string name="location_usage_restricted_body">Pressione para remover restrição.</string>
+  <string name="location_usage_restricted_title">Localização restrita em segundo plano</string>
+  <string name="permdesc_manageLocationPolicy">Permitir a uma aplicação gerir as politicas de localização e definir regras específicas de aplicações.</string>
+  <string name="permlab_manageLocationPolicy">gerir política de localização</string>
 </resources>

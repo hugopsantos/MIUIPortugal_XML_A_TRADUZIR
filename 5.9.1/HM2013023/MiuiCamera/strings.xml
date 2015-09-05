@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="camera_snap_mode_title">Quick snap mode</string>
-  <string name="camera_snap_mode_title_detail">Tap to view details</string>
-  <string name="confirm_recording_fail_calling_alert">"Can't record during call."</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">"Another app may already be using the device's microphone to record."</string>
-  <string name="confirm_recording_fail_title">"Can't record"</string>
-  <string name="pref_camera_delay_capture_entry_off">Off</string>
-  <string name="pref_camera_snap_enable_summary">When the display is off, press &amp; hold the Volume Down button to enter Quick snap mode. Press it again to take a photo.</string>
-  <string name="pref_camera_snap_enable_title">Quick snap mode</string>
+  <string name="camera_snap_mode_title">Modo de foto rápida</string>
+  <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
+  <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Já está outra aplicação a usar o microfone do dispositivo para gravar.</string>
+  <string name="confirm_recording_fail_title">Não é possível gravar</string>
+  <string name="pref_camera_delay_capture_entry_off">Desligado</string>
+  <string name="pref_camera_snap_enable_summary">Quando o ecrã está desligado, pressione e mantenha pressionado o botão de baixar o volume para entrar no modo de foto rápida. Pressione novamente para tirar a foto.</string>
+  <string name="pref_camera_snap_enable_title">Modo de foto rápida</string>
   <string name="pref_front_camera_delay_capture_default">-1</string>
 </resources>

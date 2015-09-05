@@ -3,7 +3,7 @@
   <string name="mipay_add_debit_card">Add debit card</string>
   <string name="mipay_add_debit_card_prompt">"You haven't added any debit cards,Please add one."</string>
   <string name="mipay_add_debit_card_title">Add debit card</string>
-  <string name="mipay_agree">Agree</string>
+  <string name="mipay_agree">Concordo</string>
   <string name="mipay_amount_unit">Amount(RMB)</string>
   <string name="mipay_bank_card_bind_card_info">Enter bank card info</string>
   <string name="mipay_bank_card_bind_credit_title">Add credit card</string>
@@ -13,7 +13,7 @@
   <string name="mipay_bank_card_card_owner">Cardholder</string>
   <string name="mipay_bank_card_credit_hint">Enter credit account number</string>
   <string name="mipay_bank_card_debit_hint">Enter debit account number</string>
-  <string name="mipay_bank_card_info">%1$s %2$s Card no. %3$s</string>
+  <string name="mipay_bank_card_info">%1$s %2$s Card no. %3$s</string>
   <string name="mipay_bank_card_info_bind_now">Bind</string>
   <string name="mipay_bank_card_info_hint">Add bank card for more convenience pay experience</string>
   <string name="mipay_bank_card_type_all">Use new bank card</string>
@@ -140,7 +140,7 @@
   <string name="mipay_find_password">Find payment password</string>
   <string name="mipay_license_message">"You're about to use Mi Wallet, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. You need an internet connection, location and reading contact to use Mi Wallet."</string>
   <string name="mipay_license_message_span">Mi Wallet User Agreement</string>
-  <string name="mipay_license_title">Terms and conditions</string>
+  <string name="mipay_license_title">Termos e condições</string>
   <string name="mipay_money_flow_amount">%1$s%2$s</string>
   <string name="mipay_money_flow_in">+</string>
   <string name="mipay_money_flow_out">-</string>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="default_cp_name">Qingting FM</string>
-  <string name="multi_subscriptions_subtitle_title">Tap to listen %1$s/%2$s.</string>
-  <string name="multi_subscriptions_title">%1$d subscriptions updated</string>
-  <string name="one_subscription_title">%1$s updated</string>
+  <string name="default_cp_name">FM Qingting</string>
+  <string name="multi_subscriptions_subtitle_title">Pressione para %1$s/%2$s.</string>
+  <string name="multi_subscriptions_title">%1$d assinaturas actualizadas</string>
+  <string name="one_subscription_title">%1$s actualizado</string>
 </resources>

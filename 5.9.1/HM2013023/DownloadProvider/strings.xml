@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="button_download_now">Download now</string>
-  <string name="button_wait_for_wifi">Wait</string>
-  <string name="enter_garbage_clean">Clean up internal storage.</string>
-  <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
-  <string formatted="false" name="recommended_file_more_in_mobile">Using your mobile data connection to download these %s files (%s ) will increase your mobile data usage.</string>
-  <string name="recommended_file_one_in_mobile">Using your mobile data connection to download this file (%s ) will increase your mobile data usage.</string>
-  <string formatted="false" name="recommended_file_size_download_in_mobile">"You're not connected to WLAN at the moment. %s
+  <string name="button_download_now">Transferir agora</string>
+  <string name="button_wait_for_wifi">Aguarde</string>
+  <string name="enter_garbage_clean">Limpar armazenamento interno.</string>
+  <string name="insufficient_space">Não há espaço suficiente no armazenamento interno do dispositivo</string>
+  <string formatted="false" name="recommended_file_more_in_mobile">Utilizar dados móveis para transferir estes %s ficheiros (%s ) irá aumentar o consumo de dados móveis.</string>
+  <string name="recommended_file_one_in_mobile">Utilizar dados móveis para transferir este ficheiro (%s ) irá aumentar o consumo de dados móveis.</string>
+  <string formatted="false" name="recommended_file_size_download_in_mobile">"Neste momento não está ligado à rede Wi-Fi. %s
 
-Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
-  <string formatted="false" name="recommended_no_file_size_download_in_mobile">"Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
+Não foi possível obter a informação do tamanho do ficheiro. Para utilizar os dados móveis para transferir este ficheiros pressione %s. Para aguardar e transferir o ficheiro quando estiver ligado à rede Wi-Fi pressione %s."</string>
+  <string formatted="false" name="recommended_no_file_size_download_in_mobile">Não foi possível obter a informação do tamanho do ficheiro. Para utilizar os dados móveis para transferir este ficheiros pressione %s. Para aguardar e transferir o ficheiro quando estiver ligado à rede Wi-Fi pressione %s.</string>
 </resources>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="miuishare_account_activate_confirmation">Activation required</string>
-  <string name="miuishare_account_activate_ok">Activate</string>
-  <string name="miuishare_account_login_cancel">Cancel</string>
-  <string name="miuishare_account_login_confirmation">Signing in required</string>
-  <string name="miuishare_account_login_ok">Sign in</string>
-  <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
-  <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">No network for share</string>
-  <string name="miuishare_publish">Send</string>
-  <string name="miuishare_share_done">Share content is sent.</string>
-  <string name="miuishare_share_editor_title">Share</string>
-  <string name="miuishare_title_more">More</string>
-  <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_account_activate_confirmation">Tem que activar</string>
+  <string name="miuishare_account_activate_ok">Activar</string>
+  <string name="miuishare_account_login_cancel">Cancelar</string>
+  <string name="miuishare_account_login_confirmation">Tem que iniciar sessão</string>
+  <string name="miuishare_account_login_ok">Iniciar sessão</string>
+  <string name="miuishare_account_need_activate">A partilha Weibo necessita que a sua conta Weibo esteja ligada à conta Xiaomi, quando não tem sessão iniciada. Active a sua conta?</string>
+  <string name="miuishare_account_need_login">A partilha Weibo necessita que a sua conta Weibo esteja ligada à conta Xiaomi, quando tem sessão iniciada. Iniciar sessão para partilhar?</string>
+  <string name="miuishare_app_name">PartilhaMiui</string>
+  <string name="miuishare_no_network">Sem rede para partilhar</string>
+  <string name="miuishare_publish">Enviar</string>
+  <string name="miuishare_share_done">O conteúdo partilhado foi enviado.</string>
+  <string name="miuishare_share_editor_title">Partilhar</string>
+  <string name="miuishare_title_more">Mais</string>
+  <string name="miuishare_title_share">Partilhar</string>
+  <string name="miuishare_wechat_timeline_title">Tempo usado em Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
 </resources>
