@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mipay_balance_history_empty_no_more">No more receipts</string>
+  <string name="mipay_check_password_hint">Please enter six digits</string>
+  <string name="mipay_find_password_bind_card">To reset password, enter bank card account number.</string>
+  <string name="mipay_find_password_check_bank_card_info">To reset password, enter the detail information about this bank card</string>
+  <string name="mipay_find_password_select_card">To reset password, select a bank card account number.</string>
+  <string name="mipay_login_error_img_captcha_code">Please check your captcha code</string>
+  <string name="mipay_login_error_password">Please check your Xiaomi account password</string>
+  <string name="mipay_login_img_captcha_hint">Please enter the image verification code</string>
+  <string name="mipay_login_password_summary">Please enter your Xiaomi account password</string>
+  <string name="mipay_ocr_flash_text">Turn on flash</string>
+  <string name="mipay_ocr_info_dialog_button_text">Known</string>
+  <string name="mipay_ocr_info_dialog_content">"For security of your account, please only bind your own bankcard.
+For further questions, please call Xiaomi customer service:"</string>
+  <string name="mipay_ocr_info_dialog_title">Cardholder introduction</string>
+  <string name="mipay_ocr_next">Next</string>
+  <string name="mipay_rescan_bankcard_tip">Click on any region to scan again</string>
+  <string name="mipay_scan_bankcard_info">Put card face up and align the edges</string>
+  <string name="mipay_scan_bankcard_tip">Match your card with the outline</string>
+  <string name="mipay_scan_bankcard_title">Scan your bank card</string>
+  <string name="mipay_transfer_history_empty_no_more">No more transfer record</string>
+</resources>

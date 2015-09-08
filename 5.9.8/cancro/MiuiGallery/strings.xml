@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="associate_face_album">Pick a face album</string>
+  <string name="auto_update_face">Add photos automatically</string>
+  <string name="auto_update_face_summary">Automatically match and add photos to baby album</string>
+  <string name="auto_update_off">Off</string>
+  <string name="auto_update_on">On</string>
+  <string name="need_to_turn_on_sync">Click to turn on Mi Cloud</string>
+  <string name="sync_ok">sync ok</string>
+</resources>

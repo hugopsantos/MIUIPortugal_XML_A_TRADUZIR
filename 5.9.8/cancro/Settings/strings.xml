@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="layout_size_exhuge_text">XXL</string>
+  <string name="layout_size_huge_text">Extra large</string>
+  <string name="layout_size_large_text">Large</string>
+  <string name="layout_size_medium_text">Medium</string>
+  <string name="layout_size_normal_text">Small</string>
+  <string name="layout_size_small_text">Extra small</string>
+  <string name="page_layout_godzilla_title">XXL</string>
+  <string name="page_layout_huge_title">Extra large</string>
+  <string name="page_layout_large_title">Large</string>
+  <string name="page_layout_medium_title">Medium</string>
+  <string name="page_layout_normal_title">Small</string>
+  <string name="page_layout_page2_godzilla_summary">XXL</string>
+  <string name="page_layout_page2_godzilla_title">XXL</string>
+  <string name="page_layout_page2_huge_summary">Extra large</string>
+  <string name="page_layout_page2_huge_title">Extra large</string>
+  <string name="page_layout_page2_large_summary">Large</string>
+  <string name="page_layout_page2_large_title">Large</string>
+  <string name="page_layout_page2_medium_summary">Medium</string>
+  <string name="page_layout_page2_medium_title">Medium</string>
+  <string name="page_layout_page2_normal_summary">Small</string>
+  <string name="page_layout_page2_normal_title">Small</string>
+  <string name="page_layout_page2_small_summary">Extra small</string>
+  <string name="page_layout_page2_small_title">Extra small</string>
+  <string name="page_layout_page2_title">Preview</string>
+  <string name="page_layout_small_title">Extra small</string>
+</resources>
