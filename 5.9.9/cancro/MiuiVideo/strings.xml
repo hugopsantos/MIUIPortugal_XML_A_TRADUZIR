@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="vp_play_youku_failed_get_video_info">"Couldn't get video info"</string>
-  <string name="vp_play_youku_time_out">Connection timed out</string>
+  <string name="vp_play_youku_failed_get_video_info">Não foi possível obter a informação do vídeo</string>
+  <string name="vp_play_youku_time_out">A ligação terminou</string>
 </resources>
