@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mibi_img_captcha_hint">Enter image captcha</string>
-  <string name="mipay_account_confirm_text">Will pay with xiaomi account:%1$s</string>
-  <string name="mipay_account_confirm_title">Xiaomi Account Payment Confirmation</string>
-  <string name="mipay_cancel_button_text">Cancel</string>
-  <string name="mipay_confirm_button_text">Confirm</string>
+  <string name="mibi_img_captcha_hint">Insira a imagem captcha</string>
+  <string name="mipay_account_confirm_text">Vai pagar com a conta Xiaomi:%1$s</string>
+  <string name="mipay_account_confirm_title">Confirmação de pagamento da Conta Xiaomi</string>
+  <string name="mipay_cancel_button_text">Cancelar</string>
+  <string name="mipay_confirm_button_text">Confirma</string>
 </resources>
