@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="passport_forget_password_no_underline">Forgot password</string>
+  <string name="passport_login_short">Sign in</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="reboot_info_auto_boot">Your phone will boot at %s due to auto boot schedule</string>
+  <string name="reboot_info_shutdown_alarm">Your phone will boot and alarm at %s</string>
+</resources>
