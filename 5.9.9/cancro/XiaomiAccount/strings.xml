@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+<<<<<<< HEAD
   <string name="passport_forget_password_no_underline">Esqueceu a palavra-passe</string>
+=======
+  <string name="passport_forget_password_no_underline">Esqueci-me da palavra-passe</string>
+>>>>>>> origin/master
   <string name="passport_login_short">Iniciar sessão</string>
 </resources>
