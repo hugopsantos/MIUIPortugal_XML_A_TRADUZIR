@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mipay_balance_history_empty_no_more">Não existem mas recibos</string>
+  <string name="mipay_balance_history_empty_no_more">Não existem mais recibos</string>
   <string name="mipay_check_password_hint">Insira seis digitos</string>
   <string name="mipay_find_password_bind_card">Insira o número do cartão para restaurar a palavra-passe.</string>
   <string name="mipay_find_password_check_bank_card_info">Insira as informações do cartão para repor a palavra-passe</string>
