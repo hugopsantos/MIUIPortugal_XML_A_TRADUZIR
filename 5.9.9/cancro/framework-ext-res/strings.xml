@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="reboot_info_auto_boot">O telefone irá ligar às %s, conforme definido</string>
-  <string name="reboot_info_shutdown_alarm">O telefone irá ligar e tocar o alarme às %s</string>
-</resources>
