@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-<<<<<<< HEAD
   <string name="validity_unknown">Expiração desconhecida</string>
-=======
   <string name="validity_unknown">Validade desconhecida</string>
->>>>>>> origin/master
 </resources>
