@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="validity_unknown">Expiration unknown</string>
+  <string name="validity_unknown">Expiração desconhecida</string>
 </resources>

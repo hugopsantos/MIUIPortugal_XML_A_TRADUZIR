@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="event_desc">Event Info</string>
-  <string name="feedback">Feedback</string>
-  <string name="my_purchased">Purchased</string>
-  <string name="packages_sell_out_msg">"Top-up packages sold out.
-Try again later."</string>
-  <string name="purchased_by_day">Purchased By Day</string>
-  <string name="purchased_by_package">Purchased By Package</string>
-  <string name="see_history_order">Purchase history</string>
-  <string name="sim_store">Store</string>
-  <string name="take_in">Take Part In</string>
+  <string name="event_desc">Informação do evento</string>
+  <string name="feedback">Comentários</string>
+  <string name="my_purchased">Comprar</string>
+  <string name="packages_sell_out_msg">"Pacotes vendidos fora.
+Tente mais tarde."</string>
+  <string name="purchased_by_day">Comprado por dia</string>
+  <string name="purchased_by_package">Comprado por pacote</string>
+  <string name="see_history_order">Histórico de compras</string>
+  <string name="sim_store">Armazenar</string>
+  <string name="take_in">Tomar parte em</string>
 </resources>
