@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="media_info_audio_not_supported">Failed to play audio.</string>
+  <string name="media_info_video_not_supported">This video is not supported.</string>
+  <string name="storage_external_usb">External USB storage</string>
+  <string name="storage_ic_usb1">External IC-USB storage1</string>
+  <string name="storage_ic_usb2">External IC-USB storage2</string>
+  <string name="storage_phone">Phone storage</string>
+</resources>
