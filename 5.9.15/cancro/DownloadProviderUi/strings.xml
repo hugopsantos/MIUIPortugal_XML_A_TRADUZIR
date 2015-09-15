@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="quit_btn">Exit</string>
+  <string name="rebind_btn">Add again</string>
+  <string name="title_tips">Attention</string>
+  <string name="title_unbind_xunlei">Remove your Xunlei Account</string>
+  <string name="xiaomi_account_not_exist_message">"This Mi Account doesn't exist"</string>
+  <string name="xunlei_account_has_unbind_message">Xunlei Account removed</string>
+</resources>

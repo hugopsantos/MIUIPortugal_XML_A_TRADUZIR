@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="confirm_clean">Clean up</string>
+  <string name="decompress_encrypted_rar_not_supported">The encrypted rar file is not supported.</string>
+  <string name="decompress_input_password">Please input password…</string>
+  <string name="decompress_password_error">Password is error. Please try again…</string>
+  <string name="decompress_title">Extract</string>
+  <string name="storage_info_detail">Available:%1$s Total:%1$s</string>
+  <string name="title_select_volume">Select Volume</string>
+</resources>
