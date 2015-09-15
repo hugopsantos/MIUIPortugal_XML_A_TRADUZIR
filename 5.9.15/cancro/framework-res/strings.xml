@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="permdesc_bindJobService">This permission allows the Android system to run the application in the background when requested.</string>
-  <string name="permlab_bindJobService">"run the application's scheduled background work"</string>
+  <string name="permdesc_bindJobService">Esta permissão permite que quando solicitado o sistema Android corra a aplicação em segundo plano.</string>
+  <string name="permlab_bindJobService">executar a aplicação agendada em segundo plano</string>
 </resources>
