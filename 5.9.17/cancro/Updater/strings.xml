@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="recovery_power_not_enough_msg">Connect charger to update if less than 30% of battery is left</string>
-  <string name="recovery_power_not_enough_title">Low battery</string>
+  <string name="recovery_power_not_enough_msg">Para actualizar, ligue o carregador se a bateria tiver menos de 30%</string>
+  <string name="recovery_power_not_enough_title">Bateria fraca</string>
 </resources>

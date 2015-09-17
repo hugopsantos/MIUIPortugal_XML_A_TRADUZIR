@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="emergency_number_label">Emergency number</string>
-  <string name="in_call_show_preview_reshoot">Retry</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
+  <string name="emergency_number_label">Número de emergência</string>
+  <string name="in_call_show_preview_reshoot">Tentar novamente</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mibi_balance_payment_title">Mi Credit</string>
-  <string name="mibi_direct_pay_group_title">Choose payment method</string>
-  <string name="mibi_direct_pay_novalid_method">No valid payment method.</string>
-  <string name="mibi_direct_payment_title">Order info</string>
-  <string name="mibi_giftcard_payment_with_append">Apply gift certificates</string>
-  <string name="mibi_label_pay_remain">Amount due: %1$s Mi Credits</string>
-  <string name="mibi_password_prompt">To secure your spendings, verify your Mi account</string>
+  <string name="mibi_balance_payment_title">Crédito Mi</string>
+  <string name="mibi_direct_pay_group_title">Seleccione o método de pagamento</string>
+  <string name="mibi_direct_pay_novalid_method">Métode de pagamento inválido.</string>
+  <string name="mibi_direct_payment_title">Informações da encomenda</string>
+  <string name="mibi_giftcard_payment_with_append">Aplicar certificados de oferta</string>
+  <string name="mibi_label_pay_remain">Valor restante: %1$s Créditos Mi</string>
+  <string name="mibi_password_prompt">Verifique a Conta Mi para proteger os gastos</string>
 </resources>
