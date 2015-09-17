@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="recovery_power_not_enough_msg">Para actualizar, ligue o carregador se a bateria tiver menos de 30%</string>
-  <string name="recovery_power_not_enough_title">Bateria fraca</string>
-</resources>
