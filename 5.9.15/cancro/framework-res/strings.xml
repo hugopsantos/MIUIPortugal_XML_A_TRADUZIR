@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="permdesc_bindJobService">Esta permissão permite que quando solicitado o sistema Android corra a aplicação em segundo plano.</string>
-  <string name="permlab_bindJobService">executar a aplicação agendada em segundo plano</string>
-</resources>
