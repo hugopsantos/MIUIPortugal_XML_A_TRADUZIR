@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="sync_battery_low">Low battery</string>
+</resources>
