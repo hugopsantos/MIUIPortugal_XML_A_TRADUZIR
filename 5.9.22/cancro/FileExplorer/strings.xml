@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="data_consumption_cancel">Exit</string>
-  <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+  <string name="data_consumption_cancel">Sair</string>
+  <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
-  <string name="data_consumption_title">Internet connection</string>
-  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
+  <string name="data_consumption_message">Esta aplicação necessita de ligar à internet para funcionar normalmente.</string>
+  <string name="data_consumption_title">Ligação à internet</string>
 </resources>
