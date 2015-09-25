@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">clique no ecrã para parar de tocar</string>
-</resources>
