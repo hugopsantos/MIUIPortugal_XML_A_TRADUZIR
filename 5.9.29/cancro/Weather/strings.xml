@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="act_weather_find_city_china">None</string>
-  <string name="activity_alert_detail_title">None</string>
-  <string name="activity_main_alert">None</string>
-  <string name="activity_main_one_alert">None</string>
-  <string name="edit_alert_city_title">None</string>
+  <string name="act_weather_find_city_china">Nenhum</string>
+  <string name="activity_alert_detail_title">Nenhum</string>
+  <string name="activity_main_alert">Nenhum</string>
+  <string name="activity_main_one_alert">Nenhum</string>
+  <string name="edit_alert_city_title">Nenhum</string>
 </resources>

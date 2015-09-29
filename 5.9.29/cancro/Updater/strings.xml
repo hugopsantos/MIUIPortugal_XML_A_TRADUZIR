@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="install_file_explorer">Install File Explorer first</string>
+  <string name="install_file_explorer">Instalar Explorador primeiro</string>
   <string name="miui_summary_slogan">"  Yours by design  "</string>
-  <string name="miui_summary_updating">"  Updating…  "</string>
+  <string name="miui_summary_updating">"  A actualizar…  "</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="huangli_label">None</string>
-  <string name="repeat_lunar_yearly">None</string>
+  <string name="huangli_label">Nenhum</string>
+  <string name="repeat_lunar_yearly">Nenhum</string>
 </resources>

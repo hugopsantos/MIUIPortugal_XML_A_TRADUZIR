@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="extract">Extract</string>
-  <string name="local_image">Photos</string>
-  <string name="local_music">Music</string>
-  <string name="move_to">Move to…</string>
-  <string name="select_image">Choose photos</string>
-  <string name="select_music">Choose songs</string>
-  <string name="select_video">Choose videos</string>
-  <string name="storage_internal_description">Internal storage</string>
-  <string name="storage_sd_card_description">SD card</string>
-  <string name="storage_usb_description">USB storage</string>
+  <string name="extract">Extrair</string>
+  <string name="local_image">Fotos</string>
+  <string name="local_music">Música</string>
+  <string name="move_to">Mover para…</string>
+  <string name="select_image">Escolher fotos</string>
+  <string name="select_music">Escolher músicas</string>
+  <string name="select_video">Escolher vídeos</string>
+  <string name="storage_internal_description">Armazenamento interno</string>
+  <string name="storage_sd_card_description">Cartão SD</string>
+  <string name="storage_usb_description">Armazenamento USBe</string>
 </resources>
