@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="ir_device_all_ir">全部红外</string>
+  <string name="ir_device_shared">附近可用</string>
+  <string name="jump_to_mivideo">手机播放此节目</string>
+  <string name="share_from_others">来自他人共享，点击即可添加</string>
+  <string name="share_switch">遥控器共享</string>
+  <string name="share_tips">开启后，连接到当前WiFi的用户则无需再次配对</string>
+  <string name="share_to_others">共享给他人</string>
+</resources>

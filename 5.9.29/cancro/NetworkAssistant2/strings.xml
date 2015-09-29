@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="package_change_notification_summary">Tap to learn more.</string>
+  <string name="package_change_notification_title">Adjust data limit automatically</string>
+  <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
+  <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
+</resources>

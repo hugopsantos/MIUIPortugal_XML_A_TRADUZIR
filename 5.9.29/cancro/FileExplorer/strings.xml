@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="extract">Extract</string>
+  <string name="local_image">Photos</string>
+  <string name="local_music">Music</string>
+  <string name="move_to">Move to…</string>
+  <string name="select_image">Choose photos</string>
+  <string name="select_music">Choose songs</string>
+  <string name="select_video">Choose videos</string>
+  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_sd_card_description">SD card</string>
+  <string name="storage_usb_description">USB storage</string>
+</resources>

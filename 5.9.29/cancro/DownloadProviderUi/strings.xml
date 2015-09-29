@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="bt_download">Download</string>
+  <string name="bt_xunlei_open_info">Use Xunlei Engine to open such links?</string>
+  <string name="delete">Delete</string>
+  <string name="deselect_subfile_all">Deselect all</string>
+  <string name="engine_open">Open</string>
+  <string name="extract_file">Unpacking file…</string>
+  <string name="file_exist_hint">This file already exists</string>
+  <string name="hint">Attention</string>
+  <string name="new_add_bt">Add torrent</string>
+  <string name="no_file_hint">Download task for this file already exists</string>
+  <string name="only_support_torrent">Only torrent files are supported</string>
+  <string name="open_vip_hint">Tap to increase download speed by up to 50%</string>
+  <string name="play">Play</string>
+  <string name="select_sub_file_download">Choose a file to download</string>
+  <string name="select_subfile_all">Select all</string>
+  <string name="subbt_downloading">Downloading…</string>
+  <string name="subbt_fail">Failed</string>
+  <string name="subbt_pause">Paused</string>
+  <string name="subbt_wait">Waiting…</string>
+  <string name="task_detail">Tasks</string>
+  <string name="task_detail_notfound_confirm">OK</string>
+  <string name="torrent_file_error">"Couldn't parse this torrent file"</string>
+  <string name="torrent_no_subfile">No subfiles in this torrent</string>
+  <string name="xunlei_open_info">Use Xunlei Engine to open such links?</string>
+</resources>

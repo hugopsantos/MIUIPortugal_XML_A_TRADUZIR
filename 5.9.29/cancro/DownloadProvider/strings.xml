@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mobile_recommended_title">Mobile data usage</string>
+  <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
+</resources>
