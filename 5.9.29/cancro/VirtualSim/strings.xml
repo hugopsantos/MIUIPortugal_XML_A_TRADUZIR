@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="summary_icc_absent">Cartão SIM foi retirado</string>
-  <string name="summary_mipush">Roaming Mi expirou</string>
-  <string name="summary_open_airplane">Modo de Vôo está ligado</string>
-  <string name="title_auto_close">Sim Virtual Desactivado</string>
-</resources>

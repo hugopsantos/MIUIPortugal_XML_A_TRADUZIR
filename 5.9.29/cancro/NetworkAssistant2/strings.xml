@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="package_change_notification_summary">Toque para saber mais.</string>
-  <string name="package_change_notification_title">Ajustar limite de dados automáticamente</string>
-  <string name="package_setted_error_notification_summary">Toque para ver detalhes da utilização de dados.</string>
-  <string name="package_setted_error_notification_titile">"Não foi possível definir um plano de dados"</string>
-</resources>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="error_type_account_inner">Erro interno</string>
-  <string name="not_activate_sim_card_content_title">"Número de telefone não foi verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada em vez. A sua operadora irá cobrá-lo por esta chamada."</string>
-  <string name="not_sufficient_funds_content_title">Fundos insuficientes</string>
-  <string name="not_supported_number_content_title">Não suportado</string>
-</resources>
