@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="aqi_quality_index_break">AQI %1$s</string>
+  <string name="aqi_quality_index_dangerous">AQI %1$s</string>
+  <string name="aqi_quality_index_good">AQI %1$s</string>
+  <string name="aqi_quality_index_hazardous">AQI %1$s</string>
+  <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
+  <string name="aqi_quality_index_moderate">AQI %1$s</string>
+  <string name="aqi_quality_index_pure">AQI %1$s</string>
+  <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="clear_most_visited">Record history</string>
+  <string name="homepage_delete_card_menu">Delete</string>
+  <string name="homepage_get_location">Get location</string>
+  <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
+  <string name="homepage_more_cards">More cards</string>
+  <string name="homepage_more_sites">More websites</string>
+  <string name="homepage_search_hint">Search</string>
+  <string name="homepage_top_card_menu">Top</string>
+  <string name="nav_bottom_bar_back">Back</string>
+  <string name="nav_bottom_bar_close_all">Close all</string>
+  <string name="nav_bottom_bar_new_tab">New tab</string>
+  <string name="nav_screen_container_tab_incognito">Incognito tab</string>
+  <string name="nav_screen_container_tab_normal">Regular tab</string>
+  <string name="pref_category_hint">Category</string>
+  <string name="pref_enable_news">News Alerts</string>
+  <string name="pref_enable_novels">Novels Alerts</string>
+  <string name="pref_enable_videos">Videos Alerts</string>
+  <string name="pref_notifications_hint">Notifications</string>
+  <string name="pref_notifications_receive">New Notification Alerts</string>
+  <string name="pref_notifications_title">Notifications</string>
+  <string name="search_sm">SM</string>
+  <string name="url_hint_from_search">Enter the keyword</string>
+</resources>
