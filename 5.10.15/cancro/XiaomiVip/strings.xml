@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="start_activity_error">"Can't launch app: %s"</string>
+  <string name="start_activity_error">"Não foi possível iniciar a aplicação: %s"</string>
 </resources>
