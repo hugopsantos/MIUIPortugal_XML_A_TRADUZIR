@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="actor">Actor</string>
+  <string name="actor_intro">About</string>
+  <string name="alertdialog_downapp_btn_back">Back</string>
+  <string name="birthday">Birthday</string>
+  <string name="hometown">Hometown</string>
+  <string name="other_info">Other</string>
+  <string name="vp_time_separator">/</string>
+</resources>

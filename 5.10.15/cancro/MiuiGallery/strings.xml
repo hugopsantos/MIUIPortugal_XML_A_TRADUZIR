@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="baby_album_new_photo_remind">There are new photos in your baby album.</string>
+  <string name="baby_album_no_share_user_tip">No followers currently</string>
+  <string name="cloud_full_tip_str">Not enough space in Cloud</string>
+  <string name="confirm_recommandation_face_is">" "</string>
+  <string name="confirm_recommandation_face_not">" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "</string>
+  <string name="edit_baby_info">View baby information</string>
+  <string name="error_link_has_expired">Link has expired</string>
+  <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
+  <string name="user_policy">Privacy Policy</string>
+  <string name="view_baby_info">Edit baby information</string>
+</resources>

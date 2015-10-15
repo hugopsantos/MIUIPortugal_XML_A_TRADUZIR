@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="recovery_power_not_enough_msg_plugged">Battery must be above 15% before device can update</string>
+</resources>

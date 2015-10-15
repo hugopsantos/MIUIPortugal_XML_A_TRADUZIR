@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="intro_midrop">Mi Drop</string>
+  <string name="intro_page1_text1">Share files with friends nearby</string>
+  <string name="intro_page1_text2">"Now it's easier than ever"</string>
+  <string name="intro_page2_choose_files">Choose files and tap \"Share\"</string>
+  <string name="intro_page2_click_to_send">Tap \"Share\"</string>
+  <string name="intro_page3_choose_midrop">Select \"Mi Drop\"</string>
+  <string name="intro_page3_choose_midrop2">Select \"Mi Drop\", and your files will be sent instantly</string>
+  <string name="receiver_apk_file_current_multi">Receiving %2$d​ app(-s) from %1$s</string>
+  <string name="receiver_apk_file_current_single">Receiving %2$d​ app from %1$s</string>
+  <string name="receiver_audio_file_current_multi">Receiving %2$d​ song(-s) from %1$s​​…</string>
+  <string name="receiver_audio_file_current_single">Receiving %2$d​ song from %1$s​​…</string>
+  <string name="receiver_file_current_multi">Receiving %2$d file(-s) from %1$s…</string>
+  <string name="receiver_file_current_single">Receiving %2$d file from %1$s…</string>
+  <string name="receiver_pic_file_current_multi">Receiving %2$d image(-s) from %1$s​…</string>
+  <string name="receiver_pic_file_current_single">Receiving %2$d image from %1$s​…</string>
+  <string name="receiver_video_file_current_multi">Receiving %2$d​ video(-s) from %1$s…</string>
+  <string name="receiver_video_file_current_single">Receiving %2$d​ video from %1$s…</string>
+  <string name="title_activity_intro">IntroActivity</string>
+</resources>

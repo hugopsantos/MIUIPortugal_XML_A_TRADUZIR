@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
+</resources>

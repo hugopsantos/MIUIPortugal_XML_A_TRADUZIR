@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="traffic_saving_notify_no_apps_saving">No apps are using Data saver</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
+</resources>
