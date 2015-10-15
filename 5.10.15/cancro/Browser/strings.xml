@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
-  <string name="pref_weather_location_title">Weather location</string>
-  <string name="show_security_tip_dialog_title">Terms of Service</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
+  <string name="pref_weather_location_summary">Utilizado pelo plug-in de Metereologia do navegador</string>
+  <string name="pref_weather_location_title">Metereologia da localização</string>
+  <string name="show_security_tip_dialog_title">Termos do Serviço</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Os Serviços Meteorológicos necessitam de informações da sua localização, para manterem as informações metereológicas actualizadas no navegador. Pode desligar este recurso nas Definições.</string>
 </resources>
