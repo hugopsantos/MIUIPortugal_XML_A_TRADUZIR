@@ -5,7 +5,7 @@
   <string name="being_enable_auto_payment">A ligar…</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="disable_auto_payment_fail">Não foi possível desligar</string>
-  <string name="disable_auto_payment_fail_message">Não foi possível desligar a renovação automática"</string>
+  <string name="disable_auto_payment_fail_message">Não foi possível desligar a renovação automática</string>
   <string name="disable_auto_payment_success">Desligado</string>
   <string name="disable_auto_payment_success_message">Renovação automática desligada. Após a subscrição actual expirar, tem de subscrever novamente para transferir músicas.</string>
   <string name="enable_auto_payment_fail">Não foi possível ligar</string>
@@ -14,15 +14,15 @@
   <string name="enable_auto_payment_success_message">Renovação automática ligada. Próximo pagamento em %s.</string>
   <string name="repeat_all_notif">A repetir todas as músicas.</string>
   <string name="repeat_current_notif">A repetir a música actual.</string>
-  <string name="shuffle_off_notif">Shuffle is off.</string>
-  <string name="shuffle_on_notif">Shuffle is on.</string>
+  <string name="shuffle_off_notif">Reprodução aleatória desligada.</string>
+  <string name="shuffle_on_notif">Reprodução aleatória ligada.</string>
   <string name="to_mi_pay">Créditos Mi</string>
-  <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-  <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
-  <string name="vip_auto_renew_notification_title">Subscription payment</string>
-  <string name="vip_auto_renew_title">Subscription renewal</string>
-  <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
-  <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
-  <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
-  <string name="vip_renew_title">Subscription expired</string>
+  <string name="vip_auto_renew_message">A subscrição de música será automaticamente renovada esta noite. Certifique-se que tem créditos Mi suficientes para completar o pagamento.</string>
+  <string name="vip_auto_renew_notification_message">Adicionar créditos Mi para renovar a subscrição de música.</string>
+  <string name="vip_auto_renew_notification_title">Pagamento da subscrição</string>
+  <string name="vip_auto_renew_title">Renovação da subscrição</string>
+  <string name="vip_renew_message">Não poderá fazer streaming de audio em alta qualidade, mas algumas músicas estarão disponíveis com qualidade normal.</string>
+  <string name="vip_renew_notification_message">Não poderá fazer streaming de audio em alta qualidade quando a subscrição expirar.</string>
+  <string name="vip_renew_notification_title">A subscrição expira amanhã</string>
+  <string name="vip_renew_title">Subscrição expirada</string>
 </resources>
