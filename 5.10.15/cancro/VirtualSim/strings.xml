@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="edit_hint_iccid">input 20 bytes</string>
+  <string name="edit_hint_iccid">entrada de 20 bytes</string>
 </resources>
