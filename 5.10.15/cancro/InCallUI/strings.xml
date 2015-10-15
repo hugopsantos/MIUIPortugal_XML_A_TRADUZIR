@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="call_self">"Can't dial own number"</string>
-  <string name="cancel_call">Hang up</string>
-  <string name="dial_with_gsm_phone">Regular call</string>
-  <string name="network_error_message">Try to make a regular call. It will be charged by the operator.</string>
-  <string name="network_error_title">Network error</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
-  <string name="no_balance_title">Insufficient funds</string>
-  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
-  <string name="not_support_title">"Number isn't supported"</string>
-  <string name="purchase_now">Top up</string>
+  <string name="call_self">Não é possível marcar próprio número</string>
+  <string name="cancel_call">Desligar</string>
+  <string name="dial_with_gsm_phone">Chamada normal</string>
+  <string name="network_error_message">Tente fazer uma chamada normal. Poderá ter custos.</string>
+  <string name="network_error_title">Erro de rede</string>
+  <string name="no_balance_message">Sem saldo suficiente no pacote de carregamento. Tente fazer uma chamada normal.</string>
+  <string name="no_balance_title">Saldo insuficiente</string>
+  <string name="not_support_message">De momento o pacote de carregamento não suporta estes números. Tente fazer uma chamada normal.</string>
+  <string name="not_support_title">Número não suportado</string>
+  <string name="purchase_now">Comprar</string>
 </resources>
