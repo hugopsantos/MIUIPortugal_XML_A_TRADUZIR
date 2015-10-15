@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cloud_record_open">Sync recordings</string>
-  <string name="cloud_record_tip">Sync recordings with Mi Cloud.</string>
-  <string name="cloud_status_full_dialog_cancel">Not now</string>
-  <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
-  <string name="cloud_status_full_dialog_ok">Upgrade</string>
-  <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
+  <string name="cloud_record_open">Sincronizar gravações</string>
+  <string name="cloud_record_tip">Sincronizar gravações com a Nuvem Mi.</string>
+  <string name="cloud_status_full_dialog_cancel">Cancelar</string>
+  <string name="cloud_status_full_dialog_msg">A nuvem está cheia, não é possível sincronizar as gravaçõess. Actualizar a conta para obter mais espaço de armazenamento.</string>
+  <string name="cloud_status_full_dialog_ok">Actualizar</string>
+  <string name="cloud_status_full_dialog_title">O armazenamento da Nuvem Mi está cheio</string>
 </resources>
