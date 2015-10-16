@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="traffic_saving_notify_no_apps_saving">Nenhuma aplicação está a utilizar a poupança de dados</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Toque para ligar a poupança de dados.</string>
-</resources>

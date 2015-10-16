@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="recovery_power_not_enough_msg_plugged">A bateria tem de estar acima dos 15% para o dispositivo actualizar</string>
-</resources>
