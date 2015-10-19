@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="not_vip">Sorry, you are not Vip.</string>
+  <string name="not_vip">Não é um membro Vip.</string>
 </resources>

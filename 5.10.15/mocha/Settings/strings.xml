@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="camera_summary">Camera settings (not including photos)</string>
-  <string name="delete_backup_title">Delete backup</string>
-  <string name="err_filesystem_mount">"Can't access router storage"</string>
-  <string name="err_router_disconnected">"Check your router's connection and try again."</string>
-  <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
-  <string name="state_mounting">Accessing router storage…</string>
-  <string name="wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
+  <string name="camera_summary">Definições da Câmara (excepto fotos)</string>
+  <string name="delete_backup_title">Apagar cópia de segurança</string>
+  <string name="err_filesystem_mount">Não é possível aceder ao armazenamento do router</string>
+  <string name="err_router_disconnected">Verifique a ligação do router e tente novamente.</string>
+  <string name="err_router_files_delete">Não é possível apagar a cópia de segurança dos ficheiros no router</string>
+  <string name="state_mounting">A aceder ao amazenamento do router…</string>
+  <string name="wakeup_for_keyguard_notification_title">Acender ecrã de bloqueio com as notificações</string>
 </resources>
