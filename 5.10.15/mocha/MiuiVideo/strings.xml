@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="download_progress">A transferir %s</string>
-  <string name="search_result_empty_hint">Insira a palavra-passe correcta</string>
-  <string name="video_detail_score">Classificação</string>
-</resources>
