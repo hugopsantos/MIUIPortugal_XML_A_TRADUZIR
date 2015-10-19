@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="camera_summary">Camera settings (not including photos)</string>
+  <string name="delete_backup_title">Delete backup</string>
+  <string name="err_filesystem_mount">"Can't access router storage"</string>
+  <string name="err_router_disconnected">"Check your router's connection and try again."</string>
+  <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
+  <string name="state_mounting">Accessing router storage…</string>
+  <string name="wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
+</resources>
