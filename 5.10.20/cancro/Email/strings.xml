@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="disturb_switch">Do not disturb</string>
+  <string name="gmail_login_failed_non_proxy_title">Access Gmail server failed</string>
+  <string name="gmail_server_authorization_deleted">Fetch the access authorization failed,please re-cert.</string>
+  <string name="outbox_alert_description_fail_network">Network anomaly.</string>
+</resources>

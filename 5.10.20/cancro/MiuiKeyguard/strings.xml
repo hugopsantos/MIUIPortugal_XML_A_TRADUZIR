@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+  <string name="fingerprint_not_identified_title">"Can't read fingerprint"</string>
+  <string name="fingerprint_try_again_text">Try again</string>
+</resources>

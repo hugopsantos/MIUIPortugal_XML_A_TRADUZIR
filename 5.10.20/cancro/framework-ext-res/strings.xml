@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="apply_password_action">Set password</string>
+  <string name="apply_password_confirm_dlg_msg">Require password for %s​?</string>
+  <string name="apply_password_confirm_dlg_title">This password will be used for %s</string>
+  <string name="set_password_action">Set password</string>
+  <string name="set_password_message">Set a new password?</string>
+  <string name="set_password_title">Set password</string>
+</resources>
