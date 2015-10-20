@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="skip_alarm_once_hint">Turn off once on %s</string>
-  <string name="today">Today</string>
-  <string name="tomorrow">Tomorrow</string>
-  <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
-  <string name="turn_off_this_repeat_alarm">Turn off this repeating alarm</string>
+  <string name="skip_alarm_once_hint">Desligar quando chegar a %s</string>
+  <string name="today">Hoje</string>
+  <string name="tomorrow">Amanhã</string>
+  <string name="turn_off_a_repeat_alarm">Desligar um alarme que repete</string>
+  <string name="turn_off_this_repeat_alarm">Desligar este alarme que repete</string>
 </resources>

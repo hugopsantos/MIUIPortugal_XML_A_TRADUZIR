@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="close_airplane_mode_toast">Please close airplane mode</string>
+  <string name="close_airplane_mode_toast">Por favor feche o modo voo</string>
 </resources>

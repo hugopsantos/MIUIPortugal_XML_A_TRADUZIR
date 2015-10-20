@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="receiver_clean">Free up space</string>
-  <string name="receiver_insufficient_storage">Not enough memory</string>
-  <string name="receiver_insufficient_storage_cannot_send">"Can't send: not enough memory"</string>
-  <string name="sender_reject_kick_off">Please try it later</string>
+  <string name="receiver_clean">Libertar espaço</string>
+  <string name="receiver_insufficient_storage">Sem memória suficiente</string>
+  <string name="receiver_insufficient_storage_cannot_send">"Não foi possível enviar: sem memória suficiente"</string>
+  <string name="sender_reject_kick_off">Por favor tente novamente mais tarde</string>
 </resources>

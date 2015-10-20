@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="traffic_saving_detail">Details</string>
-  <string name="traffic_saving_mobile_usage">Mobile usage</string>
-  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
-  <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="traffic_saving_detail">Detalhes</string>
+  <string name="traffic_saving_mobile_usage">Utilização móvel</string>
+  <string name="traffic_saving_tecsupport_international">Distribuído por Opera Max</string>
+  <string name="traffic_saving_wifi_usage">Utilização Wi-Fi</string>
 </resources>

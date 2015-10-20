@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="hint_apk_download_format">Install \"%1$s\" application</string>
+  <string name="hint_apk_download_format">Instalar \"%1$s\" aplicação</string>
 </resources>
