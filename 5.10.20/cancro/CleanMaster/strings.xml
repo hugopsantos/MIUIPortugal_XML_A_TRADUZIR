@@ -15,7 +15,7 @@
   <string name="empty">" "</string>
   <string name="garbage_clean_detail">Detalhes</string>
   <string name="garbage_cleanup_detail">%1$d vezes, limpo %2$s</string>
-  <string name="garbage_month">Cleaned %s this month</string>
+  <string name="garbage_month">Limpo %s este mês</string>
   <string name="go_to">Prosseguir</string>
   <string name="goto_set">Definir</string>
   <string name="harass_detail">Bloqueado %1$d SMS e %2$d chamadas</string>
@@ -58,9 +58,9 @@
   <string name="there_is_no">Parece tudo bem, volte mais tarde</string>
   <string name="tips_of_auto_launch_manage">Impedir aplicações usadas raramente que sejam iniciadas automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua conta Mi usar mais serviços Mi</string>
-  <string name="tips_of_connect">CLigue à internet para usar o conjunto completo dos recursos de segurança</string>
+  <string name="tips_of_connect">Ligue à internet para usar o conjunto completo dos recursos de segurança</string>
   <string name="tips_of_garbage_cloud_scan">Encontre lixo escondido com varredura na nuvem</string>
-  <string name="tips_of_garbage_data_set">Atualizar o banco de dados Cleanup para encontrar mais lixo no seu dispositivo</string>
+  <string name="tips_of_garbage_data_set">Actualizar o banco de dados Cleanup para encontrar mais lixo no seu dispositivo</string>
   <string name="tips_of_network_speed_set">Ver a velocidade da rede na barra de estado</string>
   <string name="tips_of_operators_set">Ajustar o tráfego automaticamente</string>
   <string name="tips_of_package_set">Defina o seu plano de dados e controle a quantidade de tráfego que utilizou</string>
