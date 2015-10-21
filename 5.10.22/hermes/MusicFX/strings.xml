@@ -10,5 +10,5 @@
   <string name="eq_preset_normal">Normal</string>
   <string name="eq_preset_pop">Pop</string>
   <string name="eq_preset_rock">Rock</string>
-  <string name="presetreverb_name">Preset Reverb</string>
+  <string name="presetreverb_name">Reverb predefinido</string>
 </resources>
