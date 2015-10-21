@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="app_name_edit_picture">Editar imagem</string>
-  <string name="buy_member_tip">tornar-se membro..</string>
-  <string name="calculated_pictures_time_tip">Fotos ordenadas de %1$s até agora. As fotos restantes irão ser ordenadas gradualmente. Para acelerar este processo, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Fotos ordenadas de %1$s até agora. As fotos restantes irão ser ordenadas gradualmente.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Fotos ordenadas de %1$s até agora. As fotos restantes irão ser ordenadas em breve.</string>
-  <string name="view_queuing_status">Verificar estado</string>
-</resources>

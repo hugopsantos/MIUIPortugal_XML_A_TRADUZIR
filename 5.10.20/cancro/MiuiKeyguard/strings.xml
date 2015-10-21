@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo, introduza a sua palavra-passe.</string>
-  <string name="fingerprint_not_identified_title">Não foi possível ler impressão digital</string>
-  <string name="fingerprint_try_again_text">Tente novamente</string>
-</resources>
