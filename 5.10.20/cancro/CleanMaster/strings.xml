@@ -8,7 +8,7 @@
   <string name="clear_bigfiles">Apagar arquivos grandes, fotos duplicadas e outros ficheiros inúteis</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Segurança da Barra de Notificação</string>
-  <string name="conn_of_function_safe">Ligação de rede para a Segurança</string>
+  <string name="conn_of_function_safe">Segurança da ligação de rede</string>
   <string name="connecting">a ligar</string>
   <string name="download">Transferir</string>
   <string name="downloading">A transferir</string>
@@ -27,7 +27,7 @@
   <string name="login_immediately">Iniciar sessão</string>
   <string name="month_day_format">dd MMM</string>
   <string name="name_debuglog_dir">Registo de depuração Bsp</string>
-  <string name="nb_clear_set">Limpar ROM, ver Notificação de Informação em 2º plano da bateria e lista de bloqueio</string>
+  <string name="nb_clear_set">Limpar ROM, ver Notificação de Informação em 2º plano da bateria e da lista de bloqueio</string>
   <string name="net_assistant_detail">Usado %1$s, guardado %2$s</string>
   <string name="net_assistant_title">Usado %s de dados móveis este mês</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -40,7 +40,7 @@
   <string name="open_browser">Abrir no navegador</string>
   <string name="opened">Ligado</string>
   <string name="pref_summary_auto_deepclean_and_alert">Mostrar notificações quando há menos de 1GB de armazenamento restante</string>
-  <string name="pref_title_apps_check_size">Limite de espaço de armazenamento</string>
+  <string name="pref_title_apps_check_size">Limite de espaço do armazenamento</string>
   <string name="pref_title_apps_check_time">Frequência</string>
   <string name="pref_title_apps_cleanup_size">Quando atinge o tamanho do cache</string>
   <string name="pref_title_auto_deepclean_and_alert">Notificação de aplicações não usadas</string>
@@ -57,7 +57,7 @@
   <string name="start_install">Iniciar instalação</string>
   <string name="there_is_no">Parece tudo bem, volte mais tarde</string>
   <string name="tips_of_auto_launch_manage">Impedir aplicações usadas raramente que sejam iniciadas automaticamente</string>
-  <string name="tips_of_cloud_service">Inicie sessão na sua conta Mi usar mais serviços Mi</string>
+  <string name="tips_of_cloud_service">Inicie sessão na sua conta Mi para usar mais serviços Mi</string>
   <string name="tips_of_connect">Ligue à internet para usar o conjunto completo dos recursos de segurança</string>
   <string name="tips_of_garbage_cloud_scan">Encontre lixo escondido com varredura na nuvem</string>
   <string name="tips_of_garbage_data_set">Actualizar o banco de dados Cleanup para encontrar mais lixo no seu dispositivo</string>
@@ -72,11 +72,11 @@
   <string name="title_of_garbage_cloud_scan">Verificar a nuvem</string>
   <string name="title_of_garbage_data_set">Actualizar banco de dados do Cleaner</string>
   <string name="title_of_network_speed_set">Mostrar a velocidade da rede na barra de estado</string>
-  <string name="title_of_operators_set">Definições da operadoras</string>
+  <string name="title_of_operators_set">Definições da operadora</string>
   <string name="title_of_package_set">Definições do plano de dados</string>
   <string name="title_of_traffic_notification">Estatísticas de dados no bar</string>
   <string name="title_share_link">Partilhar URL</string>
-  <string name="toast_network_switch">Esta alicação não pode ligar à rede</string>
+  <string name="toast_network_switch">Esta aplicação não pode ligar à rede</string>
   <string name="total_clean">Total limpo: %s</string>
   <string name="traffic_top">TOP 5 de aplic. consomem dados</string>
   <string name="virus_scan">Verificar Virus</string>
