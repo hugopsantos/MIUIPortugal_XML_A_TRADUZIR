@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="notification_online">%1$s: %2$s个新事件</string>
+  <string name="notification_online">%1$s: %2$s novo evento</string>
 </resources>
