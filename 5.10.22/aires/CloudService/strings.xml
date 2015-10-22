@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="micloud_all_sub_1_intl_sms">"International SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_1_sms">"Regular SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_2_intl_sms">"2 international text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_all_sub_2_sms">"2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_all_sub_1_intl_sms">Será enviado um sms internacional para activar o cartão SIM. A operadora irá cobrar a sms. Quando ligar o 'Encontrar disposito' pode ser enviado um sms se mudar de cartão SIM.</string>
+  <string name="micloud_all_sub_1_sms">Será enviado um sms nacional para activar o cartão SIM. A operadora irá cobrar a sms. Quando ligar o 'Encontrar disposito' pode ser enviado um sms se mudar de cartão SIM.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">Serão enviadas 2 sms (nacional e internacional) para activar o cartão SIM. A operadora irá cobrar as sms. Quando ligar o 'Encontrar disposito' pode ser enviado um sms se mudar de cartão SIM.</string>
+  <string name="micloud_all_sub_2_intl_sms">Serão enviadas 2 sms internacionais para activar o cartão SIM. A operadora irá cobrar as sms. Quando ligar o 'Encontrar disposito' pode ser enviado um sms se mudar de cartão SIM.</string>
+  <string name="micloud_all_sub_2_sms">Serão enviadas 2 sms nacionais para activar o cartão SIM. A operadora irá cobrar as sms. Quando ligar o 'Encontrar disposito' pode ser enviado um sms se mudar de cartão SIM</string>
 </resources>

@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="score_douban">Douban Score %1$s</string>
+  <string name="score_douban">Pontuação Douban %1$s</string>
 </resources>
