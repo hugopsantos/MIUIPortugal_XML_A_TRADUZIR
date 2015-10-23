@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="storage_external_usb">Armazenamento Externo USB</string>
-  <string name="storage_ic_usb1">Armazenamento 1 Externo IC-USB</string>
-  <string name="storage_ic_usb2">Armazenamento 2 Externo IC-USB</string>
-  <string name="storage_phone">Armazenamento telefone</string>
-</resources>
