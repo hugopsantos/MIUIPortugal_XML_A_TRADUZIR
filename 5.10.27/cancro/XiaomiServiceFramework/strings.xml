@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
+  <string name="activate_auto_sms_notification_title">SIM card activation</string>
+  <string name="activate_popup_desc_find_device_postfix">An activation SMS may be sent after you switch SIM cards.</string>
+</resources>

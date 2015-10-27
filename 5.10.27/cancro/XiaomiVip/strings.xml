@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="achieve_condition">Awarded for:</string>
+  <string name="achieved">EARNED</string>
+  <string name="achieved_time">Earned on %s</string>
+  <string formatted="false" name="achievement_progress">Progress: %d/%d</string>
+  <string name="achievements">Awards</string>
+  <string name="acquired_time_x">Received on %s</string>
+  <string name="awards">Prizes</string>
+  <string name="copy_and_use">Redeem</string>
+  <string name="daily_task">Daily challenges</string>
+  <string name="device_answer_phone_times">Calls answered</string>
+  <string name="device_charge_times">Times charged</string>
+  <string name="device_unlock_screen_times">Screen unlocked</string>
+  <string name="device_usage_data">Phone usage stats</string>
+  <string name="download_message">Download %s?</string>
+  <string name="download_progress">%d%%</string>
+  <string name="download_title">Download this app?</string>
+  <string name="downloading">Downloading…</string>
+  <string name="go">View progress</string>
+  <string name="limit_task">Limited challenges</string>
+  <string formatted="false" name="limit_task_format">%d/%d</string>
+  <string name="no_achievements">Empty.</string>
+  <string name="redeem">Redeem</string>
+  <string name="unachieved">AVAILABLE</string>
+  <string name="use_immediately">Use now</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="network_type">Network Type:</string>
+  <string name="operator">Carrier Operator:</string>
+  <string name="select_products_by_day">Select Products Purchased By Day</string>
+  <string name="select_tips">Please Select</string>
+  <string name="supply_operator_tips">Supply By </string>
+  <string name="unable_start_cdma_card_dialog_button">I Know</string>
+  <string name="unable_start_cdma_card_dialog_message">You need to remove the telecom card in slot 2 before enabling virtual SIM</string>
+  <string name="unable_start_cdma_card_dialog_title">Unable to start virtual SIM</string>
+</resources>

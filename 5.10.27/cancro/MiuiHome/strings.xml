@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cant_edit_lock_screen">"Can't edit lock screen style."</string>
+</resources>

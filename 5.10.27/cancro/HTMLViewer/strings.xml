@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
+</resources>

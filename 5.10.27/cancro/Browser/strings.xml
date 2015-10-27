@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="abc_action_mode_select_all">Select All</string>
+  <string name="accept_cookies_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
+  <string name="clear_video_download">Clear Videos</string>
+  <string name="enable_geolocation_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
+  <string name="no_space_alert_cancel">Later</string>
+  <string name="no_space_alert_clean">Free up space</string>
+  <string name="no_space_alert_text">Not enough storage space</string>
+  <string name="no_space_alert_title">Download paused</string>
+  <string name="no_space_clean_failed">Could not free up space on your device​</string>
+  <string name="positive_confirm_message">Turn off anyway</string>
+  <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
+  <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
+  <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
+  <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
+  <string name="video_download_clear_info">Remove %d selected video cache successfully</string>
+  <string name="video_download_clear_prompt">Remove %d selected video cache?</string>
+  <string name="video_download_complete">Video download has completed</string>
+  <string name="video_download_empty">Video cache is empty</string>
+  <string name="video_download_error">Error</string>
+  <string name="video_download_error_http_gone">File Not Found</string>
+  <string name="video_download_exists">Video download has started</string>
+  <string name="video_download_failed">Video download failed</string>
+  <string name="video_download_start">Video download start</string>
+  <string name="video_download_unknown_name">Unknown Name</string>
+  <string name="video_download_unknown_size">Unknown Size</string>
+  <string name="video_download_unsupport">Unsupport Video</string>
+  <string name="video_download_wait_for_wifi">Wait for wifi</string>
+  <string name="video_downloaded_group">Downloaded</string>
+  <string name="video_downloading_group">Downloading</string>
+  <string name="video_edit">Edit</string>
+  <string name="video_fragment_name_download">Offline Video</string>
+  <string name="video_history_clear_info">Remove %d selected history successfully</string>
+  <string name="video_history_clear_prompt">Remove %d selected history?</string>
+  <string name="video_history_empty">Watching history is empty</string>
+  <string name="video_subtitle_prefix_message">Watched:</string>
+  <string name="video_title_prefix_message">Offline:</string>
+  <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
+</resources>
