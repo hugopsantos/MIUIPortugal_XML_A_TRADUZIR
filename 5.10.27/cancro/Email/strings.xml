@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="att_download_failed_network_slow">Rede está lenta, por favor transfira novamente mais tarde</string>
+  <string name="att_download_failed_network_slow">A rede está lenta, por favor transfira novamente mais tarde</string>
   <string name="calendar_remind_dialog_title">Lembrar</string>
   <string name="calendar_remind_gridview_month_later">Mês Depois</string>
   <string name="calendar_remind_gridview_nextweek">Próxima Semana</string>
