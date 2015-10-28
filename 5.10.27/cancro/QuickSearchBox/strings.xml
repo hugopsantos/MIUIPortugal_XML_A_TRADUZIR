@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="clear_history">clear history record</string>
-  <string name="hot_search">hot search</string>
-  <string name="loading">loading</string>
-  <string name="search_history">search history</string>
-  <string name="show_more">show more</string>
+  <string name="clear_history">limpar histórico de registos</string>
+  <string name="hot_search">pesquisa quente</string>
+  <string name="loading">a carregar</string>
+  <string name="search_history">pesquisar histórico</string>
+  <string name="show_more">mostrar mais</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
   <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3/hotquery</string>
 </resources>

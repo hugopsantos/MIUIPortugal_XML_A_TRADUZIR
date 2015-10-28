@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="activity_title_network_speed_detail">Connection</string>
-  <string name="btn_text_network_speed_detail">Connection</string>
+  <string name="activity_title_network_speed_detail">Conexão</string>
+  <string name="btn_text_network_speed_detail">Conexãon</string>
   <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
-  <string name="preferred_app_entries_browser">Browser</string>
-  <string name="preferred_app_entries_camera">Camera</string>
-  <string name="preferred_app_entries_dial">Dial</string>
+  <string name="preferred_app_entries_browser">Navegador</string>
+  <string name="preferred_app_entries_camera">Câmara</string>
+  <string name="preferred_app_entries_dial">Marcar</string>
   <string name="preferred_app_entries_email">Email</string>
-  <string name="preferred_app_entries_gallery">Gallery</string>
+  <string name="preferred_app_entries_gallery">Galeria</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
-  <string name="preferred_app_entries_messaging">Messaging</string>
-  <string name="preferred_app_entries_music">Music</string>
-  <string name="security_scan_optimizing">Optimizing…</string>
-  <string name="summary_cloud_space_almost_full">Get more storage space</string>
-  <string name="summary_cloud_space_full">Get more storage space and access to more features</string>
-  <string name="summary_find_device">Locate and lock your device from anywhere</string>
-  <string name="system_check_content_none">Safe</string>
-  <string name="title_cloud_space_almost_full">Cloud storage nearly full, items may not sync</string>
-  <string name="title_cloud_space_full">"Cloud storage full, can't sync photos"</string>
-  <string name="title_find_device">Turn on Find device</string>
+  <string name="preferred_app_entries_messaging">Mensagens</string>
+  <string name="preferred_app_entries_music">Música</string>
+  <string name="security_scan_optimizing">A optimizar…</string>
+  <string name="summary_cloud_space_almost_full">Obter mais espaço de armazenamento</string>
+  <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais recursos</string>
+  <string name="summary_find_device">Localizar e bloquear o seu dispositivo de qualquer lugar</string>
+  <string name="system_check_content_none">Seguro</string>
+  <string name="title_cloud_space_almost_full">Armazenamento na Nuvem quase cheio, itens podem não sincronizar</string>
+  <string name="title_cloud_space_full">Armazenamento na Nuvem cheio, não é possível sincronizar fotos</string>
+  <string name="title_find_device">Activar Localizar dispositivo</string>
 </resources>

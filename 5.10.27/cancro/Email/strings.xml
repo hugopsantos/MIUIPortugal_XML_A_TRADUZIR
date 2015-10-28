@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="att_download_failed_network_slow">Network is slow, please download again later</string>
-  <string name="calendar_remind_dialog_title">Remind</string>
-  <string name="calendar_remind_gridview_month_later">Month Later</string>
-  <string name="calendar_remind_gridview_nextweek">Next Week</string>
-  <string name="calendar_remind_gridview_pick_date">Pick Date</string>
-  <string name="calendar_remind_gridview_tomorrow">Tomorrow</string>
-  <string name="calendar_remind_gridview_tonight">Tonight</string>
-  <string name="calendar_remind_gridview_weekend">Weekend</string>
-  <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
+  <string name="att_download_failed_network_slow">Rede está lenta, por favor transfira novamente mais tarde</string>
+  <string name="calendar_remind_dialog_title">Lembrar</string>
+  <string name="calendar_remind_gridview_month_later">Mês Depois</string>
+  <string name="calendar_remind_gridview_nextweek">Próxima Semana</string>
+  <string name="calendar_remind_gridview_pick_date">Escolher Data</string>
+  <string name="calendar_remind_gridview_tomorrow">Amanhã</string>
+  <string name="calendar_remind_gridview_tonight">Hoje à Noite</string>
+  <string name="calendar_remind_gridview_weekend">Fim de Semana</string>
+  <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
 </resources>

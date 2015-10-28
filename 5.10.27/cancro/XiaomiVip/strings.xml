@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="achieve_condition">Awarded for:</string>
-  <string name="achieved">EARNED</string>
-  <string name="achieved_time">Earned on %s</string>
+  <string name="achieve_condition">Premiado por:</string>
+  <string name="achieved">GANHO</string>
+  <string name="achieved_time">Ganho em %s</string>
   <string formatted="false" name="achievement_progress">Progress: %d/%d</string>
-  <string name="achievements">Awards</string>
-  <string name="acquired_time_x">Received on %s</string>
-  <string name="awards">Prizes</string>
-  <string name="copy_and_use">Redeem</string>
-  <string name="daily_task">Daily challenges</string>
-  <string name="device_answer_phone_times">Calls answered</string>
-  <string name="device_charge_times">Times charged</string>
-  <string name="device_unlock_screen_times">Screen unlocked</string>
-  <string name="device_usage_data">Phone usage stats</string>
-  <string name="download_message">Download %s?</string>
+  <string name="achievements">Prémios</string>
+  <string name="acquired_time_x">Recebido em %s</string>
+  <string name="awards">Prémios</string>
+  <string name="copy_and_use">Resgatar</string>
+  <string name="daily_task">Desafios diários</string>
+  <string name="device_answer_phone_times">Chamadas atendidas</string>
+  <string name="device_charge_times">Vezes carregado</string>
+  <string name="device_unlock_screen_times">Ecrã desbloqueado</string>
+  <string name="device_usage_data">Estatísticas de utilização de telefone</string>
+  <string name="download_message">Transferir %s?</string>
   <string name="download_progress">%d%%</string>
-  <string name="download_title">Download this app?</string>
-  <string name="downloading">Downloading…</string>
-  <string name="go">View progress</string>
-  <string name="limit_task">Limited challenges</string>
+  <string name="download_title">Transferir esta aplicação?</string>
+  <string name="downloading">A transferir…</string>
+  <string name="go">Ver progresso</string>
+  <string name="limit_task">Desafios limitados</string>
   <string formatted="false" name="limit_task_format">%d/%d</string>
-  <string name="no_achievements">Empty.</string>
-  <string name="redeem">Redeem</string>
-  <string name="unachieved">AVAILABLE</string>
-  <string name="use_immediately">Use now</string>
+  <string name="no_achievements">Vazio.</string>
+  <string name="redeem">Resgatar</string>
+  <string name="unachieved">DISPONÍVEL</string>
+  <string name="use_immediately">Usar agora</string>
 </resources>

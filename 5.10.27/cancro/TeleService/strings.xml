@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="livetalk_provider">Provided by %1$s</string>
+  <string name="livetalk_provider">Fornecido por %1$s</string>
 </resources>

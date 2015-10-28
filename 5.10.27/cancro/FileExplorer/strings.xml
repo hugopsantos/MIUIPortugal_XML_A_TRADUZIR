@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="operation_other_apps">Open in another app</string>
-  <string name="pick_folder">Choose folder</string>
+  <string name="operation_other_apps">Abrir noutra aplicação</string>
+  <string name="pick_folder">Escolher pasta</string>
 </resources>
