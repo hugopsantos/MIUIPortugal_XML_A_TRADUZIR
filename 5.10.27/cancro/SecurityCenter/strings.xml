@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="activity_title_network_speed_detail">Conexão</string>
-  <string name="btn_text_network_speed_detail">Conexãon</string>
+  <string name="btn_text_network_speed_detail">Conexão</string>
   <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Câmara</string>
