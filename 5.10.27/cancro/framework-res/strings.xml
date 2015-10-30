@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+  <string name="lock_to_app_description">"A Fixação de ecrã, bloqueia o ecrã numa vista única.
 
-To unpin, touch and hold Home and the Power button at the same time."</string>
-  <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+Para remover fixação de ecrã, toque no botão Início e prima o botão Ligar/Desligar ao mesmo tempo."</string>
+  <string name="lock_to_app_description_accessible">"A Fixação de ecrã, bloqueia o ecrã numa vista única.
 
-To unpin, touch and hold Home and the Power button at the same time."</string>
-  <string name="lock_to_app_toast">To unpin this screen, touch and hold Home and the Power button at the same time.</string>
-  <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold Home and the Power button at the same time.</string>
+Para remover fixação de ecrã, toque no botão Início e prima o botão Ligar/Desligar ao mesmo tempo."</string>
+  <string name="lock_to_app_toast">Para remover fixação de ecrã, toque no botão Início e prima o botão Ligar/Desligar ao mesmo tempo.</string>
+  <string name="lock_to_app_toast_accessible">Para remover fixação de ecrã, toque no botão Início e prima o botão Ligar/Desligar ao mesmo tempo.</string>
 </resources>
