@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="departure">departure</string>
+  <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
+  <string name="guide_card_hint_text">点击进入订阅,发现精彩生活！</string>
+  <string name="today_flight_event">Flight</string>
+  <string name="today_train_event">Train</string>
+  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
+</resources>
