@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="firewall_restrict_android_dialog_content">"If you don't allow Android to connect to the internet, some key features, such as WLAN hotspot, may be affected."</string>
-  <string name="firewall_restrict_android_dialog_title">Attention</string>
+  <string name="firewall_restrict_android_dialog_content">Alguns recursos podem ser afectados (ex: hotspot Wi-Fi) se não permitir que o Android ligue à internet.</string>
+  <string name="firewall_restrict_android_dialog_title">Atenção</string>
 </resources>
