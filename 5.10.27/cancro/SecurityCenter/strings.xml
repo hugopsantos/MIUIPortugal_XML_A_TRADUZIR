@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="activity_title_network_speed_detail">Conexão</string>
-  <string name="btn_text_network_speed_detail">Conexão</string>
-  <string name="preference_key_shortcut_network_speed_detail">key_shortcut_network_speed_detail</string>
+  <string name="activity_title_network_speed_detail">Ligação</string>
+  <string name="btn_text_network_speed_detail">Ligação</string>
   <string name="preferred_app_entries_browser">Navegador</string>
   <string name="preferred_app_entries_camera">Câmara</string>
   <string name="preferred_app_entries_dial">Marcar</string>
@@ -14,9 +13,9 @@
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="summary_cloud_space_almost_full">Obter mais espaço de armazenamento</string>
   <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais recursos</string>
-  <string name="summary_find_device">Localizar e bloquear o seu dispositivo de qualquer lugar</string>
+  <string name="summary_find_device">Localizar e bloquear o dispositivo de qualquer lugar</string>
   <string name="system_check_content_none">Seguro</string>
-  <string name="title_cloud_space_almost_full">Armazenamento na Nuvem quase cheio, itens podem não sincronizar</string>
+  <string name="title_cloud_space_almost_full">Armazenamento na Nuvem quase cheio, os itens podem não sincronizar</string>
   <string name="title_cloud_space_full">Armazenamento na Nuvem cheio, não é possível sincronizar fotos</string>
   <string name="title_find_device">Activar Localizar dispositivo</string>
 </resources>
