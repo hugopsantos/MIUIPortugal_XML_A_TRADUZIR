@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para activar \"Localizar dispositivo\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para activar \"Localizar dispositivo\"</string>
-  <string name="activate_auto_sms_notification_title">Activação do cartão SIM</string>
-  <string name="activate_popup_desc_find_device_postfix">Pode ser enviado um SMS de activação depois de trocar os cartões SIM.</string>
-</resources>
