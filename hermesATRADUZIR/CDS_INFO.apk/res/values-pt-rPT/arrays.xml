@@ -2,26 +2,26 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
+        <item>A perquisar…</item>
+        <item>A ligar a %1$s…</item>
+        <item>A autenticar com %1$s…</item>
+        <item>A obter endereço IP de %1$s…</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
     </string-array>
 </resources>
