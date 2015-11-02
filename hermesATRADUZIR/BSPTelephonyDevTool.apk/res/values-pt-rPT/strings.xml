@@ -24,7 +24,7 @@
     <string name="restarting_device">Restarting device...</string>
     <string name="reboot_confirm_notice">Reboot device to switch default phone?</string>
     <string name="yes">Sim</string>
-    <string name="no">No</string>
+    <string name="no">Não</string>
     <string name="no_sim_inserted">No SIM inserted</string>
     <string name="perform_switch">Perform switching...</string>
     <string name="please_wait">Please wait...</string>
