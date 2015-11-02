@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="already_download">A transferir, aguarde...</string>
-  <string name="download_complete_start_install">Transferência concluída, a iniciar instalação...</string>
-  <string name="download_start">A iniciar transferência...</string>
-</resources>
