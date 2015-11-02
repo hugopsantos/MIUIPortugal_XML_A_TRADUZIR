@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="onekey_migrate">Transfer</string>
+  <string name="onekey_migrate">Transferir</string>
   <string name="status_bar_app_des_separator">、</string>
-  <string name="status_bar_app_enable_floating">Floating notifications</string>
-  <string name="status_bar_app_enable_keyguard">Lock screen</string>
-  <string name="status_bar_app_enable_message">Badges</string>
-  <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
-  <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
+  <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
+  <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
+  <string name="status_bar_app_enable_message">Emblemas</string>
+  <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
+  <string name="status_bar_settings_show_floating_notification_summary">A notificações flutuantes irão desaparecer automaticamente após aparecerem no topo do ecrã</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="contact_tip">Contacts</string>
-  <string name="input_a_name">Enter name</string>
-  <string name="input_or_select_a_name">Enter or choose a name</string>
+  <string name="contact_tip">Contactos</string>
+  <string name="input_a_name">Insira nome</string>
+  <string name="input_or_select_a_name">Insira ou seleccione o nome</string>
 </resources>

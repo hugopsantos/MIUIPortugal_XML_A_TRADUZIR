@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="android_storage_uicc">@android:string/storage_uicc</string>
   <string name="subinfo_default_name">SIM %d</string>
 </resources>

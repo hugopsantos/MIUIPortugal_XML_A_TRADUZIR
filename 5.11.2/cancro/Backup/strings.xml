@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="click_to_view">Tap to view</string>
-  <string name="files_backup_info">All files on SD card (including photos, songs, videos, app data, etc.)</string>
-  <string name="local_select_files">SD card</string>
-  <string name="remote_receive">Receive</string>
-  <string name="trans_backingup">Backing up …</string>
-  <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_cancel_confirm">Transfer in progress, cancel now?</string>
-  <string name="trans_cancelling">Canceling</string>
-  <string name="trans_connect_failed_toast">"Couldn't connect"</string>
-  <string name="trans_connecting_toast">Connecting…</string>
-  <string name="trans_detail_category_account">Accounts and contacts</string>
-  <string name="trans_detail_category_files">Files</string>
-  <string name="trans_detail_category_sysdata">System data</string>
-  <string name="trans_detail_category_userdata">Apps</string>
-  <string name="trans_device_disconnected">Device disconnected</string>
-  <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
-  <string name="trans_my_device">My device</string>
-  <string name="trans_one_key_migrate">Transfer</string>
-  <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Sending %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Sending files…</string>
-  <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
-  <string name="trans_receiver">"I'm a recipient"</string>
-  <string name="trans_receiving_completed">Data received</string>
-  <string name="trans_restoring">Restoring…</string>
-  <string name="trans_restoring_no_items">Syncing items</string>
-  <string name="trans_select_device_receive">Select one device to receive data.</string>
-  <string name="trans_select_device_send">Select one device to transfer data.</string>
-  <string name="trans_sender">"I'm a sender"</string>
-  <string name="trans_sender_connectting">Confirm on new device</string>
-  <string name="trans_sender_searching">Searching for new devices</string>
-  <string name="trans_sender_searching_ensurance">"Make sure the old device is on
-Waiting for the old device to connect…"</string>
-  <string name="trans_sending_completed">Data sent</string>
-  <string name="trans_time_format_second">less than one minute</string>
-  <string name="trans_time_remained">, ready in</string>
-  <string name="trans_waiting_ensurance">"Make sure the old device is on
-and Transfer is enabled"</string>
-  <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
+  <string name="click_to_view">Toque para ver</string>
+  <string name="files_backup_info">Todos os ficheiros no cartão SD (incluindo fotos, músicas, vídeos, dados de aplicação, etc.)</string>
+  <string name="local_select_files">Cartão SD</string>
+  <string name="remote_receive">Receber</string>
+  <string name="trans_backingup">A efectuar cópia de segurança…</string>
+  <string name="trans_backingup_no_items">A sincronizar…</string>
+  <string name="trans_cancel_confirm">Transferência em curso, cancelar agora?</string>
+  <string name="trans_cancelling">A cancelar</string>
+  <string name="trans_connect_failed_toast">Não é possível ligar</string>
+  <string name="trans_connecting_toast">A ligar…</string>
+  <string name="trans_detail_category_account">Contas e contactos</string>
+  <string name="trans_detail_category_files">Ficheiros</string>
+  <string name="trans_detail_category_sysdata">Dados do sistema</string>
+  <string name="trans_detail_category_userdata">Aplicações</string>
+  <string name="trans_device_disconnected">Dispositivo desligado</string>
+  <string name="trans_main_tutor">Transferir contactos, histórico de chamadas, mensagens, organização do ecrã inicial, aplicações, definições, etc. para o novo dispositivo</string>
+  <string name="trans_my_device">O meu dispositivo</string>
+  <string name="trans_one_key_migrate">Transferir</string>
+  <string name="trans_progress_subdescript_br_receiver">A receber %s</string>
+  <string name="trans_progress_subdescript_br_sender">A efectuar cópia de segurança %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">A receber %s</string>
+  <string name="trans_progress_subdescript_transing_sender">A enviar %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros…</string>
+  <string name="trans_progress_subdescript_waiting">A aguardar para receber %s</string>
+  <string name="trans_receiver">Sou um destinatário</string>
+  <string name="trans_receiving_completed">Dados recebidos</string>
+  <string name="trans_restoring">A restaurar…</string>
+  <string name="trans_restoring_no_items">A sincronizar ficheiros</string>
+  <string name="trans_select_device_receive">Seleccione o dispositivo para receber os dados.</string>
+  <string name="trans_select_device_send">Seleccione um dispositivo para transferir os dados.</string>
+  <string name="trans_sender">Sou um remetente</string>
+  <string name="trans_sender_connectting">Confirmar no dispositivo novo</string>
+  <string name="trans_sender_searching">A pesquisar por novo dispositivo</string>
+  <string name="trans_sender_searching_ensurance">"Certifique-se que o dispositivo antigo está ligado
+A aguardar pelo dispositivo antigo para ligar…"</string>
+  <string name="trans_sending_completed">Dados enviados</string>
+  <string name="trans_time_format_second">menos de um minuto</string>
+  <string name="trans_time_remained">, pronto em</string>
+  <string name="trans_waiting_ensurance">"Certifique-se que o dispositivo antigo está ligado
+e a Transferência está ligada"</string>
+  <string name="trans_waiting_for_sender">A aguardar pelo dispositivo antigo para ligar…</string>
 </resources>
