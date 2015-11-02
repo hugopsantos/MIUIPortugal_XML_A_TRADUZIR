@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="unlock_set_unlock_mode_voice_weak">Voice Unlock</string>
+    <string name="unlock_set_unlock_mode_voice_weak">Desbloqueio por voz</string>
     <string name="voice_unlock_setup_intro_header">Record voice command</string>
     <string name="voice_command_select_title">Select command</string>
     <string name="voice_command_launch_app_title">Launch app</string>
