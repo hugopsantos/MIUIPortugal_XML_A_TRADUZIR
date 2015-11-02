@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="exceed_message_size_limitation_add_slide">Message size is not enough to add a slide</string>
+</resources>

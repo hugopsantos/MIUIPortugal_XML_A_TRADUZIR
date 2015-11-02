@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="already_download">Downloading, please wait...</string>
+  <string name="download_complete_start_install">Download finished, start install...</string>
+  <string name="download_start">Start download...</string>
+</resources>

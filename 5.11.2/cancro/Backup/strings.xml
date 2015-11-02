@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="click_to_view">Tap to view</string>
+  <string name="files_backup_info">All files on SD card (including photos, songs, videos, app data, etc.)</string>
+  <string name="local_select_files">SD card</string>
+  <string name="remote_receive">Receive</string>
+  <string name="trans_backingup">Backing up …</string>
+  <string name="trans_backingup_no_items">Syncing…</string>
+  <string name="trans_cancel_confirm">Transfer in progress, cancel now?</string>
+  <string name="trans_cancelling">Canceling</string>
+  <string name="trans_connect_failed_toast">"Couldn't connect"</string>
+  <string name="trans_connecting_toast">Connecting…</string>
+  <string name="trans_detail_category_account">Accounts and contacts</string>
+  <string name="trans_detail_category_files">Files</string>
+  <string name="trans_detail_category_sysdata">System data</string>
+  <string name="trans_detail_category_userdata">Apps</string>
+  <string name="trans_device_disconnected">Device disconnected</string>
+  <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
+  <string name="trans_my_device">My device</string>
+  <string name="trans_one_key_migrate">Transfer</string>
+  <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
+  <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Sending %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Sending files…</string>
+  <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
+  <string name="trans_receiver">"I'm a recipient"</string>
+  <string name="trans_receiving_completed">Data received</string>
+  <string name="trans_restoring">Restoring…</string>
+  <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_select_device_receive">Select one device to receive data.</string>
+  <string name="trans_select_device_send">Select one device to transfer data.</string>
+  <string name="trans_sender">"I'm a sender"</string>
+  <string name="trans_sender_connectting">Confirm on new device</string>
+  <string name="trans_sender_searching">Searching for new devices</string>
+  <string name="trans_sender_searching_ensurance">"Make sure the old device is on
+Waiting for the old device to connect…"</string>
+  <string name="trans_sending_completed">Data sent</string>
+  <string name="trans_time_format_second">less than one minute</string>
+  <string name="trans_time_remained">, ready in</string>
+  <string name="trans_waiting_ensurance">"Make sure the old device is on
+and Transfer is enabled"</string>
+  <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
+</resources>
