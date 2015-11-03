@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="add_private_files">Add files</string>
-  <string name="already_liked">"You've already starred this item"</string>
-  <string name="cancel_operation">Cancel operation</string>
-  <string name="cancelled_by_user">Operation cancelled</string>
-  <string name="downloaded_sticker_str">Downloaded</string>
-  <string name="if_cancel">Cancel this operation?</string>
-  <string name="image_loading_error">"Couldn't load image"</string>
-  <string name="menu_item_sort_add_time">"Created "</string>
-  <string name="no_downloaded_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
-  <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
-  <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
-  <string name="notify_private_folder_title">Protect your personal files</string>
-  <string name="operation_like">Star</string>
-  <string name="qq_not_installed">"QQ isn't installed"</string>
-  <string name="save_to_local">Download</string>
-  <string name="send_to_qq">Send to QQ</string>
-  <string name="send_to_weixin">Send to WeChat</string>
-  <string name="type_not_support">"This file format isn't supported. Unpack this file and try again."</string>
-  <string name="ui_main_toast_favorite_added">Starred successfully</string>
-  <string name="weixin_not_installed">"WeChat isn't installed"</string>
+  <string name="add_private_files">Adicionar ficheiros</string>
+  <string name="already_liked">Já marcou este ficheiro</string>
+  <string name="cancel_operation">Cancelar operação</string>
+  <string name="cancelled_by_user">Operação cancelada</string>
+  <string name="downloaded_sticker_str">Transferido</string>
+  <string name="if_cancel">Cancelar esta operação?</string>
+  <string name="image_loading_error">Não foi possível carregar imagem</string>
+  <string name="menu_item_sort_add_time">"Criado "</string>
+  <string name="no_downloaded_sticker_tip">Não foi possível encontrar as etiquetas transferidas. Verifique as etiquetas partilhadas pelos fãs Mi.</string>
+  <string name="notification_wechat_expired_empty">O WeChat já apagou estes clipes de vídeo.</string>
+  <string name="notify_private_folder_msg">Toque para saber mais sobre pastas privadas.</string>
+  <string name="notify_private_folder_title">Proteger ficheiros pessoais</string>
+  <string name="operation_like">Estrela</string>
+  <string name="qq_not_installed">O QQ não está instalado</string>
+  <string name="save_to_local">Transferir</string>
+  <string name="send_to_qq">Enviar para o QQ</string>
+  <string name="send_to_weixin">Enviar para o WeChat</string>
+  <string name="type_not_support">O formato não é suportado. Descompacte o ficheiro e tente novamente.</string>
+  <string name="ui_main_toast_favorite_added">Marcado com sucesso</string>
+  <string name="weixin_not_installed">O WeChat não está instalado</string>
 </resources>
