@@ -3,10 +3,10 @@
   <string name="gb">GB</string>
   <string name="kb">KB</string>
   <string name="mb">MB</string>
-  <string name="order_info_summary_for_traffic_packge">%1$s remain，Remain Traffic Size</string>
-  <string name="virtualsim_data_loss_dialog_btn_txt">Got it</string>
-  <string name="virtualsim_data_loss_dialog_descrption">Access information is corrupted, so you need a enabled network to regain the access information,. It is highly recommended that you use WLAN connection and re-enable the service</string>
-  <string name="virtualsim_data_loss_dialog_title">Access information is corrupted, you need to reacquire</string>
-  <string name="virtualsim_enable_dailog_description">Enable Virtual sim will disable entity SIM card. Once successfully will enable non-refundable and start timing. Enable now?</string>
-  <string name="virtualsim_enable_dailog_title">Enable virtual sim service now？</string>
+  <string name="order_info_summary_for_traffic_packge">%1$s faltam. Falta tamanho do Tráfego</string>
+  <string name="virtualsim_data_loss_dialog_btn_txt">Percebi</string>
+  <string name="virtualsim_data_loss_dialog_descrption">O acesso às informações está corrompido, precisa de uma ligação de rede para recuperar as informações de acesso,. É recomendável que use uma ligação Wi-Fi para recuperar o serviço</string>
+  <string name="virtualsim_data_loss_dialog_title">Aceder às informações está corrompido, tem que readquirir</string>
+  <string name="virtualsim_enable_dailog_description">Activar o Sim Virtual irá desactivar a entidade do cartão SIM. Uma vez activado com sucesso permitirá iniciar a contagem. Activar agora?</string>
+  <string name="virtualsim_enable_dailog_title">Activar agora o serviço de Sim virtual?</string>
 </resources>

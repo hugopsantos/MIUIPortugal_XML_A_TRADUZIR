@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="data_error_show">An error occurred</string>
+  <string name="data_error_show">Ocorreu um erro</string>
 </resources>
