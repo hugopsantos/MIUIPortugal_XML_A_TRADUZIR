@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mipay_balance_title">Balance</string>
+  <string name="mipay_bank_card_valid_date_error">The expiration date you entered is invalid.</string>
+  <string name="mipay_bank_title">Bank card</string>
+  <string name="mipay_bill_delete_bill">Delete bill</string>
+  <string name="mipay_bill_delete_bill_summary">Delete bill will no longer receive a bill reminder of this card, confirm to delete?</string>
+  <string name="mipay_button_confirm_delete">Delete</string>
+  <string name="mipay_fingerprint_passwordless_payment">Fingerprint Passwordless Payment</string>
+  <string name="mipay_fingerprint_payment">Fingerprint Payment</string>
+  <string name="mipay_home_common_grid_title">Common</string>
+  <string name="mipay_home_service_grid_title">Service</string>
+  <string name="mipay_hongbao_congratulation">Congratulations</string>
+  <string name="mipay_hongbao_detail_merchant">Merchant says to you:</string>
+  <string name="mipay_hongbao_detail_notice_1">The red envelope of money has been deposited in Mi Balance</string>
+  <string name="mipay_hongbao_detail_notice_2">You can use for withdraw, transfer, pay</string>
+  <string name="mipay_hongbao_detail_show_balance">Show balance</string>
+  <string name="mipay_hongbao_detail_title">Red envelope detail</string>
+  <string name="mipay_hongbao_get">Get a red envelope</string>
+  <string name="mipay_hongbao_list_desc">I received %1$sred envelope</string>
+  <string name="mipay_hongbao_list_empty">No red envelope</string>
+  <string name="mipay_hongbao_list_item_amount">￥ %1$s</string>
+  <string name="mipay_hongbao_list_no_more">No more red envelopes</string>
+  <string name="mipay_hongbao_list_title">Red envelope received</string>
+  <string name="mipay_hongbao_loading">Loading red envelope…</string>
+  <string name="mipay_hongbao_open">Open</string>
+  <string name="mipay_hongbao_realname_authentication_button">Add bank card</string>
+  <string name="mipay_hongbao_realname_authentication_summary">"You can use red envelope after real name authentication
+Please add a bank card"</string>
+  <string name="mipay_hongbao_realname_authentication_title">Real name authentication</string>
+  <string name="mipay_mi_account">Mi Account</string>
+  <string name="mipay_nfc_trans_card_title">Transit card</string>
+  <string name="mipay_refresh">Refresh</string>
+  <string name="mipay_scan">Scan</string>
+  <string name="mipay_service">Services</string>
+  <string name="mipay_transfer_phone_number_confirm_account">Xiaomi Account:%1$s</string>
+  <string name="mipay_transfer_phone_number_confirm_phone_number">Tel:%1$s</string>
+  <string name="mipay_transfer_phone_number_confirm_title">Please confirm account information</string>
+  <string name="mipay_transfer_phone_number_no_user_summary">"The user has no Xiaomi account, Don't support to transfer to person which has no Xiaomi account"</string>
+  <string name="mipay_transfer_phone_number_select_title">Please select phone numbers</string>
+  <string name="mipay_transfer_success_notice">If he/she does not finish real name authentication in 24 hours, the money will return to your balance&gt;</string>
+  <string name="mipay_transfer_unset_confirm_hint">"Counterpart does not finish real name authentication, are you sure to transfer?
+If he/she does not finish real name authentication in 24 hours, the money will return to your balance"</string>
+  <string name="mipay_transfer_unset_confirm_title">Transfer to %1$s</string>
+  <string name="mipay_transfer_unset_hint">Counterpart real-name authentication not completed, confirm account information</string>
+  <string name="mipay_user_balance_notice_hint">After bind a bank card for real name authentication, you can use the balance</string>
+  <string name="mipay_wallet">Wallet</string>
+  <string name="ucashier_choose_pay_method_title">Choose Pay Method</string>
+  <string name="ucashier_confirm_button_text">Confirm Pay</string>
+  <string name="ucashier_error_account_changed">"Your account info has changed.
+Please log in again."</string>
+  <string name="ucashier_error_auth">Account login error, please log in again.</string>
+  <string name="ucashier_error_cert_date">"Certificate date error. 
+Please check your local date and try again."</string>
+  <string name="ucashier_error_common">System error. Please try again later.</string>
+  <string name="ucashier_error_network">"Couldn't connect to network."</string>
+  <string name="ucashier_error_server">Server error. Please try again later</string>
+  <string name="ucashier_handle_loading">Processing…</string>
+  <string name="ucashier_trade_price">￥%1$s</string>
+  <string name="ucashier_trade_title">Order Payment</string>
+</resources>

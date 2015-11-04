@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="gb">GB</string>
+  <string name="kb">KB</string>
+  <string name="mb">MB</string>
+  <string name="order_info_summary_for_traffic_packge">%1$s remain，Remain Traffic Size</string>
+  <string name="virtualsim_data_loss_dialog_btn_txt">Got it</string>
+  <string name="virtualsim_data_loss_dialog_descrption">Access information is corrupted, so you need a enabled network to regain the access information,. It is highly recommended that you use WLAN connection and re-enable the service</string>
+  <string name="virtualsim_data_loss_dialog_title">Access information is corrupted, you need to reacquire</string>
+  <string name="virtualsim_enable_dailog_description">Enable Virtual sim will disable entity SIM card. Once successfully will enable non-refundable and start timing. Enable now?</string>
+  <string name="virtualsim_enable_dailog_title">Enable virtual sim service now？</string>
+</resources>

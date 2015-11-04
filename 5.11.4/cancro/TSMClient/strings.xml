@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="bank_card_alert_no_up_apk">You need to download a necessary component to use this service</string>
+  <string name="bank_card_alert_up_apk_is_old">You need to update a necessary component to use this service</string>
+  <string name="bank_card_applied_in_another_device">Failed to apply, maybe you have applied in another device</string>
+  <string name="bank_card_phone_num_not_accordant">"Phone is not accordant with bank account's"</string>
+  <string name="bank_card_title">Bank card</string>
+  <string name="card_intro_open_card_intro_cup">"Bind your card to enjoy offline payment 
+ Supporting POS, go to Starbucks, McDonald's try it"</string>
+  <string name="card_intro_protocols_cup">Terms of Service</string>
+  <string name="get_cards_quantity">get cards quantity</string>
+  <string name="trans_card_title">Transit card</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="action_menu_current_version">Current version</string>
+  <string name="current_version_pad">Pad</string>
+  <string name="current_version_pc">Desktop</string>
+  <string name="current_version_phone">Phone</string>
+  <string name="more_option">More options</string>
+  <string name="pref_nav_mode_summary_pad">Pad</string>
+  <string name="pref_nav_mode_summary_phone">Phone</string>
+  <string name="pref_nav_mode_title">Browser Mode</string>
+  <string name="unsecurity_url_toast">"This website isn't secure"</string>
+</resources>
