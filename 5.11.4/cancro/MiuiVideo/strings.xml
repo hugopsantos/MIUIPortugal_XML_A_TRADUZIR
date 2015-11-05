@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="app_charging_wifi_mode">Carregar para actualizar a aplicação</string>
-  <string name="app_charging_wifi_mode_summary">Actualizar a aplicação automaticamente quando ligado à Wi-Fi e pagar</string>
-</resources>
