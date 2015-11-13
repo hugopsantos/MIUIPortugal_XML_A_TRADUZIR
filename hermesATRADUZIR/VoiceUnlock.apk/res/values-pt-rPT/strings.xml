@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unlock_set_unlock_mode_voice_weak">Desbloqueio por voz</string>
+    <string name="voice_unlock_setup_intro_header">Gravar voz de comando</string>
+    <string name="voice_command_select_title">Seleccionar comando</string>
+    <string name="voice_command_launch_app_title">Abrir aplicação</string>
+    <string name="reset_command_title">Apagar comando</string>
+    <string name="reset_command_prompt">O comando actual será apagado e não pode ser recuperado.</string>
+    <string name="reset_command_prompt_last">Será apagado o único comando de voz. O bloqueio de ecrã será alterado para o deslizar.</string>
+    <string name="voice_unlock_options_title">Opções</string>
+    <string name="voice_unlock_ok_label">OK</string>
+    <string name="voice_unlock_cancel_label">Cancelar</string>
+    <string name="voice_unlock_retry_label">Retroceder</string>
+    <string name="voice_unlock_record_label">Gravar</string>
+    <string name="voice_unlock_continue_label">Continuar</string>
+    <string name="voice_unlock_setup_intro">Diga um comando com 3-6 silabas e repita-o 3-6 vezes.</string>
+    <string name="voice_unlock_command">Comando de desbloqueio</string>
+    <string name="voice_command1">Comando 1</string>
+    <string name="voice_command2">Comando 2</string>
+    <string name="voice_command3">Comando 3</string>
+    <string name="command_summary">Desbloquear e abrir %1$s</string>
+    <string name="voice_command_primary">Abrir %1$s</string>
+    <string name="voice_command_customize">Personalizar</string>
+    <string name="voice_command_secondary">Abrir %1$s após desbloquear</string>
+    <string name="voice_command_record_description_unlock_screen">Desbloquear ecrã</string>
+    <string name="voice_command_record_description_command">Desbloquear ecrã e abrir %1$s</string>
+    <string name="voice_service_error_title">Erro no serviço de voz!</string>
+    <string name="stop_playing_title">Parar de reproduzir media</string>
+    <string name="stop_playing_message">Parar de reproduzir media apóes gravar.</string>
+    <string name="voice_command_record_introdution">Toque no botão GRAVAR e FALAR para a voz de comando.</string>
+    <string name="voice_command_record_prepare">A preparar, aguarde...</string>
+    <string name="voice_command_record_first_recording">"DIGA o comando.
+3-6 silabas."</string>
+    <string name="voice_command_record_non_first_recording">REPITA a voz de comando.</string>
+    <string name="voice_command_record_one_round_ok">PERCEBI.</string>
+    <string name="voice_command_record_one_round_noisy">Muito ruído de fundo. Tente novamente.</string>
+    <string name="voice_command_record_one_round_weak">Não foi ossível ouvir a voz claramente. Tente novamente.</string>
+    <string name="voice_command_record_one_round_diff">O comando é diferente do anterior.</string>
+    <string name="voice_command_record_one_round_exist">Identico a comando de voz existente. Tente outro.</string>
+    <string name="voice_command_record_recording_ok">Comando de voz conluído.</string>
+    <string name="voice_unlock_setup_end_all_done">Concluído.</string>
+    <string name="voice_unlock_setup_end_prompt">Diga o comando de voz para desbloquear o dispositivo.</string>
+    <string name="pass_word_file_missing">Não é possível reproduzir o comando de voz.</string>
+    <string name="time_out_title">O tempo terminou</string>
+    <string name="time_out_message">Não foi recebido comando de voz após 5 segundos. Tente novamente.</string>
+    <string name="during_call_title">Gravação não disponível</string>
+    <string name="during_call_message">A gravação de comando de voz não está disponível durante a chamada.</string>
+    <string name="voice_wake_up_set">Voz de acordar</string>
+    <string name="voice_wake_up_command_summary">Acordar e abrir %1$s</string>
+    <string name="voice_wake_up_command_title">Acordar %1$s</string>
+    <string name="play_command_action">Reproduzir comando</string>
+    <string name="modify_command_action">Modificar comando</string>
+    <string name="reset_command_action">Redefinir comando</string>
+    <string name="reinforce_command_action">Reforçar comando</string>
+    <string name="reinforce_command_action_summary">Gravar comando para melhorar a precisão</string>
+    <string name="voice_command_record_different_with_customized">Deu um comando diferente dos personalizados. Diga \" %1$s\".</string>
+    <string name="vow_setup_intro_with_speaker">Diga um comando com 4-6 silabas e repita-o 3-6 vezes.</string>
+    <string name="vow_record_first_recording_with_speaker">"DIGA o comando.
+4-6 silabas."</string>
+    <string name="vow_setup_intro_no_speaker">Repetir \"%1$s\" 3 vezes.</string>
+    <string name="vow_recording_no_speaker">REPETIR \"%1$s\".</string>
+    <string name="voice_wakeup_setup_end_prompt">Quando o ecrã está desligado, basta dizer a voz de comando para despertar o dispositivo.</string>
+</resources>
