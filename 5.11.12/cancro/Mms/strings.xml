@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="msg_type_hint_mx_b2c">Network notification</string>
+  <string name="msg_type_hint_mx_b2c_omit">Network notification</string>
+  <string name="mx_b2c_message_resend_not_online">"Can't resend message. Mi Message is offline."</string>
+  <string name="mx_b2c_message_server">Server</string>
+</resources>

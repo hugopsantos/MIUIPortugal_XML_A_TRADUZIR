@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="pm_root_acquired_button">Root access</string>
+  <string name="pm_root_acquired_notification_title">Getting root access</string>
+  <string name="pm_root_acquired_rooting">Getting root access %s</string>
+  <string name="pm_root_checking">Checking system info…</string>
+  <string name="pm_root_fail_button_retry">Retry</string>
+  <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
+  <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
+  <string name="pm_root_fail_title">"Couldn't get root access"</string>
+  <string name="pm_root_notification_download_title">Downloading</string>
+  <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
+  <string name="pm_root_success_title">Root access enabled</string>
+  <string name="root_acquired">Allow root access</string>
+  <string name="root_agree_check_box_title">I understand the risks of root access</string>
+  <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
+  <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
+  <string name="updater_service_busy_msg">This app uses the Updater Service to obtain root access to the required source files.</string>
+  <string name="updater_service_busy_title">Updater service is busy</string>
+</resources>

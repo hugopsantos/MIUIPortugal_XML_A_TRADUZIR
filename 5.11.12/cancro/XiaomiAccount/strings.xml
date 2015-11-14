@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="passport_login_check_find_device">Checking Find device status…</string>
+  <string name="passport_login_check_find_device_failed">"Couldn't check Find device status. Check your network connection."</string>
+  <string name="passport_login_find_device_bind">This device is associated with existing Mi Account ID (%s). Sign in to activate this device.</string>
+</resources>

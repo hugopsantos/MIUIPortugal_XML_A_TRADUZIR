@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="HIPS_Perm_Body_Sensors">Body sensors</string>
+  <string name="HIPS_Perm_Body_Sensors_Desc">Body sensors (e.g., Heart rate sensor)</string>
+  <string name="HIPS_Perm_External_Storage">Access and change files on internal storage</string>
+  <string name="HIPS_Perm_External_Storage_Desc">"Add and delete files on device's internal storage"</string>
+  <string name="HIPS_Perm_add_voicemail">Voice messages</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">Add system voice messages</string>
+  <string name="HIPS_Perm_get_accounts">Access accounts on device</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Access all accounts stored on device</string>
+  <string name="HIPS_Perm_process_outgoing_calls">Access Phone app</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitor and end calls</string>
+  <string name="HIPS_Perm_use_sip">Video services</string>
+  <string name="HIPS_Perm_use_sip_Desc">Use Session Initiation Protocol to stream video</string>
+  <string name="current_permission_template">%1$s of %2$s</string>
+  <string name="default_permission_description">perform an unknown action</string>
+  <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+  <string name="grant_dialog_button_allow">Allow</string>
+  <string name="grant_dialog_button_deny">Deny</string>
+  <string name="location_settings">Location Settings</string>
+  <string name="location_warning">%1$s is a provider of location services for this device. Location access can be modified from location settings.</string>
+  <string name="never_ask_again">Never ask again</string>
+  <string name="permission_group_title_charges_related">Charges</string>
+  <string name="permission_group_title_media_related">Multimedia</string>
+  <string name="permission_group_title_privacy_related">Privacy</string>
+  <string name="permission_group_title_settings_related">Settings</string>
+  <string name="permission_request_title">Permission request</string>
+  <string name="permission_warning_template">Allow %1$s to %2$s ?</string>
+  <string name="screen_overlay_button">Open settings</string>
+  <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
+  <string name="screen_overlay_title">Screen overlay detected</string>
+</resources>

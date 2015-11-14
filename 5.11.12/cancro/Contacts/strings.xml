@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="calls_voip_prompt">VOIP</string>
+  <string name="contact_edit_save_error_empty">Contact is empty</string>
+  <string name="create_voip_shortcut_success">Shortcut created</string>
+  <string name="import_from_onekey_migrate">Import with Transfer</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
+  <string name="in_call_show_filter_processing">Processing...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
+  <string name="no_voip_contacts">No Mi Voice contacts</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_loading_contact">Just a sec…</string>
+  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
+</resources>

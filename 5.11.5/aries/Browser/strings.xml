@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="current_version_pad">Pad</string>
+  <string name="video_title_prefix_message">"Offline: "</string>
+</resources>

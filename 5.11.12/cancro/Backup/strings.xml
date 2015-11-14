@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
+  <string name="backup_hint_onpad">Keep your device powered on</string>
+  <string name="current_pad_location">Pad</string>
+</resources>

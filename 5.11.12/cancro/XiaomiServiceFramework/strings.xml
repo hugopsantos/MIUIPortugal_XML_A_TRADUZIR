@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="activate_feature_register_xiaomi_account">Mi Account setup</string>
+  <string name="activate_feature_verify_mx_token">Mi Account verification</string>
+  <string name="activate_phone_cancel_notif_title">SIM card activation cancelled</string>
+  <string name="activate_phone_cancel_notif_title_msim">SIM card %s activation cancelled</string>
+  <string name="activate_phone_success_notif_title">SIM card activated</string>
+  <string name="activate_phone_success_notif_title_msim">SIM card %s activated</string>
+  <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
+</resources>

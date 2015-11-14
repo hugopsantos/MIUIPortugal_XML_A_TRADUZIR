@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="internet_connection_notification">Internet connection notification</string>
+  <string name="internet_connection_notification_descrip">Show internet connection notification every time you open Calendar</string>
+  <string name="notice_button_exit">Exit</string>
+  <string name="notice_declaration_ignore">"Don't show again"</string>
+</resources>
