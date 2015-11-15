@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
-  <string name="backup_hint_onpad">Keep your device powered on</string>
+  <string name="backup_empty_info_onpad">Faça uma cópia de segurança dos seus dados, definições e aplicações</string>
+  <string name="backup_hint_onpad">Mantenha o seu dispositivo ligado</string>
   <string name="current_pad_location">Pad</string>
 </resources>
