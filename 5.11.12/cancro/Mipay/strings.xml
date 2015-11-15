@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mipay_bank_repay_now">Repay</string>
-  <string name="mipay_bill_detail_title">Bill detail</string>
+  <string name="mipay_bank_repay_now">Pagar novamente</string>
+  <string name="mipay_bill_detail_title">Detalhes do pagamento</string>
 </resources>

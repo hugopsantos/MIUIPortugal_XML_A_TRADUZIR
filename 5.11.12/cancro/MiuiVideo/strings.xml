@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="buy_vip">buy vip</string>
-  <string name="clubber">clubber</string>
-  <string name="clubber_center">clubber center</string>
-  <string name="clubber_info">clubber information</string>
-  <string name="expire_time">expire time</string>
+  <string name="buy_vip">Comprar vip</string>
+  <string name="clubber">Sócio de clube</string>
+  <string name="clubber_center">Centro de sócio de clube</string>
+  <string name="clubber_info">Informção do sócio de clube</string>
+  <string name="expire_time">Prazo</string>
   <string name="mibi">mibi</string>
-  <string name="no_pay_record">no pay record</string>
-  <string name="not_buy_vip">no vip</string>
-  <string name="not_exist_openid">getting account info, please wait...</string>
-  <string name="pay_record">pay record</string>
-  <string name="vip_package">vip package</string>
-  <string name="vp_app_download">Application download</string>
-  <string name="vp_download_apk_from_video_ad">Install the application</string>
+  <string name="no_pay_record">Sem registos de pagamento</string>
+  <string name="not_buy_vip">Sem vip</string>
+  <string name="not_exist_openid">A obter informações da conta, aguarde...</string>
+  <string name="pay_record">Registo de pagamentos</string>
+  <string name="vip_package">Pacote vip</string>
+  <string name="vp_app_download">Transferência de aplicações</string>
+  <string name="vp_download_apk_from_video_ad">Instalar aplicação</string>
 </resources>

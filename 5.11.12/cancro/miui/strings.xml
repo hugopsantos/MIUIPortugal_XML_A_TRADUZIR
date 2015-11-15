@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="hybrid_provider">The web page provided by %1$s .</string>
-  <string name="no_network">"Can't connect to the network"</string>
-  <string name="webview_reload">retry</string>
+  <string name="hybrid_provider">Página fornecida por %1$s .</string>
+  <string name="no_network">Não foi possível ligar à rede</string>
+  <string name="webview_reload">Tentar novamente</string>
 </resources>

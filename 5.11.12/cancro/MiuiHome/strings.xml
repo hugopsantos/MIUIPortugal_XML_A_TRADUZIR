@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="apply_negative_action">"Don't apply"</string>
+  <string name="apply_negative_action">Não aplicar</string>
 </resources>

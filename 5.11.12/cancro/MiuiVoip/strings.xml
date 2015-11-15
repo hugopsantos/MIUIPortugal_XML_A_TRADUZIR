@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mx_dspt_tips">This service requires your phone number</string>
-  <string name="pref_group_voip_contacts">Mi Voice contacts</string>
+  <string name="mx_dspt_tips">Este serviço requer o número de telefone</string>
+  <string name="pref_group_voip_contacts">Contactos Voz Mi</string>
   <string name="pref_key_leak_canary">Leak Canary</string>
-  <string name="pref_key_voip_contact_list">Online contacts</string>
-  <string name="pref_log_cache_users">Log cache users</string>
+  <string name="pref_key_voip_contact_list">Contactos online</string>
+  <string name="pref_log_cache_users">Registo de cache de utilizadores</string>
   <string name="process_leakcanary">:leakcanary</string>
-  <string name="voip_about">Mi Voice</string>
-  <string name="voip_about_gif_desc">"Make calls using Mi Voice directly from the dialer or from a contact's info page."</string>
-  <string name="voip_about_net_desc">Making a call with Mi Voice uses less than 400KB per minute (about ￥0.02 on a standard 300M monthly plan).</string>
-  <string name="voip_about_net_title">Mobile data usage</string>
-  <string name="voip_about_support_desc">"If the person you're calling is using a Mi device, make sure they've turned on Mi Voice. If the person you're calling is using a non-Mi device, they can use Mi Voice by downloading the Weihui Internet Calling app from the Mi App Store."</string>
-  <string name="voip_about_support_title">Call any Android device</string>
-  <string name="voip_support_net_tips">Use a WLAN or 3G or higher mobile data connection</string>
+  <string name="voip_about">Voz Mi</string>
+  <string name="voip_about_gif_desc">Fazer chamadas do Voz Mi directamente pelas teclas de marcação ou pelas informações de contacto.</string>
+  <string name="voip_about_net_desc">A chamada com Voz Mi utiliza pelo menos 400KB por minuto (cera de « ￥0.02 do plano mensal de 300M).</string>
+  <string name="voip_about_net_title">Uso de dados móveis</string>
+  <string name="voip_about_support_desc">Certifique-se que as pessoas com dispositivo Mi para quem quer ligar, têm o Voz Mi ligado. As pessoas com sem dispositivos Mi podem transferir a aplicação Weihui Internet Calling da Mi App Store.</string>
+  <string name="voip_about_support_title">Ligue para qualquer dispositivo Android</string>
+  <string name="voip_support_net_tips">Utilizar o Wi-Fi, 3G ou ligação de dados de alta velocidade</string>
 </resources>

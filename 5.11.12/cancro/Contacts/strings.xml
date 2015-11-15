@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="calls_voip_prompt">VOIP</string>
-  <string name="contact_edit_save_error_empty">Contact is empty</string>
-  <string name="create_voip_shortcut_success">Shortcut created</string>
-  <string name="import_from_onekey_migrate">Import with Transfer</string>
-  <string name="in_call_show_filter_brannan">Dawn</string>
-  <string name="in_call_show_filter_earlybird">Autumn</string>
-  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="contact_edit_save_error_empty">O contacto está vazio</string>
+  <string name="create_voip_shortcut_success">Atalho criado</string>
+  <string name="import_from_onekey_migrate">Importar com transferência</string>
+  <string name="in_call_show_filter_brannan">Amanhecer</string>
+  <string name="in_call_show_filter_earlybird">Outono</string>
+  <string name="in_call_show_filter_jstyle">Japonês</string>
   <string name="in_call_show_filter_mono">Mono</string>
-  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_nashvile">Índigo</string>
   <string name="in_call_show_filter_none">Normal</string>
-  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
-  <string name="in_call_show_filter_processing">Processing...</string>
-  <string name="in_call_show_filter_vivid">Vivid</string>
-  <string name="no_voip_contacts">No Mi Voice contacts</string>
-  <string name="voip_contact_label">Mi Voice</string>
-  <string name="voip_contacts_entry">Mi Voice</string>
-  <string name="voip_loading_contact">Just a sec…</string>
-  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
-  <string name="voip_shortcut_name">Mi Voice</string>
+  <string name="in_call_show_filter_process_error">Ocorreu um erro.</string>
+  <string name="in_call_show_filter_processing">A processar...</string>
+  <string name="in_call_show_filter_vivid">Vívido</string>
+  <string name="no_voip_contacts">Nãoi existem contactos Voz Mi</string>
+  <string name="voip_contact_label">Voz Mi</string>
+  <string name="voip_contacts_entry">Voz Mi</string>
+  <string name="voip_loading_contact">Aguarde um segundo…</string>
+  <string name="voip_recommend_msg">Toque para utilizar a Voz Mi</string>
+  <string name="voip_shortcut_name">Voz Mi</string>
 </resources>

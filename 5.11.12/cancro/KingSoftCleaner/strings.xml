@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
-  <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
+  <string name="junk_tag_RF_EmptyFolders">Abrir pastas</string>
+  <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
 </resources>
