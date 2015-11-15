@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="change_time">Mudar intervalo</string>
-  <string name="day">1 dia</string>
-  <string name="hour_1">1 hora</string>
-  <string name="hour_3">3 horas</string>
-  <string name="setting_head">Definições</string>
-  <string name="wlan_download">Apenas Wi-Fi</string>
-</resources>

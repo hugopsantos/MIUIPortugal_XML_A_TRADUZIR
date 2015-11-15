@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="msg_type_hint_mx_b2c">Notificação de rede</string>
-  <string name="msg_type_hint_mx_b2c_omit">Notificação de rede</string>
-  <string name="mx_b2c_message_resend_not_online">Não foi possível reenviar a mensagem. As Mensagens Mi estão desligadas.</string>
-  <string name="mx_b2c_message_server">Servidor</string>
-</resources>

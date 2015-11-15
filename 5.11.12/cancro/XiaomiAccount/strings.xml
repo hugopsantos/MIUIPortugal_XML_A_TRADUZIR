@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="passport_login_check_find_device">A verificar estado do Encontrar dispositivo…</string>
-  <string name="passport_login_check_find_device_failed">Não foi possível verificar o estado do Encontar dispositivo. Verifique a ligação à rede.</string>
-  <string name="passport_login_find_device_bind">Este dispositivo está associado a uma Conta Mi existente (%s). Iniciar sessão para activar o dispositivo.</string>
-</resources>

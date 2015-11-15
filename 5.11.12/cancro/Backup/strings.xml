@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="backup_empty_info_onpad">Faça uma cópia de segurança dos seus dados, definições e aplicações</string>
-  <string name="backup_hint_onpad">Mantenha o seu dispositivo ligado</string>
-  <string name="current_pad_location">Pad</string>
-</resources>

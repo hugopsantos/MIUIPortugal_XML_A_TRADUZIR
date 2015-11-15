@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="download_apk_desktop_installing">A instalar</string>
-  <string name="download_apk_desktop_pause">Em pausa</string>
-  <string name="download_apk_desktop_pending">Pendente</string>
-  <string name="download_apk_desktop_running">A transferir</string>
-</resources>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="creat_task_success">Adicionado à lista de transferências</string>
-  <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
-  <string name="sniff_search_install">Instalar</string>
-  <string name="sniff_terms_msg_bold">Termos de Utilização</string>
-</resources>
