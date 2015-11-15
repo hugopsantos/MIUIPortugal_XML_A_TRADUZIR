@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
   <string name="internet_connection_notification">Notificação de ligação à internet</string>
   <string name="internet_connection_notification_descrip">Mostrar a notificação de ligação à internet sempre que abrir o Calendário</string>

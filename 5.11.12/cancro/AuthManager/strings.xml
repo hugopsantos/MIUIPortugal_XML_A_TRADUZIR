@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
-<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
   <string name="HIPS_Perm_Body_Sensors">Sensores corporais</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">Sensores corporais (p.ex., sensor de frequência cardíaca)</string>
