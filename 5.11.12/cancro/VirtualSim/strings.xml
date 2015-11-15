@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="add_shortcut">Create shortcut</string>
+  <string name="add_shortcut">Criar atalho</string>
   <string name="edit_hint_apn">cmnet</string>
   <string name="edit_hint_fplmn">46008</string>
   <string name="label_apn">APN:</string>
   <string name="label_fplmn">FPLMN:</string>
-  <string name="outbound_guide_view_btn">Have a look</string>
-  <string name="outbound_guide_view_content">Mi Roaming is a data network service for outbount tourism, you will enjoy the convenience of Internet service without entity Sim card</string>
-  <string name="summary_logout_miaccount">Mi account is log out</string>
-  <string name="welcome_description">Connect to mobile data networks without swapping SIM cards.</string>
-  <string name="welcome_user_agreement_content3">and Access Network</string>
+  <string name="outbound_guide_view_btn">Ver</string>
+  <string name="outbound_guide_view_content">O roaming Mi é um serviço de rede de dados móveis, poderá desfrutar da comodidade do serviço de internet sem o cartão SIM</string>
+  <string name="summary_logout_miaccount">Terminat sessão da Conta Mi</string>
+  <string name="welcome_description">Ligar a redes de dados móveis , sem mudar cartão SIM.</string>
+  <string name="welcome_user_agreement_content3">e aceder à rede</string>
 </resources>

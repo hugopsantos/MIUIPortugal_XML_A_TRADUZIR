@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="activity_title_root_acquired">Allow root access</string>
-  <string name="activity_title_root_note">About root access</string>
-  <string name="pm_root_success_notification_title">Root access enabled</string>
-  <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
+  <string name="activity_title_root_acquired">Permitir acesso root</string>
+  <string name="activity_title_root_note">Sobre acesso root</string>
+  <string name="pm_root_success_notification_title">Acesso root ligado</string>
+  <string name="prompt_input_time_illegal">Não foi possível neste momento, tente mais tarde.</string>
 </resources>

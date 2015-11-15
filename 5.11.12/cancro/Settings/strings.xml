@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="checking_find_device_status">Checking Find device status…</string>
-  <string name="failed_to_check_find_device_status_content">"Couldn't check Find device status. Wait a minute or two and try again."</string>
-  <string name="failed_to_check_find_device_status_title">"Couldn't check Find device status"</string>
-  <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
-  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
-  <string name="security_patch">Android security patch level</string>
-  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
-  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
-  <string name="shuting_down_find_device">Turning off Find device…</string>
+  <string name="checking_find_device_status">A verificar estado do Encontrar dispositivo…</string>
+  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado do Encontar dispositivo. Aguarde uns minutos e tente novamente.</string>
+  <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado do Encontar dispositivo</string>
+  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar o Encontar dispositivo. Aguarde uns minutos e tente novamente.</string>
+  <string name="failed_to_shut_down_find_device_title">Não foi possível desligar o Encontar dispositivo</string>
+  <string name="security_patch">Nível de segurança android</string>
+  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar o Encontrar dispositivo. Verifique se está ligado à rede.</string>
+  <string name="shut_down_find_device_network_failure_title">Não foi possível ligar à rede</string>
+  <string name="shuting_down_find_device">A desligar Encontrar dispositivo…</string>
 </resources>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="pm_root_acquired_button">Root access</string>
-  <string name="pm_root_acquired_notification_title">Getting root access</string>
-  <string name="pm_root_acquired_rooting">Getting root access %s</string>
-  <string name="pm_root_checking">Checking system info…</string>
-  <string name="pm_root_fail_button_retry">Retry</string>
-  <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
-  <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
-  <string name="pm_root_fail_title">"Couldn't get root access"</string>
-  <string name="pm_root_notification_download_title">Downloading</string>
-  <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
-  <string name="pm_root_success_title">Root access enabled</string>
-  <string name="root_acquired">Allow root access</string>
-  <string name="root_agree_check_box_title">I understand the risks of root access</string>
-  <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
-  <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
-  <string name="updater_service_busy_msg">This app uses the Updater Service to obtain root access to the required source files.</string>
-  <string name="updater_service_busy_title">Updater service is busy</string>
+  <string name="pm_root_acquired_button">Acesso root</string>
+  <string name="pm_root_acquired_notification_title">Obter acesso root</string>
+  <string name="pm_root_acquired_rooting">Obter acesso root %s</string>
+  <string name="pm_root_checking">A verificar informação do sistema…</string>
+  <string name="pm_root_fail_button_retry">Tentar novamente</string>
+  <string name="pm_root_fail_msg">Esta aplicação não obteve acesso root. Tente novamente.</string>
+  <string name="pm_root_fail_service_busy">Aguarde até o dispositivo terminar a actualização e tente novamente.</string>
+  <string name="pm_root_fail_title">Não foi possível obter acesso root</string>
+  <string name="pm_root_notification_download_title">A transferir</string>
+  <string name="pm_root_success_msg">Reinicie o dispositivo parar completar o último passo.</string>
+  <string name="pm_root_success_title">Acesso root ligado</string>
+  <string name="root_acquired">Permitir acesso root</string>
+  <string name="root_agree_check_box_title">Compreendo os risco do acesso root</string>
+  <string name="root_dangerous_msg">Permitir acesso root é extremamente arriscado e pode expor o dispositivo e dados pessoais a ataques de aplicações maliciosas.</string>
+  <string name="set_network_root_msg">Ligue à rede para obter acesso root.</string>
+  <string name="updater_service_busy_msg">Esta aplicação utiliza o serviço de actualização para obter acesso root dos ficheiros fonte.</string>
+  <string name="updater_service_busy_title">O serviço de actualização está ocupado</string>
 </resources>
