@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="clean_hint">Tap to free up space</string>
-  <string name="create_shortcut_cancel">No thanks</string>
-  <string name="create_shortcut_checkbox_hint">"Don't show again"</string>
-  <string name="create_shortcut_confirm">Create</string>
-  <string name="create_shortcut_message">You use File Explorer very often. Create a Home screen shortcut to manage files faster?</string>
-  <string name="create_shortcut_title">Create a shortcut</string>
-  <string name="menu_item_sort_by_added_time">Added</string>
-  <string name="notification_wechat_sticker_hint">Show notification when new WeChat stickers are available</string>
-  <string name="notification_wechat_sticker_switch_title">New stickers daily notification</string>
-  <string name="private_toast_hint1">Tap to add files to hidden folders</string>
-  <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
-  <string name="private_toast_hint3">Pull down to open Hidden folders</string>
+  <string name="clean_hint">Toque para libertar espaço</string>
+  <string name="create_shortcut_cancel">Não obrigado</string>
+  <string name="create_shortcut_checkbox_hint">Não mostrar novamente</string>
+  <string name="create_shortcut_confirm">Criar</string>
+  <string name="create_shortcut_message">Utiliza o Explorador frequentemente. Criar atalho no ecrã principal?</string>
+  <string name="create_shortcut_title">Criar atalho</string>
+  <string name="menu_item_sort_by_added_time">Adicionado</string>
+  <string name="notification_wechat_sticker_hint">Mostrar notificações quando estiverem disponíveis notificações do WeChat</string>
+  <string name="notification_wechat_sticker_switch_title">Novas notificações diárias</string>
+  <string name="private_toast_hint1">Toque para adicionar ficheiros às pastas ocultas</string>
+  <string name="private_toast_hint2">Toque para ocultar ficheiro, toque a mantenha o dedo e depois adicione à pasta oculta.</string>
+  <string name="private_toast_hint3">Puxe para baixo para ver as pastas ocultas</string>
 </resources>

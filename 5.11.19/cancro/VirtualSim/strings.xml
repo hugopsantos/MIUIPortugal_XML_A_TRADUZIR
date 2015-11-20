@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="purchased_traffic_pack_again_notification_content">%1$s is about to run out</string>
-  <string name="purchased_traffic_pack_again_notification_title">Virtual SIM You Purchased is about to r</string>
-  <string name="summary_mipush_exhuast">Mi Roaming has run out</string>
-  <string name="summary_mipush_overtime">Mi Roaming has expired</string>
-  <string name="virtualsim_enable_dialog_inchina_description">"You may not arrive at the destination, it won't succeed to enable service. Really you want to enable it?"</string>
-  <string name="virtualsim_enable_dialog_inchina_title">You may not arrive at the destination</string>
+  <string name="purchased_traffic_pack_again_notification_content">%1$s está a expirar</string>
+  <string name="purchased_traffic_pack_again_notification_title">O virtual SIM que comprou, está a expirar</string>
+  <string name="summary_mipush_exhuast">O roaming Mi está a expirar</string>
+  <string name="summary_mipush_overtime">O roaming Mi expirou</string>
+  <string name="virtualsim_enable_dialog_inchina_description">Pode não chegar ao destino, não consiguirá activar o serviço. Quer activar?</string>
+  <string name="virtualsim_enable_dialog_inchina_title">Pode não chegar ao destino</string>
 </resources>

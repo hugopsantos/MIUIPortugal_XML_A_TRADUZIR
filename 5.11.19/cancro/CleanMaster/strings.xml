@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="cached_garbage">Cache</string>
-  <string name="flow_rank_title">Data usage</string>
-  <string name="grabage_rank_title">Cleaned today</string>
-  <string name="total_clean_text">Clear</string>
-  <string name="unlike">No thanks</string>
+  <string name="flow_rank_title">Utilização de dados</string>
+  <string name="grabage_rank_title">Limpo hoje</string>
+  <string name="total_clean_text">Limpar</string>
+  <string name="unlike">Não obrigad</string>
 </resources>
