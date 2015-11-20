@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="edit_hint_apn">cmnet</string>
+  <string name="edit_hint_fplmn">46008</string>
+  <string name="label_apn">APN:</string>
+  <string name="label_fplmn">FPLMN:</string>
+</resources>

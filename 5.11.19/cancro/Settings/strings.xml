@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
+</resources>

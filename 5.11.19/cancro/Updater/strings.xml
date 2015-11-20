@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
+</resources>
