@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="calls_voip_prompt">VOIP</string>
-  <string name="in_call_show_filter_mono">Mono</string>
-  <string name="in_call_show_filter_none">Normal</string>
-</resources>
