@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="android_start_title">O Android está a iniciar…</string>
-  <string name="config_mobile_hotspot_provision_app_no_ui" />
-  <string name="config_mobile_hotspot_provision_response" />
+  <string name="config_mobile_hotspot_provision_app_no_ui">None</string>
+  <string name="config_mobile_hotspot_provision_response">None</string>
   <string name="downtime_condition_line_one">Até o tempo de inactividade terminar</string>
   <string name="durationMinute">%1$d min.</string>
   <string name="factory_reset_message">A aplicação de aministração está em falta ou tem componentes corrompidos e não podem ser usados. O dispositivo não será apagado. Contacte o administrador.</string>

@@ -7,7 +7,7 @@
 Fale para o micro principal e deverá ouvir a sua voz na coluna"</string>
   <string name="cit_blue_torch_on">Desligue a lanterna</string>
   <string name="cit_button_light_writein">Brilho do botão de gravação em</string>
-  <string name="cit_camera_calibration_summary">"Test instructions:
+  <string name="cit_camera_calibration_summary">"Instruções de teste:
 
 1.Toque no botão de calibração abaixo para entrar na interface da câmara
 2.Toque no botão Voltar para sair do interface da câmara
