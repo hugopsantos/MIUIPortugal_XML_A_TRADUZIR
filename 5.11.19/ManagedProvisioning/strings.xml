@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="profile_owner_cancel_cancel">Não</string>
-  <string name="profile_owner_cancel_message">Cancelar a configuração?</string>
-  <string name="profile_owner_cancel_ok">Sim</string>
-  <string name="profile_owner_cancel_title">Cancelar a configuração?</string>
-  <string name="profile_owner_cancelling">A cancelar...</string>
-</resources>
