@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cit_audio_calibrating">Calibration is ongoing...</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test. 
+  <string name="cit_audio_calibrating">A calibrar...</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de retorno do micro principal para a coluna</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de retorno do micro principal para a coluna. 
 
-Speak to front microphone , you should hear voice in speaker"</string>
-  <string name="cit_blue_torch_on">Turn on white flash light</string>
-  <string name="cit_button_light_writein">Brightness of button write in</string>
+Fale para o micro principal e deverá ouvir a sua voz na coluna"</string>
+  <string name="cit_blue_torch_on">Desligue a lanterna</string>
+  <string name="cit_button_light_writein">Brilho do botão de gravação em</string>
   <string name="cit_camera_calibration_summary">"Test instructions:
 
-1.Tap the calibration button below to enter Camera interface
-2.Press Back button to exit the camera interface
-3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
-  <string name="cit_external_sd_check_summary">This test will check SD card status</string>
-  <string name="cit_external_sd_check_title">SD card test</string>
-  <string name="cit_left_button_light">Left button light</string>
-  <string name="cit_minus_one">Minus 1</string>
-  <string name="cit_plus_one">Plus 1</string>
-  <string name="cit_right_button_light">Right button light</string>
-  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
-  <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
-  <string name="cit_tool_modem_mbn">Change Modem Config</string>
-  <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
+1.Toque no botão de calibração abaixo para entrar na interface da câmara
+2.Toque no botão Voltar para sair do interface da câmara
+3.Haverá um aviso a indicar que a calibração foi efectuada"</string>
+  <string name="cit_external_sd_check_summary">Este teste irá verificar o estado do cartão SD</string>
+  <string name="cit_external_sd_check_title">Teste do cartão SD</string>
+  <string name="cit_left_button_light">Luz do botão esquerdo</string>
+  <string name="cit_minus_one">Menos 1</string>
+  <string name="cit_plus_one">Mais 1</string>
+  <string name="cit_right_button_light">Luz do botão direito</string>
+  <string name="cit_tool_cal_camera">Ferramenta de calibração da câmara</string>
+  <string name="cit_tool_enable_display_3A_log">Ligar registo de ecrã 3A</string>
+  <string name="cit_tool_modem_mbn">Mudar configuração do modem</string>
+  <string name="cit_yellow_torch_on">Ligue a luz amarela da lanterna</string>
 </resources>

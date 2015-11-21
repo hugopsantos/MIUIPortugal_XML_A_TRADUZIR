@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="profile_owner_cancel_cancel">No</string>
-  <string name="profile_owner_cancel_message">Are you sure you want to stop setting up?</string>
-  <string name="profile_owner_cancel_ok">Yes</string>
-  <string name="profile_owner_cancel_title">Stop setting up?</string>
-  <string name="profile_owner_cancelling">Cancelling...</string>
+  <string name="profile_owner_cancel_cancel">Não</string>
+  <string name="profile_owner_cancel_message">Cancelar a configuração?</string>
+  <string name="profile_owner_cancel_ok">Sim</string>
+  <string name="profile_owner_cancel_title">Cancelar a configuração?</string>
+  <string name="profile_owner_cancelling">A cancelar...</string>
 </resources>
