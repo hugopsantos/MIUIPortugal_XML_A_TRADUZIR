@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="android_start_title">Android is starting…</string>
+  <string name="config_mobile_hotspot_provision_app_no_ui">None</string>
+  <string name="config_mobile_hotspot_provision_response">None</string>
+  <string name="downtime_condition_line_one">Until your downtime ends</string>
+  <string name="durationMinute">%1$d min</string>
+  <string name="factory_reset_message">"The admin app is missing components or corrupted, and can't be used. Your device will now be erased. Contact your administrator for assistance."</string>
+  <string name="factory_reset_warning">Your device will be erased</string>
+  <string name="muted_by">Muted by %1$s</string>
+  <string name="peerTtyModeFull">Peer requested TTY Mode FULL</string>
+  <string name="peerTtyModeHco">Peer requested TTY Mode HCO</string>
+  <string name="peerTtyModeOff">Peer requested TTY Mode OFF</string>
+  <string name="peerTtyModeVco">Peer requested TTY Mode VCO</string>
+  <string name="permdesc_bindCarrierMessagingService">Allows the holder to bind to the top-level interface of a carrier messaging service. Should never be needed for normal apps.</string>
+  <string name="permdesc_broadcastNetworkPrivileged">Allows the app to send privileged network broadcasts. Never needed for normal apps.</string>
+  <string name="permdesc_connection_manager">Allows the app to manage telecom connections.</string>
+  <string name="permdesc_controlVpn">Allows the app to control low-level features of Virtual Private Networks.</string>
+  <string name="permdesc_fm">Allows the app to access FM radio to listen to programs.</string>
+  <string name="permdesc_register_call_provider">Allows the app to register new telecom connections.</string>
+  <string name="permdesc_register_sim_subscription">Allows the app to register new telecom SIM connections.</string>
+  <string name="permlab_bindCarrierMessagingService">bind to a carrier messaging service</string>
+  <string name="permlab_broadcastNetworkPrivileged">send privileged network broadcasts</string>
+  <string name="permlab_connection_manager">manage telecom connections</string>
+  <string name="permlab_controlVpn">control Virtual Private Networks</string>
+  <string name="permlab_fm">access FM radio</string>
+  <string name="permlab_register_call_provider">register new telecom connections</string>
+  <string name="permlab_register_sim_subscription">register new telecom SIM connections</string>
+  <string name="ssl_ca_cert_noti_by_administrator">By your work profile administrator</string>
+  <string name="system_error_manufacturer">"There's an internal problem with your device. Contact your manufacturer for details."</string>
+  <string name="system_error_wipe_data">"There's an internal problem with your device, and it may be unstable until you factory data reset."</string>
+  <string name="toolbar_collapse_description">Collapse</string>
+  <string name="work_profile_deleted">Work profile deleted</string>
+  <string name="work_profile_deleted_description">Work profile deleted due to missing admin app.</string>
+  <string name="work_profile_deleted_details">The work profile admin app is either missing or corrupted. As a result, your work profile and related data have been deleted. Contact your administrator for assistance.</string>
+  <string name="zen_mode_next_alarm_line_one">Until next alarm</string>
+  <string name="zen_mode_next_alarm_summary">Until next alarm at %1$s</string>
+  <string name="zen_mode_until">Until %1$s</string>
+</resources>
