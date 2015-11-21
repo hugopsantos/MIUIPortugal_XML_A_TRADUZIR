@@ -3,7 +3,7 @@
   <string name="pref_sniff_shortcut">Criar atalho</string>
   <string name="sniff_shortcut_cloudconfig_btn">OK</string>
   <string name="sniff_shortcut_cloudconfig_context">A actualizar fonte…</string>
-  <string name="sniff_shortcut_cloudconfig_title">Aguatde um segundo…</string>
+  <string name="sniff_shortcut_cloudconfig_title">Aguade um segundo…</string>
   <string name="sniff_shortcut_create">Atalho criado</string>
   <string name="sniff_shortcut_name">Encontrar fonte</string>
   <string name="sniff_shortcut_tip">Adicionar atalhos para encontrar as fontes mais rápido.</string>
