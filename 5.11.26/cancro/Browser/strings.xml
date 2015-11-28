@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="action_menu_text_download">Manage downloads</string>
+  <string name="download_btn_select_all">Select all</string>
+  <string name="download_btn_select_none">Deselect all</string>
+  <string name="download_filter_all">All</string>
+  <string name="download_filter_application">Apps</string>
+  <string name="download_filter_audio">Music</string>
+  <string name="download_filter_image">Photos</string>
+  <string name="download_filter_others">Other</string>
+  <string name="download_filter_text">Files</string>
+  <string name="download_filter_video">Videos</string>
+  <string name="download_memory_info_avai">" available %s|"</string>
+  <string name="download_memory_info_total">" total ​%s"</string>
+  <string name="download_status_failed">"Couldn't download"</string>
+  <string name="download_status_pending">Waiting</string>
+  <string name="menu_title_clear_all">Clear all</string>
+  <string name="menu_title_open_file_management">Open File Explorer</string>
+  <string name="open_file_explorer_failed">"Can't open File Explorer"</string>
+  <string name="unknown_title">Unknown</string>
+</resources>

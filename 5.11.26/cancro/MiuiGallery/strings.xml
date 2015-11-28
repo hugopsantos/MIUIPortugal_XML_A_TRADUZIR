@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="operation_add_secret_button">Hide</string>
+  <string name="operation_remove_from_face_album_button">Remove</string>
+  <string name="operation_remove_secret_button">Unhide</string>
+</resources>

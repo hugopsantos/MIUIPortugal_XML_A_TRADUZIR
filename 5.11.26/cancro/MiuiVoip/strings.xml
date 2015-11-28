@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="__leak_canary_class_has_leaked">%s leaked</string>
+  <string name="__leak_canary_display_activity_label">Leaks</string>
+  <string name="__leak_canary_leak_list_title">Leak found in %s</string>
+  <string name="__leak_canary_notification_message">Tab to view details</string>
+  <string name="__leak_canary_share_heap_dump">Share heap dump</string>
+  <string name="__leak_canary_share_leak">Share</string>
+  <string name="__leak_canary_share_with">Share with…</string>
+  <string name="pref_print_key_logs">Print key logs</string>
+  <string name="voip_callee_offline_and_dial_phone">"The person you called is offline.
+Switching to GSM  in %1$d sec…"</string>
+</resources>

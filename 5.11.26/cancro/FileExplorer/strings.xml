@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="add_private">Add files to hidden folders</string>
+  <string name="encrypt_success_first_five">"Encrypted successfully. Pull down on the File Explorer's start page to view files."</string>
+  <string name="private_folder_no_file_hints">Hold a file or folder to hide it.</string>
+  <string name="private_folder_update">Updating hidden folders</string>
+</resources>

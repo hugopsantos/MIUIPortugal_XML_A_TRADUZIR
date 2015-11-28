@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="low_memory">low_memory!</string>
+  <string name="message_block_confirmation">Confirm to not receive messages?</string>
+  <string name="message_block_processing">processing</string>
+  <string name="message_block_reminder">Reminder</string>
+  <string name="scan_result">scan result</string>
+</resources>
