@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="add_private">Add files to hidden folders</string>
-  <string name="encrypt_success_first_five">"Encrypted successfully. Pull down on the File Explorer's start page to view files."</string>
-  <string name="private_folder_no_file_hints">Hold a file or folder to hide it.</string>
-  <string name="private_folder_update">Updating hidden folders</string>
+  <string name="add_private">Adicionar ficheiros às pastas ocultas</string>
+  <string name="encrypt_success_first_five">Encriptação concluída. Para ver o ficheiros puxe para baixo na página inicial do Explorador.</string>
+  <string name="private_folder_no_file_hints">Segure um ficheiro ou pasta para o ocultar.</string>
+  <string name="private_folder_update">A actualizar pastas ocultas</string>
 </resources>

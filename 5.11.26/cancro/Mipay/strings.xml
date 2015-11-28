@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="mipay_fingerprint_payment_title">Fingerprint Payment</string>
-  <string name="mipay_fingerprint_state_identify_error">Verify failed and retry please</string>
-  <string name="mipay_fingerprint_state_identify_failed">Verify failed and switch to password</string>
-  <string name="mipay_fingerprint_state_identify_success">Paying</string>
-  <string name="mipay_fingerprint_state_init_pay">Authorize payment via fingerprint</string>
+  <string name="mipay_fingerprint_payment_title">Pagamento por impressão digital</string>
+  <string name="mipay_fingerprint_state_identify_error">A verificação falhou. A tentar novamente.</string>
+  <string name="mipay_fingerprint_state_identify_failed">A verificação falhou. A mudar para palavra passe</string>
+  <string name="mipay_fingerprint_state_identify_success">A pagar</string>
+  <string name="mipay_fingerprint_state_init_pay">Autorizar pagamento por impressão digital</string>
   <string name="mipay_fingerprint_use_password">，</string>
-  <string name="mipay_open_fingerprint_pay">Open fingerprint pay</string>
-  <string name="mipay_open_fingerprint_result_fail">Open fingerprint payment failed:</string>
-  <string name="mipay_open_fingerprint_result_ok">Open fingerprint payment success</string>
-  <string name="mipay_query_open_fingerprint_tip">Fingerprint passwordless pay is supported now!</string>
-  <string name="mipay_setting_finger_not_open">Not open</string>
-  <string name="mipay_setting_finger_open">Opened</string>
-  <string name="mipay_setting_finger_payment">Fingerprint Payment</string>
-  <string name="mipay_setting_title_finger">Fingerprint Payment</string>
+  <string name="mipay_open_fingerprint_pay">Abrir pagamento por impressão digital</string>
+  <string name="mipay_open_fingerprint_result_fail">Erro ao abrir pagamento por impressão digital:</string>
+  <string name="mipay_open_fingerprint_result_ok">Concluído</string>
+  <string name="mipay_query_open_fingerprint_tip">Agora pode pagar com verificação por impressão digital!</string>
+  <string name="mipay_setting_finger_not_open">Não aberto</string>
+  <string name="mipay_setting_finger_open">Aberto</string>
+  <string name="mipay_setting_finger_payment">Pagamento por impressão digital</string>
+  <string name="mipay_setting_title_finger">Pagamento por impressão digital</string>
 </resources>
