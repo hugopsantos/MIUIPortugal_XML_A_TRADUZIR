@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mark_tip">Please mark for the Order</string>
+  <string name="submit_comments_title">Submit</string>
+  <string name="tab_bill_detail">Order Info</string>
+  <string name="tab_comments">Mark</string>
+  <string name="title_evaluated">"Thank You for Your mark
+See you later"</string>
+  <string name="title_unevaluated">"Please mark for the Order
+It is helpful for us improving our service"</string>
+</resources>

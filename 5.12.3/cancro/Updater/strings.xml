@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="check_local_package_update_btn">Reboot and update</string>
+  <string name="check_local_package_update_msg">"You're going to update to MIUI version %s. The phone will reboot automatically during the update."</string>
+  <string name="check_local_package_update_title">Update</string>
+  <string name="check_local_package_wipe_btn">Erase and update</string>
+  <string name="check_local_package_wipe_msg">"You're going to switch to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure you back up all important items before you start the process."</string>
+  <string name="check_local_package_wipe_title">Erase data</string>
+  <string name="confirm_local_package_wipe_btn">Erase and update</string>
+  <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure you back up all important items before you start the process.</string>
+  <string name="confirm_local_package_wipe_title">Erase data?</string>
+</resources>

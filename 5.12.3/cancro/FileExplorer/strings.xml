@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="backup_checkbox_msg">Always back up and show notifications</string>
+  <string name="notification_wechat_auto_backup_hint">Tap to learn more.</string>
+  <string name="notification_wechat_auto_backup_switch_title">Back up WeChat videos</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="contact_edit_set_black_list_filtering">Filtering...</string>
+  <string name="contact_edit_set_black_list_title">Set blacklist</string>
+  <string name="fail_get_email_message">Get message failed.</string>
+  <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
+  <string name="folder_junk_name_en2">Junk Mail</string>
+  <string name="folder_junk_name_en3">Junk E-Mail</string>
+</resources>

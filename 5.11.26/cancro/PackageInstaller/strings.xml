@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="btn_text_full_scan">Pesquisa completa</string>
-  <string name="message_full_scanning">Pesquisa completa…</string>
-  <string name="message_quick_scanning">Pesquisa rápida…</string>
-</resources>

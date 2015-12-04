@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="forget_password_button_text">None</string>
+  <string name="resolver_settings_label">Sort</string>
+</resources>
