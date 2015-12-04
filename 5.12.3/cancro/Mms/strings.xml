@@ -2,14 +2,14 @@
 <resources>
   <string name="mx_activate_status_desc_activating_now">A activar…</string>
   <string name="mx_activate_status_desc_check_net_connection">Não foi possível ligar à rede</string>
-  <string name="mx_activate_status_desc_fail">Não foi possível activar Mensagens Mi</string>
+  <string name="mx_activate_status_desc_fail">Não foi possível activar as Mensagens Mi</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">A enviar mensagem de activação…</string>
-  <string name="mx_activate_status_desc_query_activte_info">A verificar informação de cartão SIM…</string>
+  <string name="mx_activate_status_desc_query_activte_info">A verificar informação do cartão SIM…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número de telefone introduzido é inválido</string>
-  <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível activar Mensagens Mi</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível activar as Mensagens Mi</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Ainda vai receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger_summary">Ainda vai receber mensagens SMS de números desconhecidos</string>
   <string name="pref_message_recovery_introduction_title">Recuperar mensagem</string>
 </resources>
