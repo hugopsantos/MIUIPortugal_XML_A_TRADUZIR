@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>     
+	 <string-array name="entries_date_type_rightvalue">
+        <item>Recebida</item>
+        <item>Enviada</item>
+     </string-array>	
+</resources>
