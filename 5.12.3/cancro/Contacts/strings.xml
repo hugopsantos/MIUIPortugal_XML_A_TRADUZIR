@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="callrecordview_item_op_video">Video</string>
-  <string name="callrecordview_menu_conference">Call conference</string>
-  <string name="multi_number_menu_call">Call</string>
-  <string name="multi_number_menu_delete">Delete</string>
-  <string name="multi_number_menu_group">New Group</string>
-  <string name="multi_number_menu_message">Message</string>
-  <string name="multi_number_title">Call conference</string>
-  <string name="select_done">No more to select</string>
-  <string name="video_call">Video call</string>
+  <string name="callrecordview_item_op_video">Vídeo</string>
+  <string name="callrecordview_menu_conference">Chamada de conferência</string>
+  <string name="multi_number_menu_call">Chamada</string>
+  <string name="multi_number_menu_delete">Apagar</string>
+  <string name="multi_number_menu_group">Novo grupo</string>
+  <string name="multi_number_menu_message">Mensagem</string>
+  <string name="multi_number_title">Chamada de conferência</string>
+  <string name="select_done">Não existe mais para seleccionar</string>
+  <string name="video_call">Chamada de vídeo</string>
 </resources>
