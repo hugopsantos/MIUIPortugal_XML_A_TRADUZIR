@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="current_version_pad">Pad</string>
+  <string name="download_memory_info_total">" total ​%s"</string>
+  <string name="homepage_top_card_menu">Top</string>
+  <string name="search_sm">SM</string>
+</resources>
