@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="app_upgrade_hint">Clique para ver a polimerização completa, vídeo HD online.</string>
-  <string name="app_upgrade_title">Mi Vídeo já está actualizada com a versão mais recente.</string>
-  <string name="notification_default_title">Vídeo offline</string>
-  <string name="notification_sub_title">Total %d tarefa(s) de transferências concluídas</string>
-  <string name="notification_ticker_text">Transferência de vídeo offline em conclusão</string>
-</resources>

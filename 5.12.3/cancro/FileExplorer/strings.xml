@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="backup_checkbox_msg">Fazer cópia de segurança e mostrar sempre notificações</string>
-  <string name="notification_wechat_auto_backup_hint">Toque para saber mais.</string>
-  <string name="notification_wechat_auto_backup_switch_title">Fazer cópia de segurança de vídeos WeChat</string>
-</resources>

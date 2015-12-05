@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="deepclean_list_item_from_app">Loja de aplicações</string>
-  <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
-  <string name="deepclean_list_item_from_download">Transferir</string>
-  <string name="deepclean_list_item_from_gallery">Galeria</string>
-  <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
-  <string name="hints_deepclean_list_item_from">De %s</string>
-</resources>

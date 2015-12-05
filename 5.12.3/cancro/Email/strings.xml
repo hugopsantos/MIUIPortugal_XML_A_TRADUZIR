@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="contact_edit_set_black_list_filtering">A filtrar...</string>
-  <string name="contact_edit_set_black_list_title">Definir lista negra</string>
-  <string name="fail_get_email_message">Erro ao obter mensagem.</string>
-  <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
-  <string name="folder_junk_name_en2">Lixo</string>
-  <string name="folder_junk_name_en3">Spam</string>
-</resources>
