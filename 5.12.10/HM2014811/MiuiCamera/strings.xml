@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
+  <string name="accessibility_countdown">Count Down button</string>
+  <string name="accessibility_peak">Focus Peak button</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="make_private_msg_1">Hide this file?</string>
+  <string name="make_private_msg_2">Hide these files?</string>
+  <string name="make_private_msg_3">All files in this folder will be hidden.</string>
+</resources>

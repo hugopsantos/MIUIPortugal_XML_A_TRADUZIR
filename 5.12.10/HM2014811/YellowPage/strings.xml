@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="agree_to_continue">Continue</string>
+  <string name="agree_to_turn_on">I agree to open this feature</string>
+  <string name="homepage_barcode_prompt">Scan to enter my homepage.</string>
+  <string name="turn_off_hint_title">Hint</string>
+  <string name="turn_off_phone_event_hint">Are you sure to turn off the switch so that you can not receive service messages no longer after you hang up?</string>
+  <string name="turn_off_smart_antispam_hint">Are you sure to turn off the protection when the stranger calls?</string>
+  <string name="turn_on_phone_event_dialog_title">Update terms of number identification</string>
+</resources>

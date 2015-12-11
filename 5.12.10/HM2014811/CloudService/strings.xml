@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
+  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
+  <string name="header_cloud_backup_settings">Back up and restore</string>
+  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
+  <string name="header_find_device_settings">Find device</string>
+</resources>
