@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cloud_backup_section_title">Mi Cloud backup</string>
-  <string name="cloud_backup_settings_section_title">Backup settings</string>
-  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
-  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
-  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
+  <string name="cloud_backup_section_title">Cópia seg. na Nuvem Mi</string>
+  <string name="cloud_backup_settings_section_title">Definições da cópia Seg.</string>
+  <string name="cloud_restore_section_summary">Restaurar aplicações, Disposição da ecrã inicial, e definições do sistema</string>
+  <string name="cloud_restore_section_title">Restaurar da nuvem Mi</string>
+  <string name="free_xiaomi_wifi_connect_summary">Pressione para ligar a %1$s.</string>
 </resources>
