@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="check_update">检查更新</string>
-  <string name="check_update_fail">检查更新失败</string>
-  <string name="check_update_latest">当前已是最新版本</string>
-  <string name="check_update_no_net">网络不给力，请检查后重试</string>
-  <string name="no_tip">不再提示</string>
-  <string name="shortcut_cancel">取消</string>
-  <string name="shortcut_confirm">确认</string>
-  <string name="shortcut_content">"小米卡包位于“系统工具”-“我的小米”。
-为了方便您的使用，建议您添加小米卡包桌面图标。"</string>
-  <string name="shortcut_content_path">“系统工具”-“我的小米”</string>
-  <string name="shortcut_title">添加桌面图标</string>
+  <string name="check_update">Verificar actualizações</string>
+  <string name="check_update_fail">Verificar actualizações falhadas</string>
+  <string name="check_update_latest">Tem a última versão</string>
+  <string name="check_update_no_net">Sem ligação à rede</string>
+  <string name="no_tip">Não avisar</string>
+  <string name="shortcut_cancel">Cancelar</string>
+  <string name="shortcut_confirm">OK</string>
+  <string name="shortcut_content">"Mika está num pacote“Ferramentas de sistema”-“O meu dispositivo Mi”.
+Recomendamos que adicione um atalho para o pacote Mika."</string>
+  <string name="shortcut_content_path">“Ferramentas de sistema”-“O meu dispositivo Mi”</string>
+  <string name="shortcut_title">Adicionar ícone do ecrã inicial</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_connect_download_manager_fail">Erro ao ligar Gestor de transferências, verifique o estado do Gestor de transferências no Gestor de aplicações.</string>
+  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique o cartão micro SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s update!</string>
+  <string name="xiaomi_update_dialog_message">"Versão %1$s
+Tamanho: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Versão %1$s
+Tamanho da actualização delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s Actualizar!</string>
 </resources>
