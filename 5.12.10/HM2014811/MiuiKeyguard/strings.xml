@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers</string>
-  <string name="invalid_sim_puk_hint">PUK code should be 8 numbers or more</string>
+  <string name="invalid_sim_pin_hint">Escreva um PIN de 4 a 8 números</string>
+  <string name="invalid_sim_puk_hint">O Cód. PUK deve ser de 8 números ou mais</string>
 </resources>
