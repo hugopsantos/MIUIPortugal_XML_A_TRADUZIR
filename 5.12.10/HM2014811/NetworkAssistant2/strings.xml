@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
-  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Plano mensal alterado para %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Plano de dados actualizado</string>
+  <string name="traffic_alert_auto_modify_package_summary">Ajustar automaticamente o pacote de dados de acordo com informações da operadora</string>
+  <string name="traffic_config_alert_auto_modify">Actualizar plano de dados automaticamente</string>
   <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
+Actualizados dados extras"</string>
   <string name="traffic_limit_error_alert_package">"
 
-Remaining data includes data that has been rolled over from the previous month."</string>
+Os dados restantes incluem dados que foram retomados a partir do mês anterior."</string>
 </resources>
