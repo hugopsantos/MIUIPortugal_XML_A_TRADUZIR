@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="card_title_incoming_conference_call">Incoming conference call</string>
+  <string name="card_title_upgrade_video_call_error">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_requesting">Requesting video</string>
+  <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
+  <string name="card_title_video_call">Video call</string>
+  <string name="card_title_video_call_paused">Video paused</string>
+  <string name="conference_caller_info_name">"%1$s's conference call"</string>
+  <string name="conference_caller_name_me">Me</string>
+  <string name="incoming_answer_voice_text">Voice answer</string>
+  <string name="notification_incoming_video_call">Incoming video call</string>
+  <string name="onscreen_change_to_video">Video call</string>
+  <string name="onscreen_change_to_voice">Voice call</string>
+  <string name="onscreen_close_preview_camera">Close camera</string>
+  <string name="onscreen_rcs_text">Messages</string>
+  <string name="onscreen_switch_camera">Switch camera</string>
+  <string name="picking_participant">Getting contact info…</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
+  <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
+</resources>

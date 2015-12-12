@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="cloud_back_up_summary">Fazer cópia de segurança quando estiver ligado à rede Wi-Fi</string>
-  <string name="cloud_backup_have_data">Encontrada cópia de segurança na Nuvem Mi</string>
-  <string name="cloud_backup_select_recover">Seleccionar cópia de segurança na Nuvem Mi</string>
-  <string name="header_cloud_backup_settings">Fazer cópia de segurança e restaurar</string>
-  <string name="header_cloud_restore_summary">Reinstalar as aplicações, restaurar o Ecrã inicial apps e definições de sistema de uma cópia de segurança na Nuvem Mi</string>
-  <string name="header_find_device_settings">Encontrar o dispositivo</string>
-</resources>

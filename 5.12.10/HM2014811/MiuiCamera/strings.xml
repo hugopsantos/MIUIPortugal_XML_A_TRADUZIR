@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="accessibility_audio_shutter_bg">Som em segundo plano do obturador</string>
-  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
-  <string name="accessibility_countdown">Botão de contagem decrescente</string>
-  <string name="accessibility_peak">Botão de focus Peak</string>
-  <string name="accessibility_video_module_picker">VideoModulePicker</string>
-</resources>

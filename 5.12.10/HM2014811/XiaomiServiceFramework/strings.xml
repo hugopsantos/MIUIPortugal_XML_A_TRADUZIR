@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="activate_popup_confirm_error_device_id">Tente novamente</string>
-  <string name="activate_popup_desc_error_device_id">Marque *#06# para verificar o IMEI</string>
-  <string name="activate_popup_title_error_device_id">IMEI inválido</string>
-  <string name="activate_status_desc_device_id_error">IMEI inválido</string>
-</resources>

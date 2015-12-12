@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="make_private_msg_1">Ocultar este ficheiro?</string>
-  <string name="make_private_msg_2">Ocultar estes ficheiros?</string>
-  <string name="make_private_msg_3">Todos os ficheiros desta pasta ficarão ocultos.</string>
-</resources>
