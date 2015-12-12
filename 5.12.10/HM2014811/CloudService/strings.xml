@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
-  <string name="header_cloud_backup_settings">Back up and restore</string>
-  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
-  <string name="header_find_device_settings">Find device</string>
+  <string name="cloud_back_up_summary">Fazer cópia de segurança quando estiver ligado à rede Wi-Fi</string>
+  <string name="cloud_backup_have_data">Encontrada cópia de segurança na Nuvem Mi</string>
+  <string name="cloud_backup_select_recover">Seleccionar cópia de segurança na Nuvem Mi</string>
+  <string name="header_cloud_backup_settings">Fazer cópia de segurança e restaurar</string>
+  <string name="header_cloud_restore_summary">Reinstalar as aplicações, restaurar o Ecrã inicial apps e definições de sistema de uma cópia de segurança na Nuvem Mi</string>
+  <string name="header_find_device_settings">Encontrar o dispositivo</string>
 </resources>

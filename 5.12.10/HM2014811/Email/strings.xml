@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
-  <string name="del_account_questionnair_hint">"Could you tell us why you're deleting this account?"</string>
-  <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
-  <string name="folder_junk_name_en4">Junk</string>
-  <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
-  <string name="questionnair_confirm_delete">Delete</string>
-  <string name="questionnair_instability">Unstable app, crashes frequently</string>
-  <string name="questionnair_not_send">"Can't send mail"</string>
-  <string name="questionnair_not_sync">Unstable sync</string>
-  <string name="questionnair_other_reasons">Other reasons</string>
-  <string name="questionnair_title">Deleting account</string>
-  <string name="questionnair_ui_not_pretty">"Don't like the design"</string>
-  <string name="questionnair_waste_resource">Deleting might free up storage</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido.</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Manter para</string>
+  <string name="del_account_questionnair_hint">Porque quer apagar esta conta?</string>
+  <string name="dialog_change_sync_lookback">O email recebido há %s dias, será apagado automaticamente. Toque para alterar.</string>
+  <string name="folder_junk_name_en4">Lixo</string>
+  <string name="questionnair_body_invisibility">As mensagens não são mostradas</string>
+  <string name="questionnair_confirm_delete">Apagar</string>
+  <string name="questionnair_instability">Aplicação instável</string>
+  <string name="questionnair_not_send">Não foi possível enivar o email</string>
+  <string name="questionnair_not_sync">Sincronização instável</string>
+  <string name="questionnair_other_reasons">Outras razões</string>
+  <string name="questionnair_title">Apagar conta</string>
+  <string name="questionnair_ui_not_pretty">Não gosto do design</string>
+  <string name="questionnair_waste_resource">Apagar pode libertar espaço</string>
 </resources>

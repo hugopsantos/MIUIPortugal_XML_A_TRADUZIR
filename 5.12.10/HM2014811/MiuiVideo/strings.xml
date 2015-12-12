@@ -2,5 +2,5 @@
 <resources>
   <string name="sniff">Sniff</string>
   <string name="vp_downloading_apk_title">A transferir %1$s</string>
-  <string name="vp_notify_apk_installed">Aplicação %1$s instalada com sucesso</string>
+  <string name="vp_notify_apk_installed">Aplicação %1$s instalada</string>
 </resources>
