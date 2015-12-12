@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="managed_profile_location_category">Perfil de emprego</string>
-  <string name="managed_profile_location_switch_lockdown">Desligado pela empresa</string>
-  <string name="managed_profile_location_switch_title">Localização do perfil de emprego</string>
-</resources>
