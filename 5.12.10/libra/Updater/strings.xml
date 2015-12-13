@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="confirm_local_package_wipe_btn">Apagar e acualizar</string>
-  <string name="confirm_local_package_wipe_msg">Os dados pessoais serão apagados. Faça cópia de segurança antes de iniciar o processo.</string>
-  <string name="confirm_local_package_wipe_title">Apagar dados?</string>
-</resources>
