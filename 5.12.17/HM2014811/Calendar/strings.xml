@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="add_card">添加卡片</string>
-  <string name="book_card_free">免费</string>
-  <string name="book_card_rating_text">|   %1$s 条评论</string>
-  <string name="card_manager">卡片管理</string>
-  <string name="card_title_change">换一换</string>
+  <string name="add_card">Adicionar cartão</string>
+  <string name="book_card_free">Grátis</string>
+  <string name="book_card_rating_text">|   %1$s avaliações</string>
+  <string name="card_manager">Gerir</string>
+  <string name="card_title_change">Mudar nome</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
   <string name="horoscope_card_love">爱情运势：</string>
