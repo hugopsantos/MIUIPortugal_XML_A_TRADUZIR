@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cloud_space_full">No storage space left</string>
+  <string name="cloud_space_full_message">Not enough room in your Mi Cloud to add more songs. To get more space, upgrade your Mi Account.</string>
+  <string name="do_not_remind_again">"Don't show again"</string>
+  <string name="upgrade_membership">Get more space</string>
+</resources>

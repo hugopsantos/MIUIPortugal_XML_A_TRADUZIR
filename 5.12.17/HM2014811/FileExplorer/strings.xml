@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="compress_fail_unknown">"Couldn't compress. Storage is full or unknown error occurred."</string>
+  <string name="move_icon_to_desktop_hint">Create a Home screen shortcut for Explorer to manage files more efficiently.</string>
+  <string name="move_to_confirm">Create</string>
+</resources>
