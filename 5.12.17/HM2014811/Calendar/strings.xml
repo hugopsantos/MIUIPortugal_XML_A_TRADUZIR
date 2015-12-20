@@ -10,11 +10,11 @@
   <string name="horoscope_card_love">Amor：</string>
   <string name="horoscope_card_working">Trabalho：</string>
   <string name="horoscope_select_activity_label">Seleccionar título</string>
-  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
+  <string name="joke_card_icon_text">|  %1$s riram-se</string>
   <string name="jump_text">%1$s &gt;</string>
   <string name="ticket_card_date">dia %2$s mês %1$s</string>
   <string name="ticket_card_description">Definir hoje</string>
   <string name="ticket_card_dialog_positive_button_text">Instalar</string>
-  <string name="ticket_card_lunar">%1$s的火车票</string>
-  <string name="ticket_card_phase">- 第%1$s期</string>
+  <string name="ticket_card_lunar">%1$s trem</string>
+  <string name="ticket_card_phase">- fase %1$s de</string>
 </resources>
