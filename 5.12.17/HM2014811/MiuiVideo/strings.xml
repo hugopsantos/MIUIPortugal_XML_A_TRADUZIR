@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
-  <string name="search_snack_more">More Information</string>
-  <string name="search_snack_sniff">Sniffing Download</string>
+  <string name="download_url_waiting_no_wifi">A aguardar por rede Wi-Fi</string>
+  <string name="search_snack_more">Mais informação</string>
+  <string name="search_snack_sniff">Transferência sniffing</string>
 </resources>
