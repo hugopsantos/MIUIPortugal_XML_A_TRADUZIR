@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
-  <string name="login_account_dialog_title">Sign in with Mi Account</string>
-  <string name="login_action">Sign in</string>
+  <string name="login_account_dialog_message">Iniciar sessão na Conta Mi e ligar a sincronização com a Nuvem Mi.</string>
+  <string name="login_account_dialog_title">Iniciar sessão na Conta Mi</string>
+  <string name="login_action">Iniciar sessão</string>
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
-  <string name="print_enable">Enable printing</string>
-  <string name="print_remind">Enable printing first</string>
+  <string name="print_enable">Ligar impressão</string>
+  <string name="print_remind">Ligue a impressão</string>
 </resources>
