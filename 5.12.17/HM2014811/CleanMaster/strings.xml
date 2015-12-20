@@ -18,7 +18,7 @@
   <string name="deepclean_size_summary_normal">Armazenamento disponível</string>
   <string name="hints_quick_deep_clean">Limpar agora</string>
   <string name="hints_quick_deep_scanning">Pesquisar</string>
-  <string name="hints_quick_deep_uninstall">Desinstalar agora</string>
+  <string name="hints_quick_deep_uninstall">Apagar agora</string>
   <string name="hot_today">Popular hoje</string>
   <string name="label_image_list_none">Nenhum</string>
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>
