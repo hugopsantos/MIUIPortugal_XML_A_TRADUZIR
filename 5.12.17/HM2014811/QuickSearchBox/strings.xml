@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="default_hint">Search Apps, Music, Video, Books...</string>
+  <string name="default_hint">Procurar aplicações, músicas, vídeos, livros, etc...</string>
 </resources>
