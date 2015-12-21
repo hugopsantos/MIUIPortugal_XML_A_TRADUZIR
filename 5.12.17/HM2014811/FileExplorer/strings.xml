@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="compress_fail_unknown">Não foi possível comprimir. Armazenamento cheio ou erro desconhecid.</string>
-  <string name="move_icon_to_desktop_hint">Criar atalho no ecrã inicial para gerir os ficheiros mais facilmente.</string>
-  <string name="move_to_confirm">Criar</string>
-</resources>

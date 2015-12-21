@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="cloud_space_full">Armazenamento cheio</string>
-  <string name="cloud_space_full_message">Não existe espaço livre na Nuvem Mi para adicionar mais músicas. Actualize a conta para obter mais espaço.</string>
-  <string name="do_not_remind_again">Nao mostrar novamente</string>
-  <string name="upgrade_membership">Obter mais espaço</string>
-</resources>
