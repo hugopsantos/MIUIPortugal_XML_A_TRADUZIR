@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cit_aud_current_state">Current State:</string>
+  <string name="cit_aud_current_state">Estado actual:</string>
   <string name="cit_aud_spk_l">spk_L</string>
   <string name="cit_aud_spk_r">spk_R</string>
-  <string name="cit_aud_test_result">Test Result:</string>
-  <string name="cit_audio_cali_TEMP">Temp:</string>
-  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
-  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+  <string name="cit_aud_test_result">Resultado do teste:</string>
+  <string name="cit_audio_cali_TEMP">Temperatura:</string>
+  <string name="cit_audio_get_temp_fail">Erro ao obter dados da temperatura!</string>
+  <string name="cit_audio_left_caldata">"Dados de calibração do PA esquerdo:
 "</string>
-  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
-  <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+  <string name="cit_audio_left_calfail">Erro ao calibrar PA esquerdo!</string>
+  <string name="cit_audio_right_caldata">"Dados de calibração do PA direito:
 "</string>
-  <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
-  <string name="cit_fm_headset_unpluged">Please insert headset!</string>
+  <string name="cit_audio_right_calfail">Erro ao calibrar PA direito!</string>
+  <string name="cit_fm_headset_unpluged">Insira os auriculares!</string>
 </resources>
