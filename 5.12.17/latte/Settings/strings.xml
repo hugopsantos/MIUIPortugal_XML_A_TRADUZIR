@@ -2,5 +2,5 @@
 <resources>
   <string name="current_pad_location">Pad</string>
   <string name="hdmi_settings_title">HDMI</string>
-  <string name="isv_settings_title">Intel Smart Video</string>
+  <string name="isv_settings_title">Vídeo inteligente Intel</string>
 </resources>
