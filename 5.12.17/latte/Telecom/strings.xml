@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
+</resources>
