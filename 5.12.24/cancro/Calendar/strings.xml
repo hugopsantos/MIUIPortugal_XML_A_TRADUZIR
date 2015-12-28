@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
+  <string name="birthday_event_description_a_week_ago">A week ago</string>
+  <string name="birthday_event_description_a_week_later">A week later</string>
+  <string name="birthday_event_description_day_after_tomorrow">Day after tomorrow</string>
+  <string name="birthday_event_description_day_before_yesterday">The day before yesterday</string>
+  <string name="birthday_event_description_days_ago">%1$s days ago</string>
+  <string name="birthday_event_description_days_later">%1$s days later</string>
+  <string name="birthday_event_description_default">"%1$s's %2$s%3$s%4$s"</string>
+  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_today">Today</string>
+  <string name="birthday_event_description_tomorrow">Tomorrow</string>
+  <string name="birthday_event_description_yesterday">Yesterday</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
+</resources>

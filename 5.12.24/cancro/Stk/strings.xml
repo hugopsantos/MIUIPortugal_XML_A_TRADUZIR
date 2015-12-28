@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
+  <string name="sim_type_sim_name">SIM Toolkit</string>
+  <string name="sim_type_uim_name">UIM Toolkit</string>
+  <string name="sim_type_usim_name">USIM Toolkit</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="account_setup_failed_dlg_bar_title">Login tips of %s</string>
+  <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
+  <string name="account_setup_failed_dlg_todo1">Please set account as below or try login with exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Please set account as below.</string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
+  <string name="try_exchange_login">Try login with exchange</string>
+</resources>

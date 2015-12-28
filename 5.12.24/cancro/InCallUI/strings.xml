@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
+</resources>

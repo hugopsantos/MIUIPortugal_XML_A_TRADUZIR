@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
+  <string name="change_activate_email">Change email address</string>
+  <string name="confirm_activate_email">Verified</string>
+  <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+  <string name="resend_active_email">Resend</string>
+  <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+  <string name="resend_email_reach_limit_title">"Can't send email"</string>
+  <string name="resend_email_success">Email resent</string>
+  <string name="send_email_activate_message">Verification email sent</string>
+</resources>

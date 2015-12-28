@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
+  <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
+  <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
+  <string name="mibi_error_recharge_success_pay_fail">Recharge success pay fail.</string>
+  <string name="mibi_pay_notification">Paying %1$s Mi Credits</string>
+</resources>

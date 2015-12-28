@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="pref_camera_age_watermark_title">Show age and gender in photo</string>
+</resources>

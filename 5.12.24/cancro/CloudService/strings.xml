@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="micloud_main_message_not_synced">%s data not synced</string>
+  <string name="micloud_main_title_not_synced">Not synced</string>
+  <string name="micloud_notif_content_battery_low">Battery is too low.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
+  <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
+  <string name="micloud_notif_content_sync_finish">Account</string>
+  <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
+  <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_sync_finish">Synced</string>
+  <string name="micloud_notif_title_sync_progress">Syncing</string>
+  <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
+  <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
+  <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
+</resources>

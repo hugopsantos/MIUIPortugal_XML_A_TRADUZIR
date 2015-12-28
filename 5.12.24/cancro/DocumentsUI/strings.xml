@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="button_copy">Copy</string>
+  <string name="button_select">Select</string>
+  <string name="copy_failure_alert_content">"These files weren't copied: %1$s"</string>
+  <string name="copy_notification_title">Copying files</string>
+  <string name="copy_preparing">Preparing for copy…</string>
+  <string name="copy_remaining">%s left</string>
+  <string name="notification_touch_for_details">Touch to view details</string>
+</resources>
