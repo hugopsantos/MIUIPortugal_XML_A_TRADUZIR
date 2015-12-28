@@ -25,9 +25,6 @@
   <string name="miuichromium_error_page_safe_network">Modo de segurança</string>
   <string name="miuichromium_error_page_server_error">Existem muitos dispositivos a tentar ligar</string>
   <string name="miuichromium_error_page_unknown_error">Oops, alguma coisa correu mal</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
-  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
-  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
   <string name="secureaccess">Mudar para o modo de segurança</string>
   <string name="secureaccess_cancel">Ignorar</string>
   <string name="switch_proxy_dialog_msg">"Foi detectado que a rede não é segura. Utilize a aplicação de Segurança da MIUI ou comunique ao operador da rede móvel."</string>
