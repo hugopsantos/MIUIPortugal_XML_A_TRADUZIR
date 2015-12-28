@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="config_oem_phone_creator_class_name">None</string>
-  <string name="config_oem_phone_creator_jar_file">None</string>
+  <string name="config_oem_phone_creator_class_name">Nenhum</string>
+  <string name="config_oem_phone_creator_jar_file">Nenhum</string>
 </resources>
