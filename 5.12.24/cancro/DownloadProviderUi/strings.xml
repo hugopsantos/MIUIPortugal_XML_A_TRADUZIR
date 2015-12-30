@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="ad_title">People also download these with  %1$s </string>
+  <string name="ad_title">As pessoas também transferiram  %1$s </string>
   <string name="app_size">%1$s</string>
-  <string name="download_list_title_browser">Downloads</string>
-  <string name="download_num_size">%1$s people downloaded | %2$s</string>
-  <string name="get_data_failed">"Couldn't get info, try again later"</string>
-  <string name="jump_rank_hint">"Take a look at today's download rankings &gt;"</string>
-  <string name="load_finish_hint">You can continue viewing tomorrow</string>
-  <string name="menu_title_fileexplore">Explorer</string>
-  <string name="net_error">"Can't connect to network, try again"</string>
-  <string name="rank">Rankings</string>
-  <string name="rank_data_empty">No rankings</string>
-  <string name="rank_guide_confirm">Check it out</string>
-  <string name="rank_guide_content">Rankings are updated daily to show most popular apps</string>
-  <string name="rank_guide_title">Apps other people install</string>
-  <string name="sniff_shortcut_exist">Shortcut already exists</string>
-  <string name="sniff_shortcut_failed">"Couldn't create shortcut"</string>
+  <string name="download_list_title_browser">Transferências</string>
+  <string name="download_num_size">%1$s pessoas transferiram | %2$s</string>
+  <string name="get_data_failed">Não foi possível obterv a informação, tente mais tarde</string>
+  <string name="jump_rank_hint">Veja a classificação das transferência de hoje &gt;</string>
+  <string name="load_finish_hint">Pode continuar a ver amanhã</string>
+  <string name="menu_title_fileexplore">Explorador de ficheiros</string>
+  <string name="net_error">Não foi possível legar à rede, tente novamente</string>
+  <string name="rank">Classificações</string>
+  <string name="rank_data_empty">Sem classificações</string>
+  <string name="rank_guide_confirm">Confirmar</string>
+  <string name="rank_guide_content">As classificações são actualizadas diáriamente para mostrar as aplicações mais populares</string>
+  <string name="rank_guide_title">Aplicações que outras pessoas instalaram</string>
+  <string name="sniff_shortcut_exist">O atalho já existe</string>
+  <string name="sniff_shortcut_failed">Não foi possível criar o atalho</string>
 </resources>

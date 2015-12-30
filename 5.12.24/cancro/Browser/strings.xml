@@ -10,8 +10,8 @@
   <string name="miuichromium_error_page_btn_refresh">Actualizar</string>
   <string name="miuichromium_error_page_diagnose">Diagnóstico da rede</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnóstico da rede</string>
-  <string name="miuichromium_error_page_diagnose_certificate">"Não foi possível verificar o protocolo da rede"</string>
-  <string name="miuichromium_error_page_diagnose_connection">"Não foi possível ligar a rede"</string>
+  <string name="miuichromium_error_page_diagnose_certificate">Não foi possível verificar o protocolo da rede</string>
+  <string name="miuichromium_error_page_diagnose_connection">Não foi possível ligar a rede</string>
   <string name="miuichromium_error_page_diagnose_dns">Parece que o URL está incorreto</string>
   <string name="miuichromium_error_page_diagnose_protocol">Erro no protocolo da rede</string>
   <string name="miuichromium_error_page_diagnose_success">Sinal de rede fraco</string>

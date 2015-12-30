@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de retorno do micro frontal</string>
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Teste de retorno do micro frontal.
 
-Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
+Ligue o telefone, fale para o micro na posição de receptor, deve ouvir a sua voz na coluna"</string>
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de retorno do micro no topo. 
 
-Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
-  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+Ligue o telefone, fale para o micro no topo, deve ouvir a sua voz na coluna"</string>
+  <string name="cit_x5_audio_lb_topmic_to_speaker_title">Teste de retorno do micro no topo</string>
 </resources>
