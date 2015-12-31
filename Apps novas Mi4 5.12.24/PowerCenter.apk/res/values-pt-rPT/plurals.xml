@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="deep_clean_gps_enable">
         <item quantity="other">%1$d aplicações podem usar o GPS</item>
-        <item quantity="one">%1$d aplicação podem usar o GPS</item>
+        <item quantity="one">%1$d aplicação pode usar o GPS</item>
     </plurals>
     <plurals name="deep_clean_gps_disable">
         <item quantity="other">%1$d aplicações não podem usar o GPS</item>

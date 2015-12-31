@@ -44,7 +44,7 @@
   <string name="fingerprint_acquired_imager_dirty">O leitor de impressões digitais está sujo. Limpe-o e tente novamente.</string>
   <string name="fingerprint_acquired_insufficient">Não foi possível processar a impressão digital. Tente novamente.</string>
   <string name="fingerprint_acquired_partial">Detectada impressão digital parcial. Tente novamente.</string>
-  <string name="fingerprint_acquired_too_fast">Dedo movido muito rápico. Tente novamente.</string>
+  <string name="fingerprint_acquired_too_fast">Dedo movido muito rápido. Tente novamente.</string>
   <string name="fingerprint_acquired_too_slow">Dedo movido muito devagar. Tente novamente.</string>
   <string name="fingerprint_error_canceled">Cancelado.</string>
   <string name="fingerprint_error_hw_not_available">Não tem hardware de impressão digital.</string>
@@ -52,7 +52,7 @@
   <string name="fingerprint_error_no_space">A impressão digital não pode ser guardada. Remova uma impressão digital existente.</string>
   <string name="fingerprint_error_timeout">O tempo terminou. Tente novamente.</string>
   <string name="fingerprint_error_unable_to_process">Tente novamente.</string>
-  <string name="fingerprint_icon_content_description">Icone da impressão digital</string>
+  <string name="fingerprint_icon_content_description">Ícone da impressão digital</string>
   <string name="fingerprint_name_template">Dedo %d</string>
   <string name="floating_toolbar_close_overflow_description">Fechar overflow</string>
   <string name="floating_toolbar_open_overflow_description">Mais opções</string>
@@ -72,7 +72,7 @@
   <string name="permdesc_accessImsCallService">Permite que a aplicação utilize o serviço IMS para fazer chamadas sem intervenção do utilizador.</string>
   <string name="permdesc_access_notification_policy">Permite que a aplicação leia e escreve a configuração do Não incomodar.</string>
   <string name="permdesc_bindCarrierServices">Permite ao utilizador vincular a operadora de serviços. Não deverá ser necessário nas aplicações normais.</string>
-  <string name="permdesc_manageFingerprint">Permite que a aplicação incoque métodos para adicionar e apagar modelos de impressões digitais para usar.</string>
+  <string name="permdesc_manageFingerprint">Permite que a aplicação invoque métodos para adicionar e apagar modelos de impressões digitais para usar.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Permite às aplicações definirem o perfil do proprietário e o proprietário do dispositivo.</string>
   <string name="permdesc_requestInstallPackages">Permite à aplicação pedir a instalação de pacotes.</string>
   <string name="permdesc_useFingerprint">Permite à aplicação utilizar o hardware de impressões digitais para autenticação</string>

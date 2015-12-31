@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="bluetooth_map_settings_app_icon">Icone da Aplicação</string>
+  <string name="bluetooth_map_settings_app_icon">Ícone da Aplicação</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Tentativas restantes:</string>
-  <string name="bluetooth_map_settings_intro">Seleccione as contas que deseja partilhar através de Bluetooth. Terá também que aceitar qualquer pedido de acesso as contas quando estiver ligado.</string>
+  <string name="bluetooth_map_settings_intro">Seleccione as contas que deseja partilhar através de Bluetooth. Terá também que aceitar qualquer pedido de acesso às contas quando estiver ligado.</string>
   <string name="bluetooth_map_settings_no_account_slots_left">Não foi possível seleccionar uma conta. 0 Tentativas restantes</string>
   <string name="bluetooth_map_settings_save">Gravar</string>
   <string name="bluetooth_map_settings_title">Definições de partilha de mensagens Bluetooth</string>

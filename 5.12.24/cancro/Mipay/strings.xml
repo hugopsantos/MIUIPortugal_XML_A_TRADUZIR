@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="mipay_key_text_dot">.</string>
-  <string name="mipay_safe_keyboard_title">I sistema está seguro</string>
+  <string name="mipay_safe_keyboard_title">O sistema está seguro</string>
   <string name="mipay_transfer_item_account">Conta Xiaomi:%1$s</string>
 </resources>

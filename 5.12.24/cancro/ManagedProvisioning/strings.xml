@@ -2,10 +2,10 @@
 <resources>
   <string name="company_controls_device">A organização irá controlar o dispositivo e mantê-lo seguro.</string>
   <string name="copying_certs">Definir certificados CA</string>
-  <string name="delete_profile_title">Remover perfil de tradalho?</string>
+  <string name="delete_profile_title">Remover perfil de trabalho?</string>
   <string name="device_owner_error_already_provisioned_user">Este dispositivo já está configurado para este utilizador.</string>
   <string name="device_owner_error_frp">Este dispositivo está bloqueado pela fábrica contra a reposição. Contacte o departamento IT.</string>
-  <string name="device_owner_error_package_name_invalid">Não foi possível instalar a aplicação de administração. O nome do pacóte não é válido. Contacte o departamento IT.</string>
+  <string name="device_owner_error_package_name_invalid">Não foi possível instalar a aplicação de administração. O nome do pacote não é válido. Contacte o departamento IT.</string>
   <string name="device_owner_exists">Os perfis de trabalho não podem ser configurados em dispositivos geridos</string>
   <string name="encrypt_device_text_for_device_owner_setup">Para continuar a configuração do dispositivo necessita do encriptar. Pode demorar algum tempo.</string>
   <string name="encrypt_device_text_for_profile_owner_setup">Para continuar a configuração do perfil necessita do encriptar o dispositivo. Pode demorar algum tempo.</string>
@@ -13,7 +13,7 @@
   <string name="frp_clear_progress_title">A apagar</string>
   <string name="learn_more_label">Botão de saber mais</string>
   <string name="maximum_user_limit_reached">O perfil de trabalho não pode ser criado porque já atingiu o número máximo de utilizadores para este dispositivo. Remova um utilizador e tente novamente.</string>
-  <string name="mdm_icon_label">Icone %1$s</string>
+  <string name="mdm_icon_label">Ícone %1$s</string>
   <string name="opening_paragraph_delete_profile_known_company">Este perfil de trabalho é gerido por %s utilizando:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">O perfil de trabalho já existe e é gerido por:</string>
   <string name="provisioning">Provisioning</string>
