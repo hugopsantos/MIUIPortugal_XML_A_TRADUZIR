@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="vip_achievements">Achievements</string>
+  <string name="vip_achievements">Conquistas</string>
   <string name="vip_level">LV%d</string>
-  <string name="vip_not_login">Not signed in</string>
-  <string name="vip_sign">Signature:</string>
+  <string name="vip_not_login">Sem sessão iniciada</string>
+  <string name="vip_sign">Assinatura:</string>
 </resources>

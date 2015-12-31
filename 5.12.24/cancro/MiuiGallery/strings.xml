@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="need_to_log_in_Mi_account">Log in Mi Accounts</string>
-  <string name="number_of_need_to_turn_on_sync">Not synced with Mi Cloud</string>
-  <string name="rename_from_contact">Name from contact</string>
+  <string name="need_to_log_in_Mi_account">Iniciar sessão na Conta Mi</string>
+  <string name="number_of_need_to_turn_on_sync">Não sincronizado com a Nuvem Mi</string>
+  <string name="rename_from_contact">Nome do contacto</string>
 </resources>

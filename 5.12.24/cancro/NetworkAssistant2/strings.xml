@@ -1,54 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="brand_diagnostic">Carrier brand type diagnostics</string>
-  <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
-  <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
-  <string name="operator_diagnostic">Carrier diagnostics</string>
-  <string name="sim_location_diagnostic">Location diagnostics</string>
-  <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
-  <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
-  <string name="sim_location_error_notify_title">SIM card error</string>
-  <string name="start_diagnostic_botton">Start</string>
-  <string name="tc_diagnostic_all_error_notification_summary">Tap to report an issue</string>
-  <string name="tc_diagnostic_all_error_notification_title">"Couldn't complete diagnostics"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Tap to adjust network type</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Wrong network type</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_complete">Done</string>
-  <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Tap to adjust location</string>
-  <string name="tc_diagnostic_location_error_notification_title">Wrong location</string>
-  <string name="tc_diagnostic_notification_sumarry">Tap to view results</string>
-  <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
-  <string name="tc_diagnostic_notification_title">Carrier diagnostics</string>
-  <string name="tc_diagnostic_onekey_repair_botton">Fix</string>
-  <string name="tc_diagnostic_operator_error_notification_summary">Tap to change carrier settings</string>
-  <string name="tc_diagnostic_operator_error_notification_title">Wrong carrier</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_and_continue">Fix and continue</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
+  <string name="brand_diagnostic">Diagnósticos do tipo de nome da operadora</string>
+  <string name="correction_attention_dialog_message">A ajustar definições. Aguarde até o processo terminar e tente novamente.</string>
+  <string name="diagnostic_attention_dialog_message">Os diagnósticos para %1$s estão a decorrer. Aguarde até terminarem e tente novamente.</string>
+  <string name="operator_diagnostic">Diagnósticos da operadora</string>
+  <string name="sim_location_diagnostic">Diagnósticos de localização</string>
+  <string name="sim_location_error_dialog_message">O cartão SIM que está a usar é de %1$s. É diferente na localização que definiu manualmente (%2$s). Mude a localização do cartão SIM para %3$s?"</string>
+  <string name="sim_location_error_notify_message">Toque para mudar a localização do cartão SIM.</string>
+  <string name="sim_location_error_notify_title">Erro de cartão SIM</string>
+  <string name="start_diagnostic_botton">Iniciar</string>
+  <string name="tc_diagnostic_all_error_notification_summary">Toque para reportar problemas</string>
+  <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir o diagnóstico</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
+  <string name="tc_diagnostic_brand_error_notification_title">Tipo de rede errada</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Nome errado da operadora&lt;br/&gt;&lt;br/&gt;Definir nome: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Nome actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_complete">Concluído</string>
+  <string name="tc_diagnostic_fragment_default">"Sobre diagnósticos
+1. O dispositivo vão ligar à rede da operadora, enviar uma mensagem e aguardar pela resposta da operadora. Pode demorar cerca de 5 minutos.
+2. Pode sair desta página durante o diagnóstico, ficará em segundo plano."</string>
+  <string name="tc_diagnostic_location_error_notification_summary">Toque para ajustar a localização</string>
+  <string name="tc_diagnostic_location_error_notification_title">Localização errada</string>
+  <string name="tc_diagnostic_notification_sumarry">Toque para ver os resultados</string>
+  <string name="tc_diagnostic_notification_summary">Não é possível ajustar 5 vezes seguidas. Toque para iniciar o diagnóstico.</string>
+  <string name="tc_diagnostic_notification_title">Diagnósticos da operadora</string>
+  <string name="tc_diagnostic_onekey_repair_botton">Corrigir</string>
+  <string name="tc_diagnostic_operator_error_notification_summary">Toque para mudar as definições da operadora</string>
+  <string name="tc_diagnostic_operator_error_notification_title">Operadora errada</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operadora errada&lt;br/&gt;&lt;br/&gt;Definir operadora: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operadora actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_and_continue">Corrigir e continuar</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnóstico concluído, localização corrigida.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnóstico concluído, localização e operadora corrigidas.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_success_toast">Concluído</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Result: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Result: Wrong location&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Couldn't get info&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
-  <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
-  <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Result: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_title">Carrier diagnostics</string>
-  <string name="tc_diagnostic_upload_button">Report</string>
-  <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-  <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
-  <string name="text_button">Got it</string>
-  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
-  <string name="updating_diagnostic_botton">Analyzing data…</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Localização errada&lt;br/&gt;&lt;br/&gt;Definir localização: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Localização actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_error_brand">Sem rede da operadora</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Erro&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Sem ligação de rede&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Não foi possível obter a informação&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correcto&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Resposta da operadora de rede&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;O tempo terminou&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_updating">A testar…</string>
+  <string name="tc_diagnostic_success_notification_summary">Reportar este problema pata ajudar a MIUI a melhorar a ferramenta de diagnóstico</string>
+  <string name="tc_diagnostic_success_notification_title">A rede da operadora e o nome estão correctos</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Rede da operadora e nome definidos correctamente&lt;br/&gt;&lt;br/&gt;Não foi possível concluir os ajustes:&lt;br/&gt;1. As estatísticas da rede podem não ser de confiança no início ou no final do mês.&lt;br/&gt;2. O assistente de rede não está actualizado.&lt;br/&gt;&lt;br/&gt;Reporte este problema para ajudar a MIUI a melhor a ferramenta de diagnóstico&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_title">Diagnósticos da operadora</string>
+  <string name="tc_diagnostic_upload_button">Relatório</string>
+  <string name="tc_diagnostic_upload_no_network">Obrigado pelo relatório! O relatório será enviado quando ligar a uma rede.</string>
+  <string name="tc_diagnostic_upload_success">Obrigado!</string>
+  <string name="text_button">OK</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Não mostrar novamente</string>
+  <string name="updating_diagnostic_botton">A analizar dados…</string>
 </resources>
