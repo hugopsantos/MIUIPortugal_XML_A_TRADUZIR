@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="information_manager_information">Weather info</string>
-  <string name="information_manager_wlan">Load when connected to WLAN</string>
+  <string name="information_manager_information">Informação do tempo</string>
+  <string name="information_manager_wlan">Carregar quando ligado ao Wi-Fi</string>
 </resources>

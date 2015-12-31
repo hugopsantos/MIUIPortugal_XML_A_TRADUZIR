@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="component_backup_preference_title">Back up theme</string>
+  <string name="component_backup_preference_title">Fazer cópia de segurança do tema</string>
 </resources>

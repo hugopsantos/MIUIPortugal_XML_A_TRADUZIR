@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="bugreport_storage_title">Bug reports</string>
+  <string name="bugreport_storage_title">Relatório de erro</string>
 </resources>
