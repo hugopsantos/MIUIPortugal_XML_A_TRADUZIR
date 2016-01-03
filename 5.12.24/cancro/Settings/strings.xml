@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="accessibility_category_personal">Personal profile accounts</string>
-  <string name="accessibility_category_work">Work profile accounts - %s</string>
-  <string name="accessibility_lock_screen_progress">%1$d of %2$d characters used</string>
-  <string name="accessibility_personal_account_title">Personal account - %s</string>
-  <string name="accessibility_wifi_off">Wifi off.</string>
-  <string name="accessibility_work_account_title">Work account - %s</string>
-  <string name="additional_permissions">Additional permissions</string>
-  <string name="additional_permissions_more">%1$d more</string>
-  <string name="advanced_apps">Advanced</string>
-  <string name="advanced_section_header">Advanced</string>
-  <string name="allow_overlay_description">This permission allows an app to display on top of other apps you’re using and may interfere with your use of the interface in other applications, or change what you think you are seeing in other applications.</string>
-  <string name="always_running">Always running (%s)</string>
-  <string name="apn_ppp_number">APN PPP phone number</string>
-  <string name="app_data_usage">App data usage</string>
-  <string name="app_disable_dlg_positive">Disable app</string>
+  <string name="accessibility_category_personal">Contas do perfil pessoal</string>
+  <string name="accessibility_category_work">Contas do perfil de trabalho - %s</string>
+  <string name="accessibility_lock_screen_progress">%1$d de %2$d caracteres utilizados</string>
+  <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
+  <string name="accessibility_wifi_off">Wi-Fi desligado</string>
+  <string name="accessibility_work_account_title">Conta de trabalho - %s</string>
+  <string name="additional_permissions">Autorizações adicionais</string>
+  <string name="additional_permissions_more">Mais %1$d</string>
+  <string name="advanced_apps">Avançadas</string>
+  <string name="advanced_section_header">Avançadas</string>
+  <string name="allow_overlay_description">Esta autorização permite que uma aplicação se sobreponha a outras aplicações que esteja a utilizar e pode interferir com a sua utilização da interface noutras aplicações ou alterar o que pensa estar a ver noutras aplicações.</string>
+  <string name="always_running">Sempre em execução (%s)</string>
+  <string name="apn_ppp_number">APN número de telefone PPP</string>
+  <string name="app_data_usage">Utilização de dados da aplicação</string>
+  <string name="app_disable_dlg_positive">Desactivar aplicação</string>
   <string name="app_launch_domain_links_title">App links</string>
   <string name="app_launch_open_domain_urls_summary">Open without asking</string>
   <string name="app_launch_open_domain_urls_title">Open supported links</string>
