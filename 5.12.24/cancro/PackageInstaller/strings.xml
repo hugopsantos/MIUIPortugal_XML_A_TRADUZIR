@@ -2,12 +2,10 @@
 <resources>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-<<<<<<< HEAD
-  <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-  <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
-  <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
-  <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
-=======
+  <string name="install_confirm_question_update">Quer instalar a actualização para esta aplicação? Os dados não serão perdidos. A actualização terá acesso a:</string>
+  <string name="install_confirm_question_update_no_perms">Quer instalar a actualização para esta aplicação? Os dados não serão perdidos. Não é necessário nenhum acesso especial.</string>
+  <string name="install_confirm_question_update_system">Quer instalar a actualização para esta aplicação inserida no sistema? Os dados não serão perdidos. A actualização terá acesso a:</string>
+  <string name="install_confirm_question_update_system_no_perms">Quer instalar a actualização para esta aplicação inserida no sistema? Os dados não serão perdidos. Não é necessário nenhum acesso especial.</string>
   <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
   <string name="abc_activitychooserview_choose_application">Seleccionar aplicação</string>
   <string name="abc_search_hint">Pesquisar…</string>
