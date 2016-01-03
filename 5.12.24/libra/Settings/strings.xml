@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="convenience_key_category_title">Convenience key</string>
-  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
+  <string name="convenience_key_category_title">Tecla de conveniência</string>
+  <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao ecrã inicial</string>
 </resources>
