@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="view_hms_details_download">Transferir</string>
+  <string name="mipay_key_text_dot">.</string>
 </resources>

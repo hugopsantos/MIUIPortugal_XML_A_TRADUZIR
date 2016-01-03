@@ -1,19 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="micloud_main_message_not_synced">%s dados não sincronizados</string>
-  <string name="micloud_main_title_not_synced">Não sincronizado</string>
-  <string name="micloud_notif_content_battery_low">A bateria está fraca.</string>
-  <string name="micloud_notif_content_master_depend_wifi">Ligue à rede Wi-Fi.</string>
-  <string name="micloud_notif_content_memory_low">Espaço de armazenamento insuficiente.</string>
-  <string name="micloud_notif_content_sync_finish">Conta</string>
-  <string name="micloud_notif_content_sync_with_off">Toque para sincronizar agora.</string>
-  <string name="micloud_notif_title_battery_low">Não foi possível sincronizar com a Nuvem Mi</string>
-  <string name="micloud_notif_title_master_depend_wifi">Não foi possível sincronizar com a Nuvem Mi</string>
-  <string name="micloud_notif_title_memory_low">Não foi possível sincronizar com a Nuvem Mi</string>
-  <string name="micloud_notif_title_sync_finish">Sincronizado</string>
-  <string name="micloud_notif_title_sync_progress">A sincronizar</string>
   <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
-  <string name="soundrecorder_sync_only_in_wifi">Sincronizar apenas por Wi-Fi</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">O Gravador não irá utilizar os dados móveis para transferir ou enviar gravações</string>
-  <string name="soundrecorder_sync_records">Sincronizar com a Nuvem Mi</string>
 </resources>

@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="account_setup_failed_dlg_bar_title">Dicas de inicio de sessão de %s</string>
-  <string name="account_setup_failed_dlg_error_code">Código de erro: %s</string>
-  <string name="account_setup_failed_dlg_todo1">Defina a conta como em baixo ou tente iniciar sessão com exchange.</string>
-  <string name="account_setup_failed_dlg_todo2">Defina a conta como em baixo.</string>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="try_exchange_login">Tente iniciar sessão com exchange</string>
 </resources>

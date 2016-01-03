@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cit_apk_signature_failed">apk signature FAILED</string>
+  <string name="cit_apk_signature_passed">apk signature PASSED</string>
+  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
+  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
+  <string name="cit_get_signature_failed">get signature FAILED</string>
+  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
+  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+  <string name="cit_signature_check_label">signature check:</string>
+</resources>

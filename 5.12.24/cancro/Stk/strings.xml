@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="no_sim_card_inserted">Insira o SIM para executar as Ferramentas SIM.</string>
-  <string name="sim_type_sim_name">Ferramentas SIM</string>
-  <string name="sim_type_uim_name">Ferramentas UIM</string>
-  <string name="sim_type_usim_name">Ferramentas USIM</string>
-</resources>

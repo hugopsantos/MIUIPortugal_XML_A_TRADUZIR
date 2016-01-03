@@ -2,20 +2,6 @@
 <resources>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
-  <string name="abc_activitychooserview_choose_application">Seleccionar aplicação</string>
-  <string name="abc_search_hint">Pesquisar…</string>
-  <string name="abc_shareactionprovider_share_with">Partilhar</string>
-  <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
-  <string name="abc_toolbar_collapse_description">Minimizar</string>
-  <string name="additional_permissions">Permissões adicionais</string>
-  <string name="allPerms">Todas</string>
-  <string name="all_permissions">Todas as permissões</string>
-  <string name="app_permissions">Permissões das aplicações</string>
-  <string name="app_permissions_breadcrumb">Aplicações</string>
-  <string name="app_permissions_group_summary">%1$d de %2$d permissões permitidas</string>
-  <string name="devicePerms">Acesso ao dispositivo</string>
-  <string name="install_confirm_question_no_perms">Pretende instalar esta aplicação? Não requer qualquer acesso especial.</string>
   <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
   <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
   <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>

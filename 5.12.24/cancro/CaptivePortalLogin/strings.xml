@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="ssl_error_continue">Continuar de qualquer forma pelo navegador</string>
-  <string name="ssl_error_example">Por exemplo, a página de início de sessão pode não ser da organização apresentada.</string>
-  <string name="ssl_error_warning">A rede a que está a tentar ligar tem problemas de segurança.</string>
-</resources>

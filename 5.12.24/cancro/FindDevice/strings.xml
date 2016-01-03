@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="default_lock_msg_words">Olá! Eu perdi o meu telefone. Eu contacto-o mais tarde. Obrigado!</string>
-  <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Pode contactar-me? Obrigado!</string>
-  <string name="device_lost">Este dispositivo está perdido</string>
-  <string name="lock_msg_phone">Informação do contacto: %s</string>
-</resources>

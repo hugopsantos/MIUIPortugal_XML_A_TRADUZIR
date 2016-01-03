@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="livetalk_common_problem">FQA</string>
+  <string name="livetalk_provision_title">Provision</string>
+  <string name="sim_card_num">SIM%s</string>
+</resources>

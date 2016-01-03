@@ -1,37 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="done_label">CONCLUÍDO</string>
-  <string name="install_done">%1$s credenciais foram adicionadas às redes Wi-Fi guardadas.</string>
-  <string name="install_done_title">Credenciais instaladas</string>
-  <string name="wifi_cancel_label">Cancelar</string>
-  <string name="wifi_config_text">"Nome: %1$s
-FQDN: %2$s
-Consórcios roaming: %3$s
-Domínio: %4$s
-Método de autenticação: EAP-%5$s
-"</string>
-  <string name="wifi_detail_label">Detalhes</string>
-  <string name="wifi_detail_title">Detalhes de %s</string>
-  <string name="wifi_dismiss_label">Ignorar</string>
-  <string name="wifi_install_label">Instalar</string>
-  <string name="wifi_installer_detail">Instalar credênciais Wi-Fi para ligar às redes disponíveis em %1$s.</string>
-  <string name="wifi_installer_download_error">O ficheiro transferido tem problemas e não pode ser instalado. Certifique-se que transferiu o ficheiro do local correcto.</string>
-  <string name="wifi_installer_fail">Não foi possível instalar as credências Wi-Fi. Tente transferir o ficheiro novamente.</string>
-  <string name="wifi_installer_fail_no_wifi">Ligue o Wi-Fi e tente novamente.</string>
-  <string name="wifi_installer_fail_no_wifi_title">Instalação cancelada</string>
-  <string name="wifi_installer_fail_title">Não foi possível instalar</string>
-  <string name="wifi_installing_label">A instalar</string>
-  <string name="wifi_no_config">Nenhum</string>
   <string name="wifi_sim_config_text">"SIM: %s
-"</string>
-  <string name="wifi_title">Perfil Wi-Fi</string>
-  <string name="wifi_tls_config_text">"Certificado cliente:
-%1$s
-Chave: %2$s
-"</string>
-  <string name="wifi_trust_config_text">"Certificado confiável:
-%s
-"</string>
-  <string name="wifi_ttls_config_text">"Nome de utilizador: %s
 "</string>
 </resources>

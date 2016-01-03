@@ -1,38 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="company_controls_device">A organização irá controlar o dispositivo e mantê-lo seguro.</string>
-  <string name="copying_certs">Definir certificados CA</string>
-  <string name="delete_profile_title">Remover perfil de trabalho?</string>
-  <string name="device_owner_error_already_provisioned_user">Este dispositivo já está configurado para este utilizador.</string>
-  <string name="device_owner_error_frp">Este dispositivo está bloqueado pela fábrica contra a reposição. Contacte o departamento IT.</string>
-  <string name="device_owner_error_package_name_invalid">Não foi possível instalar a aplicação de administração. O nome do pacote não é válido. Contacte o departamento IT.</string>
-  <string name="device_owner_exists">Os perfis de trabalho não podem ser configurados em dispositivos geridos</string>
-  <string name="encrypt_device_text_for_device_owner_setup">Para continuar a configuração do dispositivo necessita do encriptar. Pode demorar algum tempo.</string>
-  <string name="encrypt_device_text_for_profile_owner_setup">Para continuar a configuração do perfil necessita do encriptar o dispositivo. Pode demorar algum tempo.</string>
-  <string name="frp_clear_progress_text">Aguarde...</string>
-  <string name="frp_clear_progress_title">A apagar</string>
-  <string name="learn_more_label">Botão de saber mais</string>
-  <string name="maximum_user_limit_reached">O perfil de trabalho não pode ser criado porque já atingiu o número máximo de utilizadores para este dispositivo. Remova um utilizador e tente novamente.</string>
-  <string name="mdm_icon_label">Ícone %1$s</string>
-  <string name="opening_paragraph_delete_profile_known_company">Este perfil de trabalho é gerido por %s utilizando:</string>
-  <string name="opening_paragraph_delete_profile_unknown_company">O perfil de trabalho já existe e é gerido por:</string>
   <string name="provisioning">Provisioning</string>
-  <string name="read_more_delete_profile">Antes de proceder, </string>
-  <string name="setup_device_encryption">Configure o dispositivo. Encriptação</string>
-  <string name="setup_device_progress">Configure o dispositivo. A mostrar progresso</string>
-  <string name="setup_device_start_setup">Configure o dispositivo. Iniciar configuração</string>
-  <string name="setup_profile_encryption">Configure o perfil. Encriptação</string>
-  <string name="setup_profile_progress">Configure o perfil. A mostrar progresso</string>
-  <string name="setup_profile_start_setup">Configure o perfil. Iniciar configuração</string>
-  <string name="setup_work_device">Configure o dispositivo</string>
-  <string name="setup_work_profile">Configure o perfil</string>
-  <string name="suw_back_button_label">Voltar</string>
-  <string name="suw_more_button_label">Mais</string>
-  <string name="suw_next_button_label">Seguinte</string>
-  <string name="the_following_is_your_mdm_for_device">A seguinte aplicação irá gerir o dispositivo:</string>
-  <string name="theft_protection_disabled_warning">Se continuar, os recursos de protecção  anti-roubo não estarão ligadas. Para ligar a protecção anti-roubo, cancele agora e configure como dispositivo pessoal.</string>
-  <string name="work_profile_setup_continue">CONTINUAR</string>
-  <string name="work_profile_setup_later_message">Pode definir mais tarde o perfil de trabalho através da aplicação de gestão do dispositivo, utilizada pela empresa.</string>
-  <string name="work_profile_setup_later_title">Parar configuração do perfil?</string>
-  <string name="work_profile_setup_stop">PARAR</string>
 </resources>

@@ -1,8 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="power_checker_recent_btn_title">Configurar energia</string>
-  <string name="power_checker_recent_group_title">Recentes</string>
-  <string name="power_checker_running_btn_title">Terminar processo</string>
-  <string name="power_checker_running_group_title">A executar</string>
   <string name="power_checker_title">PowerChecker</string>
 </resources>

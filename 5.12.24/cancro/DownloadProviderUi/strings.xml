@@ -1,19 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="ad_title">As pessoas também transferiram  %1$s </string>
   <string name="app_size">%1$s</string>
-  <string name="download_list_title_browser">Transferências</string>
-  <string name="download_num_size">%1$s pessoas transferiram | %2$s</string>
-  <string name="get_data_failed">Não foi possível obterv a informação, tente mais tarde</string>
-  <string name="jump_rank_hint">Veja a classificação das transferência de hoje &gt;</string>
-  <string name="load_finish_hint">Pode continuar a ver amanhã</string>
-  <string name="menu_title_fileexplore">Explorador de ficheiros</string>
-  <string name="net_error">Não foi possível legar à rede, tente novamente</string>
-  <string name="rank">Classificações</string>
-  <string name="rank_data_empty">Sem classificações</string>
-  <string name="rank_guide_confirm">Confirmar</string>
-  <string name="rank_guide_content">As classificações são actualizadas diáriamente para mostrar as aplicações mais populares</string>
-  <string name="rank_guide_title">Aplicações que outras pessoas instalaram</string>
-  <string name="sniff_shortcut_exist">O atalho já existe</string>
-  <string name="sniff_shortcut_failed">Não foi possível criar o atalho</string>
 </resources>

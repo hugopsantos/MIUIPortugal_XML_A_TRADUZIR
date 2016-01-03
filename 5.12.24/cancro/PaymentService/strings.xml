@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="mibi_error_recharge_process_fail">O processo de recarga falhou.</string>
-  <string name="mibi_error_recharge_result_fail">O resultado da recarga falhou.</string>
-  <string name="mibi_error_recharge_result_uncertain">O resultado da recarga é inserto.</string>
-  <string name="mibi_error_recharge_success_pay_fail">Recarga concluída e pagamento falhou.</string>
-  <string name="mibi_pay_notification">Pagar %1$s créditos Mi</string>
-</resources>

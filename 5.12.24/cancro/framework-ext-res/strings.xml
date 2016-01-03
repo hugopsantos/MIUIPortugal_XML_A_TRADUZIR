@@ -1,14 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de ecrã desligados, faça duplo clique em qualquer botão para sair</string>
-  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de ecrã ligados</string>
-  <string name="auto_disable_screenbuttons_float_text">Toque para desligar os botões de ecrã</string>
-  <string name="auto_disable_screenbuttons_prompts_message">Faça duplo clique em qualquer botão para sair do modo de desactivação e executar a acção deste botão.</string>
-  <string name="auto_disable_screenbuttons_prompts_not_show_again">Não voltar a mostrar</string>
   <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
-  <string name="auto_disable_screenbuttons_prompts_title">Desligar autumaticamente os botões de ecrã</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Pode voltar ao ecrã inicial ao tocar no botão inicial. Pode escolher para o fazer apenas com um toque. Personalize o botão inicial nas Definições &gt; Definições adicionais &gt; Botões.</string>
-  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Não</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizar</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Personalizar botão Inicial</string>
 </resources>
