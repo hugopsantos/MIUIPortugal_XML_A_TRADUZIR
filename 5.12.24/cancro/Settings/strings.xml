@@ -15,7 +15,7 @@
   <string name="apn_ppp_number">APN número de telefone PPP</string>
   <string name="app_data_usage">Utilização de dados da aplicação</string>
   <string name="app_disable_dlg_positive">Desactivar aplicação</string>
-  <string name="app_launch_domain_links_title">App links</string>
+  <string name="app_launch_domain_links_title">Ligações das aplicações</string>
   <string name="app_launch_open_domain_urls_summary">Abrir sem perguntar</string>
   <string name="app_launch_open_domain_urls_title">Abrir ligações suportadas</string>
   <string name="app_launch_other_defaults_title">Outros pré-definidos</string>
@@ -25,17 +25,17 @@
   <string name="app_link_open_never">Não abrir nesta aplicação</string>
   <string name="app_list_memory_use">Utilização da aplicação</string>
   <string name="app_list_preference_none">Nenhum</string>
-  <string name="app_notification_peekable_summary">Let this app emphasize certain notifications by sliding them briefly into view on the current screen</string>
-  <string name="app_notification_peekable_title">Allow peeking</string>
+  <string name="app_notification_peekable_summary">Deixar esta aplicação realçar algumas notificações, delizando-as brevemente no ecrã actual</string>
+  <string name="app_notification_peekable_title">Permitir espreitar</string>
   <string name="app_notification_preferences">Configurações da aplicação</string>
-  <string name="app_overlay_permission_preference">App draw on top permission</string>
+  <string name="app_overlay_permission_preference">A aplicação escreve por cima da permissão</string>
   <string name="app_permissions">Permissões da aplicação</string>
   <string formatted="false" name="app_permissions_group_summary">%d de %d aplicações permitidas</string>
-  <string formatted="false" name="app_permissions_summary">%d de %d apps allowed additional access</string>
+  <string formatted="false" name="app_permissions_summary">%d de %d aplicações permitidas para acesso adicional</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">Esta conta pode aceder às suas contas. Controlado por %1$s</string>
-  <string name="app_usage_preference">App usage preferences</string>
-  <string name="apps_storage">Apps storage</string>
-  <string name="assist_access_context_summary">Allow the assist app to access the screen contents as text</string>
+  <string name="app_usage_preference">Preferências de utilização da aplicação</string>
+  <string name="apps_storage">Aplicações de armazenamento</string>
+  <string name="assist_access_context_summary">Permitir que a aplicação auxiliar aceder ao conteúdo do ecrã como texto</string>
   <string name="assist_access_context_title">Utilizar o texto no ecrã</string>
   <string name="assist_access_screenshot_summary">Allow the assist app to access an image of the screen</string>
   <string name="assist_access_screenshot_title">Use screenshot</string>
