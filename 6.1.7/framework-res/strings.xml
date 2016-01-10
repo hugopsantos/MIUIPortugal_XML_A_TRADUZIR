@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="lock_to_app_negative">NO, THANKS</string>
-  <string name="lock_to_app_positive">START</string>
-  <string name="lock_to_app_title">Use screen pinning?</string>
-  <string name="permdesc_broadcastScoreNetworks">Allows the app to broadcast a notification that networks need to be scored. Never needed for normal apps.</string>
-  <string name="permlab_broadcastScoreNetworks">send score networks broadcast</string>
-</resources>
