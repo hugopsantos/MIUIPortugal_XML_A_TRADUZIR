@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="assisted_gps_configurable_list">None</string>
-  <string name="def_enable_accessiblity_services">None</string>
-  <string name="def_enable_input_methods">None</string>
-  <string name="def_input_method">None</string>
+  <string name="assisted_gps_configurable_list">Nenhum</string>
+  <string name="def_enable_accessiblity_services">Nenhum</string>
+  <string name="def_enable_input_methods">Nenhum</string>
+  <string name="def_input_method">Nenhum</string>
 </resources>

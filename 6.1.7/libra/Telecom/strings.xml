@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="notification_missedCall_call_back_miui">Call</string>
+  <string name="notification_missedCall_call_back_miui">Chamada</string>
 </resources>

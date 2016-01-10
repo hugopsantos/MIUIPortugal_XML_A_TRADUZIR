@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Use volume buttons to wake\" is on."</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Não é possível usar o modo de Foto rápida enquanto \"o acordar com os botões de volume\" estiver ligado."</string>
 </resources>

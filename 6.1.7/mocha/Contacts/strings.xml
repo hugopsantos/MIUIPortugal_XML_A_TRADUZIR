@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="v5_date_picker_label_day">日</string>
-  <string name="v5_date_picker_label_month">月</string>
-  <string name="v5_date_picker_label_year">年</string>
-  <string name="v5_date_time_picker_dialog_title">设置提醒时间</string>
-  <string name="v5_time_picker_label_hour">时</string>
-  <string name="v5_time_picker_label_minute">分</string>
+  <string name="v5_date_picker_label_day">Dia</string>
+  <string name="v5_date_picker_label_month">Mês</string>
+  <string name="v5_date_picker_label_year">Ano</string>
+  <string name="v5_date_time_picker_dialog_title">Definir hora do alarme</string>
+  <string name="v5_time_picker_label_hour">Hora</string>
+  <string name="v5_time_picker_label_minute">Minuto</string>
 </resources>
