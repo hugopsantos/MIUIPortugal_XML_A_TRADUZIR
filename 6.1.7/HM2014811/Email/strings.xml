@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="current_version">Current version</string>
+  <string name="impunity_declaration_content5">.</string>
+  <string name="music_traffic">Music data plan</string>
+  <string name="music_traffic_summary">Listen and download songs without using data</string>
+  <string name="nav_online_billboard">Charts</string>
+  <string name="notification_des_next_song">Next song: %s</string>
+  <string name="notification_des_no_song">Mi Music. New every day.</string>
+  <string name="notification_headset_custom">Dismiss</string>
+  <string name="notification_headset_info">Tap to view settings.</string>
+  <string name="notification_headset_settings">Headphones connected</string>
+  <string name="notification_title_no_song">"Check out what everyone's listening to!"</string>
+  <string name="settings_notification_text">Show player widget in notification shade</string>
+  <string name="settings_notification_title">Notification shade widget</string>
+  <string name="tab_japanese_korean">J-Pop/K-Pop</string>
+  <string name="title_online_billboard">Charts</string>
+  <string name="toast_download_in_process">Download in process</string>
+  <string name="traffic_free_to_play">Use music data plan</string>
+  <string name="version_info">Version</string>
+</resources>

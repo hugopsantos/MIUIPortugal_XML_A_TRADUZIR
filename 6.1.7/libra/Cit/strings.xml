@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
+  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
+</resources>
