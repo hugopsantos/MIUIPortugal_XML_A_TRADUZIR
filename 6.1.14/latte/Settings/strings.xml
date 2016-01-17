@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="button_send">Send</string>
-  <string name="local_select_audio">Audios</string>
-  <string name="local_select_doc">Documents</string>
-  <string name="local_select_image">Images</string>
-  <string name="local_select_video">Videos</string>
-  <string name="trans_operate_func_one">Method A</string>
-  <string name="trans_operate_func_two">Method B</string>
-  <string name="trans_receiver_time_remained">"%s remaining. Keep device charged.
-Don't turn off Hotspot. Keep both devices close to each other."</string>
-  <string name="trans_select_data">Choose Data</string>
-  <string name="trans_select_data_no_space">"%s available on the new device
-Select files again or free up storage"</string>
-  <string name="trans_select_data_tips">"Select files to transfer
-Similar files on the new device will be overwritten"</string>
-  <string name="trans_sender_time_remained">"%s remaining. Keep device charged.
-Don't turn off WLAN. Keep both devices close to each other."</string>
-  <string name="trans_show_qr_code_label">Connect old device</string>
+  <string name="button_send">Enviar</string>
+  <string name="local_select_audio">Audio</string>
+  <string name="local_select_doc">Documentos</string>
+  <string name="local_select_image">Fotos</string>
+  <string name="local_select_video">Vídeos</string>
+  <string name="trans_operate_func_one">Método A</string>
+  <string name="trans_operate_func_two">Método B</string>
+  <string name="trans_receiver_time_remained">"%s restantes. Mantenha o dispositivo carregado.
+Não desligue o ponto de acesso. Mantenha os dispositivos juntos."</string>
+  <string name="trans_select_data">Seleccionar dados</string>
+  <string name="trans_select_data_no_space">"%s disponíveis no dispositivo novo
+Seleccionar novamente os ficheiros ou liberte espaço de armazenamento"</string>
+  <string name="trans_select_data_tips">"Seleccione os ficheiros a transferir
+Os ficheiros similares serão substituidos no dispositivo novo"</string>
+  <string name="trans_sender_time_remained">"%s restantes. Mantenha o dispositivo carregado.
+Não desligue o Wi-Fi. Mantenha os dispositivos juntos."</string>
+  <string name="trans_show_qr_code_label">Ligar o dispositivo antigo</string>
   <string name="trans_time_spent">"
-Time spent %s"</string>
-  <string name="trans_wait_trans_data">"Connected to the old device.
-Waiting for the transfer…"</string>
+Tempo total %s"</string>
+  <string name="trans_wait_trans_data">"Ligado ao dispositivo antigo.
+A aguardar pela transferência…"</string>
 </resources>
