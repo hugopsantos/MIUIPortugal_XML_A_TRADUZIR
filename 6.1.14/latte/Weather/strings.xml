@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="vip_level">Nível %d</string>
+  <string name="realtime_aqi_connection">%1$s</string>
 </resources>

@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="accessibility_managed_profile">Perfil de trabalho</string>
-  <string name="managed_profile_foreground_toast">Está a usar o perfil de trabalho</string>
-</resources>
