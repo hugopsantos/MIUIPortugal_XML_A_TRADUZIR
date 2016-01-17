@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="vip_level">LV%d</string>
+  <string name="vip_level">Nível %d</string>
 </resources>
