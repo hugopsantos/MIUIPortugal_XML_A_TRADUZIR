@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: Não foi possível concluír o diagnóstico&lt;br/&gt;&lt;br/&gt;Reporte este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
-</resources>
