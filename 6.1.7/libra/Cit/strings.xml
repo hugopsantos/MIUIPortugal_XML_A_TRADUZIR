@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="cit_finger_check_title">Teste de impressão digital(FPC)</string>
-  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
-  <string name="cit_fpc_selftest">SELF-TEST</string>
-  <string name="cit_fpc_sensor_check_summary">Teste de sensor FPC, toque no botão e aguarde até a informação em verde estar correcta.</string>
-  <string name="cit_fpc_sensor_check_title">Sensor de impressão digital FPC</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="v5_date_picker_label_day">Dia</string>
-  <string name="v5_date_picker_label_month">Mês</string>
-  <string name="v5_date_picker_label_year">Ano</string>
-  <string name="v5_date_time_picker_dialog_title">Definir hora do alarme</string>
-  <string name="v5_time_picker_label_hour">Hora</string>
-  <string name="v5_time_picker_label_minute">Minuto</string>
-</resources>

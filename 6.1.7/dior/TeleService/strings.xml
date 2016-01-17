@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="livetalk_common_problem">FAQ</string>
-  <string name="livetalk_provision_title">Termos do serviço</string>
-  <string name="network_unconnected_message_livetalk">Erro de rede, tente fazer uma chamada normal. A operadora poderá cobrar a chamada.</string>
-  <string name="network_unconnected_title">Erro de rede</string>
-</resources>

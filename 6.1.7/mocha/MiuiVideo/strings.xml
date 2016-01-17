@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="actor">Actor</string>
-  <string name="mibi">mibi</string>
-  <string name="sniff">Sniff</string>
-  <string name="vp_time_separator">/</string>
-</resources>
