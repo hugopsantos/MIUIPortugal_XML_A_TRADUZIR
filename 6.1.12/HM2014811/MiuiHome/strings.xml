@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="add_screen">Add screen button</string>
+  <string name="delete_screen">Delete screen button</string>
+  <string name="screen_number">The %d screen</string>
+</resources>

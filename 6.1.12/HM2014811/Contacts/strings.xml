@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="back_view_description">Click to return to previous screen</string>
+  <string name="description_image_button_comma">comma</string>
+  <string name="description_image_button_dial">dial</string>
+  <string name="description_image_button_sim1_dial">dial by sim one</string>
+  <string name="description_image_button_sim2_dial">dial by sim two</string>
+  <string name="dialer_menu_description">Click to open dialer menu</string>
+  <string name="group_detail_label_placeholder"> </string>
+  <string name="voip_audio_description">Click to voip audio</string>
+  <string name="voip_video_description">Click to voip video</string>
+</resources>

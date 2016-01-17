@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="accessibility_managed_profile">Work profile</string>
+  <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
+</resources>

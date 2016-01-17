@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="input_empty">"Can't be empty"</string>
+</resources>

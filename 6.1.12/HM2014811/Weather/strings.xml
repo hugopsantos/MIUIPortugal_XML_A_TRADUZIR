@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="daily_forcast_whirl_wind">Whirl wind</string>
+  <string name="realtime_aqi_connection">%1$s</string>
+</resources>
