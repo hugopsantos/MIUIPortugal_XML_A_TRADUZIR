@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="activate_history_cancelled">cancelled</string>
-  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_sms">An SMS has been sent during the activation.</string>
-  <string name="activate_history_success">succeeded</string>
-  <string name="activate_history_title">SIM Card Activation</string>
+  <string name="activate_history_cancelled">Cancelado</string>
+  <string name="activate_history_multisim_overview">Activação do cartão SIM %3$d %1$s. Foi executada pelo recurso \"%2$s\".</string>
+  <string name="activate_history_overview">Activação do cartão SIM %1$s. Foi executada pelo recurso \"%2$s\".</string>
+  <string name="activate_history_sms">Foi enviada uma SMS durante a activação.</string>
+  <string name="activate_history_success">Concluído</string>
+  <string name="activate_history_title">Activação do cartão SIM</string>
 </resources>
