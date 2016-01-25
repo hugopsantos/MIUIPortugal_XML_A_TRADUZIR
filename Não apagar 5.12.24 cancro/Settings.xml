@@ -338,101 +338,101 @@ Existem outros utilizadores neste dispositivo.
   <string name="select_sim_for_data">Seleccionar SIM para dados</string>
   <string name="select_usb_configuration_dialog_title">Seleccionar configuração USB</string>
   <string name="select_usb_configuration_title">Seleccionar configuração USB</string>
-  <string name="setup_fingerprint_enroll_finish_message">Just touch the fingerprint sensor to wake and unlock your device.</string>
-  <string name="setup_fingerprint_enroll_finish_message_secondary">When you see this icon, you can use your fingerprint.</string>
-  <string name="sim_change_data_message">Use %1$s instead of %2$s for cellular data?</string>
-  <string name="sim_change_data_title">Change data SIM?</string>
-  <string name="sim_enabler_need_switch_data_service">Will disable it and switch to SIM%1$s for data services, are you sure?</string>
-  <string name="sim_enabler_will_disable_sim_title">Attention</string>
-  <string name="sim_name_hint">Enter SIM name</string>
-  <string name="sim_notification_summary">Touch to set up</string>
-  <string name="sim_notification_title">SIM cards changed.</string>
-  <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for cellular data, calls, and SMS messages?</string>
-  <string name="sim_preferred_title">Update preferred SIM card?</string>
+  <string name="setup_fingerprint_enroll_finish_message">Toque no sensor de impressões digitais para acordar e desbloquear o dispositivo.</string>
+  <string name="setup_fingerprint_enroll_finish_message_secondary">Pode usar a impressão digital quando ver este ícone.</string>
+  <string name="sim_change_data_message">Usar %1$s em vez de %2$s para dados móveis?</string>
+  <string name="sim_change_data_title">Alterar SIM de dados móveis?</string>
+  <string name="sim_enabler_need_switch_data_service">Irá desligá-lo e mudar para SIM%1$s para serviço de dados, continuar?</string>
+  <string name="sim_enabler_will_disable_sim_title">Atenção</string>
+  <string name="sim_name_hint">Insira o nome do SIM</string>
+  <string name="sim_notification_summary">Toque para definir</string>
+  <string name="sim_notification_title">Cartões SIM alterados.</string>
+  <string name="sim_preferred_message">%1$s é o único SIM no dispositivo. Quer usar este SIM para dados móveis, chamadas e mensagens?</string>
+  <string name="sim_preferred_title">Actualizar cartão SIM preferido?</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="slot_number">(Slot%1$d)</string>
-  <string name="sometimes_running">Sometimes running (%s)</string>
-  <string name="sort_avg_use">Sort by avg use</string>
-  <string name="sort_max_use">Sort by max use</string>
-  <string name="starting_android">Starting Android</string>
-  <string name="storage_detail_apps">Apps</string>
-  <string name="storage_detail_audio">Audio</string>
-  <string name="storage_detail_cached">Cached data</string>
-  <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files, and so on. 
+  <string name="sometimes_running">Às vezes em execução (%s)</string>
+  <string name="sort_avg_use">Organizar por utilização média</string>
+  <string name="sort_max_use">Organizar por utilização máxima</string>
+  <string name="starting_android">A iniciar Android</string>
+  <string name="storage_detail_apps">Aplicações</string>
+  <string name="storage_detail_audio">Aúdio</string>
+  <string name="storage_detail_cached">Dados em cache</string>
+  <string name="storage_detail_dialog_other">"Outros incluem ficheiros partilhados guardados por aplicações, ficheiros transferidos da internet ou Bluetooth, ficheiros Android, etc. 
 
-To see the entire contents of this ^1, touch Explore."</string>
-  <string name="storage_detail_dialog_user">"^1 may have saved photos, music, movies, apps, or other data that is taking up ^2 of storage. 
+Para ver todo o conteúdo deste ^1, toque em Explorar."</string>
+  <string name="storage_detail_dialog_user">"^1 pode ter guardado fotos, música, filmes, aplicações ou outros dados que estão a ocupar ^2 do armazenamento. 
 
-To view details, switch to ^1."</string>
-  <string name="storage_detail_explore">Explore ^1</string>
-  <string name="storage_detail_images">Images</string>
-  <string name="storage_detail_other">Other</string>
-  <string name="storage_detail_videos">Videos</string>
-  <string name="storage_dialog_unmountable">"This ^1 is corrupted. 
+Para ver detalhes, altere para ^1."</string>
+  <string name="storage_detail_explore">Explorar ^1</string>
+  <string name="storage_detail_images">Fotos</string>
+  <string name="storage_detail_other">Outros</string>
+  <string name="storage_detail_videos">Vídeos</string>
+  <string name="storage_dialog_unmountable">"Este ^1 está corrompido. 
 
-To use this ^1, you have to set it up first."</string>
-  <string name="storage_dialog_unmounted">"This ^1 is safely ejected, but still available. 
+Para usar este ^1, tem de o configurar primeiro."</string>
+  <string name="storage_dialog_unmounted">"Este ^1 foi removido com segurança, mas está disponível. 
 
-To use this ^1, you have to mount it first."</string>
-  <string name="storage_dialog_unsupported">"This device doesn’t support this ^1. 
+Para usar este ^1, tem de o montar primeiro."</string>
+  <string name="storage_dialog_unsupported">"O dispositivo não suporta este ^1. 
 
-To use this ^1 with this device, you have to set it up first."</string>
-  <string name="storage_external_title">Portable storage</string>
-  <string name="storage_format_failure">Couldn’t format %1$s</string>
-  <string name="storage_format_success">%1$s is formatted</string>
-  <string name="storage_internal_forget_confirm">All the apps, photos, and data stored on this ^1 will be lost forever.</string>
-  <string name="storage_internal_forget_confirm_title">Forget ^1?</string>
-  <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
+Para usar este ^1 com o dispositivo, tem de o configurar primeiro."</string>
+  <string name="storage_external_title">Armazenamento portátil</string>
+  <string name="storage_format_failure">Não é possível formatar %1$s</string>
+  <string name="storage_format_success">%1$s está formatado</string>
+  <string name="storage_internal_forget_confirm">Todas as aplicações, fotos e dados armazenados neste ^1 serão apagados.</string>
+  <string name="storage_internal_forget_confirm_title">Esquecer ^1?</string>
+  <string name="storage_internal_forget_details">"Para usar as aplicações, fotos ou dados neste ^1 contains, tem de o voltar a inserir. 
 
-Alternatively, you can choose to forget this storage if the device isn’t available. 
+Ou pode escolher para esquecer este armazenamento se o dispositivo não estiver disponível. 
 
-If you choose to forget, all the data the device contains will be lost forever. 
+Se escolher para esquecer, todos os dados que o dispositivo tem serão perdidos. 
 
-You can reinstall the apps later, but their data stored on this device will be lost."</string>
-  <string name="storage_internal_format_details">"After formatting, you can use this ^1 in other devices. 
+Pode voltar a instalar as aplicações mais tarde, mas os dados das mesmas que existem no dispositivo serão perdidos."</string>
+  <string name="storage_internal_format_details">"Após formatar, pode usar este ^1 em outros dispositivos. 
 
-All data on this ^1 will be erased. Consider backing up first. 
+Todos os dados neste ^1 serão apagados. Considere fazer uma cópia de segurança. 
 
 "</string>
-  <string name="storage_internal_title">Device storage</string>
-  <string name="storage_internal_unmount_details">None</string>
-  <string name="storage_menu_explore">Explore</string>
-  <string name="storage_menu_forget">Forget</string>
-  <string name="storage_menu_format">Format</string>
-  <string name="storage_menu_format_private">Format as internal</string>
-  <string name="storage_menu_format_public">Format as portable</string>
-  <string name="storage_menu_migrate">Migrate data</string>
-  <string name="storage_menu_mount">Mount</string>
-  <string name="storage_menu_rename">Rename</string>
-  <string name="storage_menu_set_up">Set up</string>
-  <string name="storage_menu_unmount">Eject</string>
-  <string name="storage_mount_failure">Couldn’t mount %1$s</string>
-  <string name="storage_mount_success">%1$s is mounted</string>
-  <string name="storage_rename_title">Rename storage</string>
+  <string name="storage_internal_title">Armazenamento do dispositivo</string>
+  <string name="storage_internal_unmount_details">Nenhum</string>
+  <string name="storage_menu_explore">Explorar</string>
+  <string name="storage_menu_forget">Esquecer</string>
+  <string name="storage_menu_format">Formatar</string>
+  <string name="storage_menu_format_private">Formatar como interno</string>
+  <string name="storage_menu_format_public">Format como portátil</string>
+  <string name="storage_menu_migrate">Migrar dados</string>
+  <string name="storage_menu_mount">Montar</string>
+  <string name="storage_menu_rename">Renomear</string>
+  <string name="storage_menu_set_up">Configurar</string>
+  <string name="storage_menu_unmount">Remover</string>
+  <string name="storage_mount_failure">Não foi possível montar %1$s</string>
+  <string name="storage_mount_success">%1$s está montado</string>
+  <string name="storage_rename_title">Renomear armazenamente</string>
   <string name="storage_size_large">^1</string>
-  <string name="storage_summary_format">%1$s used in %2$s</string>
-  <string name="storage_type_external">External storage</string>
-  <string name="storage_type_internal">Internal storage</string>
-  <string name="storage_unmount_failure">Couldn’t safely eject %1$s</string>
-  <string name="storage_unmount_success">%1$s is safely ejected</string>
-  <string name="storage_usb_settings">Storage &amp; USB</string>
-  <string name="storage_used">Storage used</string>
-  <string name="storage_volume_summary">%1$s used of %2$s</string>
-  <string name="storage_volume_used">Used of %1$s</string>
-  <string name="storage_volume_used_total">Total used of %1$s</string>
-  <string name="storage_wizard_format_confirm_body">"This requires the ^1 to be formatted to make it secure. 
+  <string name="storage_summary_format">%1$s usado em %2$s</string>
+  <string name="storage_type_external">Armazenamento externo</string>
+  <string name="storage_type_internal">Armazenamento interno</string>
+  <string name="storage_unmount_failure">Não é possível remover com segurança %1$s</string>
+  <string name="storage_unmount_success">%1$s removido com segurança</string>
+  <string name="storage_usb_settings">Armazenamento e USB</string>
+  <string name="storage_used">Armazenamento utilizado</string>
+  <string name="storage_volume_summary">%1$s utilizado de %2$s</string>
+  <string name="storage_volume_used">Utilizado de %1$s</string>
+  <string name="storage_volume_used_total">Total utilizado de %1$s</string>
+  <string name="storage_wizard_format_confirm_body">"Isto requer que o ^1 seja formatado para o tornar seguro. 
 
-After formatting, this ^1 will only work in this device. 
-
-"</string>
-  <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
-  <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
+Após formatar, este ^1 apenas irá funcionar neste dispositivo. 
 
 "</string>
-  <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
-  <string name="storage_wizard_format_confirm_title">Format as internal storage</string>
-  <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
-  <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
+  <string name="storage_wizard_format_confirm_next">Apagar e formatar</string>
+  <string name="storage_wizard_format_confirm_public_body">"Isto requer que o ^1 seja formatado. 
+
+"</string>
+  <string name="storage_wizard_format_confirm_public_title">Formatar como armazenamento portátil</string>
+  <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
+  <string name="storage_wizard_format_progress_body">Não remoba o ^1 enquanto está a formatar.</string>
+  <string name="storage_wizard_format_progress_title">A formatar ^1…</string>
   <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
   <string name="storage_wizard_init_external_title">Use as portable storage</string>
   <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
