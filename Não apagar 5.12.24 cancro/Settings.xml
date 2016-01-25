@@ -486,38 +486,38 @@ Considere usar um ^1 mais rápido para melhor performance."</string>
   <string name="tap_to_wake">Toque para acordar</string>
   <string name="tap_to_wake_summary">Toque duplo em qualquer local do ecrã para acordar o dispositivo</string>
   <string name="total_memory">Memória total</string>
-  <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
-  <string name="trust_agent_disabled_device_admin">Disabled by administrator</string>
-  <string name="unknown_app">Unknown app</string>
-  <string name="unlock_disable_frp_warning_content_password">Device protection features will not work without your password.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+  <string name="touch_filtered_warning">As Definições não podem verificar a resposta devido a uma aplicação estar a ocultar uma permissão.</string>
+  <string name="trust_agent_disabled_device_admin">Desligado pelo administrador</string>
+  <string name="unknown_app">Aplicação desconhecida</string>
+  <string name="unlock_disable_frp_warning_content_password">Os recursos de protecção do dispositivo não funcionam sem a palavra-passe.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">"Os recursos de protecção do dispositivo não funcionam sem a palavra-passe.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
+As impressões digitais guardadas também serão removidas do dispositivo e não poderá deslbloquear o dispositivo, autorizar compras ou iniciar sessão em aplicações."</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Os recursos de protecção do dispositivo não funcionam sem o padrão de desbloqueio.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Os recursos de protecção do dispositivo não funcionam sem o padrão de desbloqueio.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_pin">Device protection features will not work without your PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
+As impressões digitais guardadas também serão removidas do dispositivo e não poderá deslbloquear o dispositivo, autorizar compras ou iniciar sessão em aplicações."</string>
+  <string name="unlock_disable_frp_warning_content_pin">Os recursos de protecção do dispositivo não funcionam sem o PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Os recursos de protecção do dispositivo não funcionam sem o PIN.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Device protection features will not work without your screen lock.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+As impressões digitais guardadas também serão removidas do dispositivo e não poderá deslbloquear o dispositivo, autorizar compras ou iniciar sessão em aplicações."</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Os recursos de protecção do dispositivo não funcionam sem o bloqueio de ecrã.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Os recursos de protecção do dispositivo não funcionam sem o bloqueio de ecrã.
 
-Your saved fingerprints will also be removed from this device and you won't be able to unlock your phone, authorize purchases, or sign in to apps with them."</string>
+As impressões digitais guardadas também serão removidas do dispositivo e não poderá deslbloquear o dispositivo, autorizar compras ou iniciar sessão em aplicações."</string>
   <string name="unlock_disable_frp_warning_ok">Sim, remover</string>
-  <string name="unlock_disable_frp_warning_title">Remover proteção do sistema?</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Uma vez que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições e Segurança.</string>
+  <string name="unlock_disable_frp_warning_title">Remover protecção do sistema?</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Além de configurar o bloqueio de ecrã, também pode configurar a impressão digital em Definições &gt; Segurança.</string>
   <string name="usage_access">Utilização de acesso</string>
   <string name="usage_access_description">A utilização de acesso permite que uma aplicação acompanhe as outras aplicações que utiliza com mais frequência, mesmo com a sua operadora, definições ou outros detalhes.</string>
-  <string name="usage_type_camera">Câmera</string>
+  <string name="usage_type_camera">Câmara</string>
   <string name="usage_type_flashlight">Lanterna</string>
-  <string name="usb_midi_summary">Deixe o MIDI ligado para aplicações que funcionam através de USB com  software MIDI instalado no seu compudador.</string>
+  <string name="usb_midi_summary">Deixe o MIDI ligado para aplicações que funcionam através de USB com  software MIDI instalado no compudador.</string>
   <string name="usb_midi_title">MIDI</string>
-  <string name="usb_use">Use USB para</string>
+  <string name="usb_use">Usar USB para</string>
   <string name="usb_use_MIDI">MIDI</string>
   <string name="usb_use_charging_only">Carregar apenas</string>
-  <string name="usb_use_file_transfers">Transferir ficheiros(MTP)</string>
+  <string name="usb_use_file_transfers">Transferir ficheiros (MTP)</string>
   <string name="usb_use_photo_transfers">Transferir (PTP)</string>
   <string name="user_add_max_count">Pode adicionar até %1$d utilizadores</string>
   <string name="user_enable_calling_and_sms_confirm_message">Ligue o histórico de SMS e será partilhada com este utilizador.</string>
@@ -525,42 +525,42 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="volte_provisioned_flag_off">Desligar VoLTE</string>
   <string name="volte_provisioned_flag_on">Ligar VoLTE</string>
   <string name="vpn_disconnect">Desligar</string>
-  <string name="vpn_disconnect_confirm">Desligar esta VPN.</string>
+  <string name="vpn_disconnect_confirm">Desligar VPN.</string>
   <string name="vpn_done">Rejeitar</string>
   <string name="vpn_forget">Esquecer</string>
   <string name="vpn_version">Versão %s</string>
-  <string name="webview_license_title">Licença Sistema WebView</string>
-  <string name="wifi_alert_lockdown_by_device_owner">%1$s gerir o seu dispositivo e não permitir modificar ou apagar esta rede Wi-Fi. Para obter mais informações, contacte o administrador.</string>
+  <string name="webview_license_title">Licença de Sistema WebView</string>
+  <string name="wifi_alert_lockdown_by_device_owner">%1$s gerir o dispositivo e não permitir modificar ou apagar esta rede Wi-Fi. Para obter mais informações, contacte o administrador.</string>
   <string name="wifi_ap_band_config">Seleccionar banda</string>
   <string name="wifi_ap_choose_2G">Banda 2.4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda 5 GHz</string>
-  <string name="wifi_automatically_connect_summary">Deixe uma Wi-Fi auxiliar automaticamente para ligar a redes abertas determinados a ser de alta qualidade</string>
+  <string name="wifi_automatically_connect_summary">Deixe uma rede Wi-Fi auxiliar para ligar automaticamente a redes abertas de alta qualidade</string>
   <string name="wifi_automatically_connect_title">Usar automaticamente Wi-Fi</string>
   <string name="wifi_calling_mode_dialog_title">Modo de chamadas Wi-Fi</string>
-  <string name="wifi_calling_mode_title">Preferência das chamadas</string>
-  <string name="wifi_calling_off_explanation">Quando está ligada uma chamada Wi-Fi, o telefone pode fazer chamadas através de redes Wi-Fi ou rede móveis, dependendo da sua preferência em que sinal é mais forte. Antes de ligar esse recurso, verifique na sua operadora sobre tarifários e outros detalhes.</string>
+  <string name="wifi_calling_mode_title">Preferências das chamadas</string>
+  <string name="wifi_calling_off_explanation">Quando está numa chamada Wi-Fi, o telefone pode fazer chamadas através de redes Wi-Fi ou rede móveis, dependendo da preferência do sinal é mais forte. Antes de ligar esse recurso, verifique na operadora os tarifários e outros detalhes.</string>
   <string name="wifi_calling_settings_title">Chamada Wi-Fi</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
-  <string name="wifi_disabled_wifi_failure">Falha ao ligar à Wi-Fi</string>
-  <string name="wifi_menu_remember">Lembrae esta rede</string>
+  <string name="wifi_disabled_wifi_failure">Falha ao ligar à rede Wi-Fi</string>
+  <string name="wifi_menu_remember">Lembrar esta rede</string>
   <string name="wifi_no_internet">Não foi detectado acesso à internet, não irá ligar automaticamente.</string>
   <string name="wifi_sap_no_channel_error">Banda 5 GHz não disponível neste país</string>
-  <string name="wifi_scan_notify_text">Para melhorar a precisão de localização, aplicações e serviços de sistema ainda podem procurar redes WiFi. Pode ser alterado em LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text">Para melhorar a precisão de localização, permitir que aplicações e serviços de sistema procurem redes WiFi. Pode ser alterado em LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_security_passpoint">Ponto de passagem</string>
   <string name="wifi_select_assistant_dialog_title">Escolher assistente</string>
   <string name="wifi_switch_away_when_unvalidated">Mudar para dados móveis se perder o acesso à Internet Wi-Fi.</string>
-  <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização a essa aplicação não impede ao administrador a verificação de uso de dados nas aplicações no seu perfil de trabalho.</string>
+  <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização a essa aplicação não impede ao administrador a verificação de uso de dados nas aplicações no perfil de trabalho.</string>
   <string name="write_settings">Modificar configurações do sistema</string>
   <string name="write_settings_description">Essa permissão permite que uma aplicação modifique as configurações do sistema.</string>
   <string name="write_settings_off">Não</string>
   <string name="write_settings_on">Sim</string>
-  <string name="write_settings_preference">Aplicações podem modificar as configurações do sistema</string>
+  <string name="write_settings_preference">Aplicações que podem modificar as configurações do sistema</string>
   <string formatted="false" name="write_settings_summary">%d de %d aplicações podem modificar definições do sistema</string>
   <string name="write_settings_title">Podem modificar definições do sistema</string>
   <string name="write_system_settings">Modificar definições do sistema</string>
-  <string name="zen_access_empty_text">Nenhuma aplicação instalada solicita acesso a Não perturbar</string>
-  <string name="zen_access_warning_dialog_summary">O aplicação poderá ligar/desligar Não perturbar e fazer alterações nas configurações relacionadas.</string>
-  <string name="zen_access_warning_dialog_title">Permitir acesso a Não perturbar para %1$s?</string>
+  <string name="zen_access_empty_text">Nenhuma aplicação instalada solicita acesso ao Não perturbar</string>
+  <string name="zen_access_warning_dialog_summary">O aplicação poderá ligar/desligar o Não perturbar e fazer alterações nas configurações relacionadas.</string>
+  <string name="zen_access_warning_dialog_title">Permitir acesso ao Não perturbar para %1$s?</string>
   <string name="zen_event_rule_enabled_toast">Regra automática para ligar o Não perturbar durante eventos específicos</string>
   <string name="zen_event_rule_type_name">Regra evento</string>
   <string name="zen_mode_add_rule">Adicionar regra</string>
@@ -578,7 +578,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="zen_mode_event_rule_reply_any_except_no">Sim, talvez, ou Não respondeu</string>
   <string name="zen_mode_event_rule_reply_yes">Sim</string>
   <string name="zen_mode_event_rule_reply_yes_or_maybe">Sim ou talvez</string>
-  <string name="zen_mode_event_rule_summary_any_calendar">qualquer calendário</string>
+  <string name="zen_mode_event_rule_summary_any_calendar">Qualquer calendário</string>
   <string name="zen_mode_event_rule_summary_calendar_template">Durante os eventos para %1$s</string>
   <string name="zen_mode_event_rule_summary_reply_template">Quando a resposta é %1$s</string>
   <string name="zen_mode_from_call">"Chamadas de "</string>
@@ -587,8 +587,8 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="zen_mode_option_alarms">Apenas alarmes</string>
   <string name="zen_mode_priority_settings_title">Prioridade só permite</string>
   <string name="zen_mode_reminders">Lembretes</string>
-  <string name="zen_mode_repeat_callers">Repita as chamadas</string>
-  <string name="zen_mode_repeat_callers_summary">Permita se a mesma pessoa liga uma segunda vez dentro de um período de %d minuto(s).</string>
+  <string name="zen_mode_repeat_callers">Repetir as chamadas</string>
+  <string name="zen_mode_repeat_callers_summary">Permitir se a mesma pessoa liga uma segunda vez dentro de um período de %d minuto(s).</string>
   <string name="zen_mode_rule_name">Nome da regra</string>
   <string name="zen_mode_rule_name_hint">Insira nome da regra</string>
   <string name="zen_mode_rule_name_warning">Nome da regra já em utilização</string>
