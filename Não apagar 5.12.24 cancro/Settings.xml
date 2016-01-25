@@ -101,8 +101,8 @@
   <string name="domain_urls_summary_one">Abrir %s</string>
   <string name="domain_urls_summary_some">Abrir %s e endereços relacionados</string>
   <string name="domain_urls_title">Ligações das aplicações</string>
-  <string name="draw_overlay">Desenhar sobre outras aplicações</string>
-  <string name="draw_overlay_title">Aplicações que podem desenhar sobre outras aplicações</string>
+  <string name="draw_overlay">Aparecer sobre outras aplicações</string>
+  <string name="draw_overlay_title">Aplicações que podem aparecer sobre outras aplicações</string>
   <string name="enable_multi_window">Modo de multi-janela</string>
   <string name="enable_multi_window_summary">Múltiplas actividades em simultâneo no ecrã.</string>
   <string name="encryption_interstitial_message_password_for_fingerprint">"Para além da impressão digital para desbloquear o dispositivo, pode também solicitar a palavra-passe antes do dispositivo ligar. Não será possível receber chamdas, mensagens, notificações e alarmes até o dispositivo ligar.
@@ -433,59 +433,59 @@ Após formatar, este ^1 apenas irá funcionar neste dispositivo.
   <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
   <string name="storage_wizard_format_progress_body">Não remoba o ^1 enquanto está a formatar.</string>
   <string name="storage_wizard_format_progress_title">A formatar ^1…</string>
-  <string name="storage_wizard_init_external_summary">For moving photos and other media between devices.</string>
-  <string name="storage_wizard_init_external_title">Use as portable storage</string>
-  <string name="storage_wizard_init_internal_summary">For storing anything on this device only, including apps and photos. Requires formatting that prevents it from working with other devices.</string>
-  <string name="storage_wizard_init_internal_title">Use as internal storage</string>
-  <string name="storage_wizard_init_title">Set up your ^1</string>
-  <string name="storage_wizard_migrate_body">"You can move your photos, files, and some apps to this new ^1. 
+  <string name="storage_wizard_init_external_summary">Para mover fotos e outros ficheiros entre dispositivos.</string>
+  <string name="storage_wizard_init_external_title">Utilizar como armazenamento portátil</string>
+  <string name="storage_wizard_init_internal_summary">Para armazenar tudo apenas neste dispositivo, incluindo aplicações e fotos. Requer formatação que impede de funcionar com outros dispositivos.</string>
+  <string name="storage_wizard_init_internal_title">Utilizar como armazenamento interno</string>
+  <string name="storage_wizard_init_title">Configuração para ^1</string>
+  <string name="storage_wizard_migrate_body">"Pode mover as fotos, ficheiros e algumas aplicações para este novo ^1. 
 
-The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
-  <string name="storage_wizard_migrate_confirm_body">None</string>
-  <string name="storage_wizard_migrate_confirm_next">Move</string>
-  <string name="storage_wizard_migrate_confirm_title">Move data now</string>
-  <string name="storage_wizard_migrate_details">"During the move: 
-• Don’t remove the ^1. 
-• Some apps won’t work correctly. 
-• Keep the device charged."</string>
-  <string name="storage_wizard_migrate_later">Move later</string>
-  <string name="storage_wizard_migrate_now">Move now</string>
-  <string name="storage_wizard_migrate_progress_title">Moving data…</string>
-  <string name="storage_wizard_migrate_title">Move data to new storage</string>
-  <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
+Demora cerca de ^2 e vai libertar ^3 do armazenamento interno. Algumas aplicações não irão funcionar enquanto o processo estiver a decorrer."</string>
+  <string name="storage_wizard_migrate_confirm_body">Nenhum</string>
+  <string name="storage_wizard_migrate_confirm_next">Mover</string>
+  <string name="storage_wizard_migrate_confirm_title">Mover dados agora</string>
+  <string name="storage_wizard_migrate_details">"Durante o processo: 
+• Não remova o ^1. 
+• Algumas aplicações não funcionam. 
+• Mantenha o dispositivo carregado."</string>
+  <string name="storage_wizard_migrate_later">Mover mais tarde</string>
+  <string name="storage_wizard_migrate_now">Mover agora</string>
+  <string name="storage_wizard_migrate_progress_title">A mover dados…</string>
+  <string name="storage_wizard_migrate_title">Mover dados para o novo armazenamento</string>
+  <string name="storage_wizard_move_confirm_body">"A mover ^1 e os seus dados para ^2 pode demorar algum tempo. Não pode usar a aplicação até o processo estar concluído. 
 
-Don’t remove the ^2 during the move."</string>
-  <string name="storage_wizard_move_confirm_title">Move ^1</string>
-  <string name="storage_wizard_move_progress_body">"Don’t remove the ^1 during the move. 
+Não remova o ^2 durante o processo."</string>
+  <string name="storage_wizard_move_confirm_title">Mover ^1</string>
+  <string name="storage_wizard_move_progress_body">"Não remova o ^1 durante o processo. 
 
-The ^2 app on this device won’t be available until the move is complete."</string>
-  <string name="storage_wizard_move_progress_cancel">Cancel move</string>
-  <string name="storage_wizard_move_progress_title">Moving ^1…</string>
-  <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
-  <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
+A aplicação ^2 no dispositivo não está disponível até o processo estar concluído."</string>
+  <string name="storage_wizard_move_progress_cancel">Cancelar</string>
+  <string name="storage_wizard_move_progress_title">A mover ^1…</string>
+  <string name="storage_wizard_ready_external_body">O ^1 está definido para ser usado com fotos e média.</string>
+  <string name="storage_wizard_ready_internal_body">"O novo ^1 está a funcionar. 
 
-To move photos, files, and app data to this device, go to Settings &gt; Storage."</string>
-  <string name="storage_wizard_ready_title">^1 is ready</string>
-  <string name="storage_wizard_slow_body">"This ^1 appears to be slow. 
+Para mover fotos, ficheiros e dados da aplicação para o dispositivo, vá a Definições &gt; Armazenamento."</string>
+  <string name="storage_wizard_ready_title">^1 está pronto</string>
+  <string name="storage_wizard_slow_body">"O ^1 parece estar lento. 
 
-You can continue, but apps moved to this location may stutter and data transfers may take a long time. 
+Pode continuar, mas as aplicações movidas para esta localização podem ficar lentas e a transferência de dados podem demorar mais tempo. 
 
-Consider using a faster ^1 for better performance."</string>
+Considere usar um ^1 mais rápido para melhor performance."</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s to %2$s</string>
-  <string name="suw_back_button_label">Back</string>
-  <string name="suw_more_button_label">More</string>
-  <string name="suw_next_button_label">Next</string>
-  <string name="system_alert_window_access_title">Draw over other apps</string>
-  <string name="system_alert_window_apps_title">Apps</string>
-  <string name="system_alert_window_off">No</string>
-  <string name="system_alert_window_on">Yes</string>
-  <string name="system_alert_window_settings">Draw over other apps</string>
-  <string formatted="false" name="system_alert_window_summary">%d of %d apps allowed to draw on top of other apps</string>
-  <string name="system_ui_settings">Show SystemUI Tuner</string>
-  <string name="tap_to_wake">Tap to wake</string>
-  <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
-  <string name="total_memory">Total memory</string>
+  <string name="summary_range_verbal_combination">%1$s para %2$s</string>
+  <string name="suw_back_button_label">Voltar</string>
+  <string name="suw_more_button_label">Mais</string>
+  <string name="suw_next_button_label">Segunte</string>
+  <string name="system_alert_window_access_title">Aparecer sobre as outras aplicações</string>
+  <string name="system_alert_window_apps_title">Aplicações</string>
+  <string name="system_alert_window_off">Não</string>
+  <string name="system_alert_window_on">Sim</string>
+  <string name="system_alert_window_settings">Aparecer sobre as outras aplicações</string>
+  <string formatted="false" name="system_alert_window_summary">%d de %d aplicações permitidas para aparecer sobre as outras aplicações</string>
+  <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
+  <string name="tap_to_wake">Toque para acordar</string>
+  <string name="tap_to_wake_summary">Toque duplo em qualquer local do ecrã para acordar o dispositivo</string>
+  <string name="total_memory">Memória total</string>
   <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="trust_agent_disabled_device_admin">Disabled by administrator</string>
   <string name="unknown_app">Unknown app</string>
