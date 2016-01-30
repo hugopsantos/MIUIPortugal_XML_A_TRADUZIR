@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="add_redpackage">Red Package</string>
+  <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
+  <string name="mx_msg_pageview_setting_title">Mi Message settings</string>
+  <string name="red_package_btn">Open</string>
+  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
+  <string name="snippet_red_package">[Red Package]</string>
+</resources>
