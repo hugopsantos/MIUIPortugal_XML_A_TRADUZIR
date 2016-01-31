@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="ad_download">Download</string>
+  <string name="ad_downloading">Loading…</string>
+  <string name="change_sticker">Pick another</string>
+  <string name="has_installed">Installed</string>
+  <string name="load_sticker_fail">"Couldn't load, try again"</string>
+  <string name="no_network_tip">"Can't connect to the network. Check connection and try again."</string>
+  <string name="send_sticker">Send sticker</string>
+  <string name="view_more_sticker">View more stickers</string>
+</resources>
