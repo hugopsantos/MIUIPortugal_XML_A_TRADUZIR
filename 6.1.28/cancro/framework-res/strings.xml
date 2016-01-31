@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="config_cameraLaunchGestureSensorStringType">None</string>
-  <string name="config_orientationSensorType">@null</string>
-  <string name="config_packagedKeyboardName">None</string>
-  <string name="config_rat_unknown">None</string>
-  <string name="def_custom_bt_defname">None</string>
-  <string name="operator_config_url">None</string>
-  <string name="operator_ping_url">None</string>
-  <string name="zen_mode_alarm">Until %1$s (next alarm)</string>
+  <string name="config_cameraLaunchGestureSensorStringType">Nenhum</string>
+  <string name="config_packagedKeyboardName">Nenhum</string>
+  <string name="config_rat_unknown">Nenhum</string>
+  <string name="def_custom_bt_defname">Nenhum</string>
+  <string name="operator_config_url">Nenhum</string>
+  <string name="operator_ping_url">Nenhum</string>
+  <string name="zen_mode_alarm">Até %1$s (próximo alarme)</string>
 </resources>

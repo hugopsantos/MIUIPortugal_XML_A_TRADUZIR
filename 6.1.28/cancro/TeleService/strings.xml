@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="livetalk_common_problem">FQA</string>
-  <string name="loading_order">Just a sec…</string>
-  <string name="operator_first_mins_hint">xx minutes</string>
-  <string name="operator_first_mins_none_summary">Top-up package first</string>
-  <string name="operator_first_mins_none_title">Operator package minutes all used</string>
-  <string name="operator_first_no_set">no value</string>
-  <string name="operator_first_set_failed">Fialed</string>
-  <string name="operator_first_sim_card_changed_summary">Reset operator package minutes</string>
-  <string name="operator_first_sim_card_changed_title">Sim Card Change</string>
-  <string name="operator_first_title">Operator first</string>
-  <string name="operator_remain_mins">Operator package minutes</string>
-  <string name="operator_remain_mins_value">%1$s minutes</string>
-  <string name="sim_card_summary_no_sim_card">Please insert the SIM card</string>
+  <string name="loading_order">Aguarde um segundo…</string>
+  <string name="operator_first_mins_hint">xx minutos</string>
+  <string name="operator_first_mins_none_summary">Carregue o pacote primeiro</string>
+  <string name="operator_first_mins_none_title">Usou todos os minutos do pacote da operadora</string>
+  <string name="operator_first_no_set">sem valor</string>
+  <string name="operator_first_set_failed">Erro</string>
+  <string name="operator_first_sim_card_changed_summary">Repor pacote de minutos da operadora</string>
+  <string name="operator_first_sim_card_changed_title">Mudar cartão SIM</string>
+  <string name="operator_first_title">Operadora primeiro</string>
+  <string name="operator_remain_mins">Pacote de minutos da operadora</string>
+  <string name="operator_remain_mins_value">%1$s minutos</string>
+  <string name="sim_card_summary_no_sim_card">Insira o cartão SIM</string>
 </resources>
