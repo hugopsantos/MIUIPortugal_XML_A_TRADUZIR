@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="ad_download">Download</string>
-  <string name="ad_downloading">Loading…</string>
-  <string name="change_sticker">Pick another</string>
-  <string name="has_installed">Installed</string>
-  <string name="load_sticker_fail">"Couldn't load, try again"</string>
-  <string name="no_network_tip">"Can't connect to the network. Check connection and try again."</string>
-  <string name="send_sticker">Send sticker</string>
-  <string name="view_more_sticker">View more stickers</string>
+  <string name="ad_download">Transferir</string>
+  <string name="ad_downloading">A carregar…</string>
+  <string name="change_sticker">Seleccionar outro</string>
+  <string name="has_installed">Instalado</string>
+  <string name="load_sticker_fail">Não foi possível carregar, tente novamente</string>
+  <string name="no_network_tip">Não foi possível ligar à rede. Verifique a ligação e tente novamente.</string>
+  <string name="send_sticker">Enviar etiqueta</string>
+  <string name="view_more_sticker">Ver mais etiquetas</string>
 </resources>
