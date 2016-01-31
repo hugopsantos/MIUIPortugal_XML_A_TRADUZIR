@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string formatted="false" name="conference_call_single_description">%s etc. total %s</string>
+</resources>
