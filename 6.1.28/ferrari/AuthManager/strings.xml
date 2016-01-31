@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="HIPS_Perm_install_shortcut">Home screen shortcuts</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">Add shortcuts to Home screen</string>
+  <string name="HIPS_Perm_install_shortcut">Atalhos do ecrã inicial</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Adicionar atalhos ao ecrã inicial</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
-  <string name="HIPS_Perm_process_nfc_Desc">Access near field communication (NFC) hardware</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Aceder ao hardware (NFC) de comunicação</string>
 </resources>
