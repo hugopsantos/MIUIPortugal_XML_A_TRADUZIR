@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="xl_speedup_experience_notify_context">A velocidade das transferências será optimizada se for membro Xunlei</string>
-  <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>
-  <string name="xl_speedup_notify_button_experience">Testar gratuitamente</string>
-  <string name="xl_speedup_notify_button_member">Tornar-se membro</string>
-</resources>

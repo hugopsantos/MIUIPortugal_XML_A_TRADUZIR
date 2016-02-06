@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="information_setting">Definições de feed de notícias</string>
-  <string name="load_only_under_wlan">Carregar notícias quando ligado à rede Wi-Fi</string>
-</resources>

@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="notification_header_title">Notificações</string>
-  <string name="status_bar_date_format_12">"EEEE
-dd/MM"</string>
-</resources>
