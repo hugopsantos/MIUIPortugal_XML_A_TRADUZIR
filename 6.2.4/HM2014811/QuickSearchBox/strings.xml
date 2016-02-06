@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="baidu_search_url">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
-  <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
-  <string name="connect_and_retry">Connect to the internet and try again</string>
-  <string name="web_search_results">Web Search Results</string>
+  <string name="connect_and_retry">Ligue à internet e tente novamente</string>
+  <string name="web_search_results">Resultados de pesquisa na internet</string>
 </resources>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
-  <string name="buy_other_flow">Regular data</string>
+  <string name="android_sdk_too_low">A versão android está muito desactualizada e o Música não pode ser actualizado.</string>
+  <string name="buy_other_flow">Dados regulares</string>
   <string name="buy_traffic">China Unicom</string>
-  <string name="miui_music">Mi Music</string>
-  <string name="start_download_music">Start downloading music upgrade package.</string>
-  <string name="start_to_use">Start to enjoy</string>
-  <string name="sub_explanation">Music data plan</string>
-  <string name="sub_explanation_message">"Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
-  <string name="time_to_upgrade">Should Update Mi Music</string>
-  <string name="update_now">Update now</string>
-  <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
+  <string name="miui_music">Música Mi</string>
+  <string name="start_download_music">Iniciar a transferência do pacote de actualização de música.</string>
+  <string name="start_to_use">Começar a desfrutar</string>
+  <string name="sub_explanation">Plano de dados de Música</string>
+  <string name="sub_explanation_message">O plano de dados de música é actualmente fornecido pela China Unicom. A operadora actual não suporta este serviço. Pode comprar dados móveis regulares.</string>
+  <string name="time_to_upgrade">Mostrar actualização da Música Mi</string>
+  <string name="update_now">Actualizar agora</string>
+  <string name="welcome_to_new_music">Bem-vindo à nova versão da Música Mi</string>
 </resources>

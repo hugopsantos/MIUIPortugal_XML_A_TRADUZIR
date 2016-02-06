@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="agree_add_continue">Agree</string>
-  <string name="internet_statement_message">By touching agree, you agree to the terms that the app will have access to the internet</string>
-  <string name="internet_statement_title">Terms of user</string>
+  <string name="agree_add_continue">Concordo</string>
+  <string name="internet_statement_message">Ao tocar em concordo, está a aceitar os termos da aplicação e que esta aceda à internet</string>
+  <string name="internet_statement_title">Termos do utilizador</string>
 </resources>
