@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="information_setting">News feed settings</string>
+  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
+  <string name="preference_category_information_setting">category_information_setting</string>
+  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
+  <string name="buy_other_flow">Regular data</string>
+  <string name="buy_traffic">China Unicom</string>
+  <string name="miui_music">Mi Music</string>
+  <string name="start_download_music">Start downloading music upgrade package.</string>
+  <string name="start_to_use">Start to enjoy</string>
+  <string name="sub_explanation">Music data plan</string>
+  <string name="sub_explanation_message">"Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
+  <string name="time_to_upgrade">Should Update Mi Music</string>
+  <string name="update_now">Update now</string>
+  <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
+</resources>
