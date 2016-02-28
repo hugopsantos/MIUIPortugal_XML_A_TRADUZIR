@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos, negou as permissões de ler contactos.</string>
-  <string name="call_recording_deny_permission_msg">Não é possível gravar, negou as permissões de gravação.</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-  <string name="crypt_keeper_conditions">A encriptação demora 1 hora ou mais. Certifique-se que a bateria está totalmente carregada e o telefone ligado carregador durante o processo. Se interromper o processo pode perder todos os dados.</string>
-  <string name="crypt_keeper_conditions_title">Sobre encriptar o dispositivo</string>
-  <string name="crypt_keeper_content">Pode encriptar contas, definições, aplicações transferidas e dados, média e outros ficheiros.</string>
-  <string name="crypt_keeper_content_title">Encriptar dispositivo</string>
-  <string name="crypt_keeper_decrypt_methods">Depois de encriptar o dispositivo, assumindo que configurou um bloqueio de ecrã (padrão ou PIN numéric ou senha), terá de desbloquear o ecrã para desencriptar o dispositivo sempre que o ligar. A única forma de o desencriptar é repondo as definições de fábrica e apagar todos os dados.</string>
-  <string name="crypt_keeper_decrypt_methods_title">Desencriptar dispositivo</string>
-</resources>
