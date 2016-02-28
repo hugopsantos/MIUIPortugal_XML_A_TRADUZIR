@@ -2,12 +2,12 @@
 <resources>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_activity_chooser_view_see_all">Ver todos</string>
+  <string name="abc_activitychooserview_choose_application">Seleccionar aplicação</string>
+  <string name="abc_capital_off">LIG.</string>
+  <string name="abc_capital_on">DESLIG.</string>
+  <string name="abc_search_hint">Pesquisar…</string>
+  <string name="abc_shareactionprovider_share_with">Partilhar com</string>
+  <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
+  <string name="abc_toolbar_collapse_description">Minimizar</string>
 </resources>

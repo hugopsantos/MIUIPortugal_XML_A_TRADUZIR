@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="crypt_keeper_conditions">Encryption takes an hour or more. You must start with a charged battery and keep your phone plugged in throughout the process. If you interrupt it, you’ll lose some or all of your data.</string>
-  <string name="crypt_keeper_conditions_title">About encrypting your device</string>
-  <string name="crypt_keeper_content">You can encrypt your accounts, settings, downloaded apps and their data, media, and other files.</string>
-  <string name="crypt_keeper_content_title">Encrypt device</string>
-  <string name="crypt_keeper_decrypt_methods">After you encrypt your phone, assuming you’ve set up a screen lock (that is, a pattern or numeric PIN or password), you’ll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.</string>
-  <string name="crypt_keeper_decrypt_methods_title">Decrypting your device</string>
+  <string name="crypt_keeper_conditions">A encriptação demora 1 hora ou mais. Certifique-se que a bateria está totalmente carregada e o telefone ligado carregador durante o processo. Se interromper o processo pode perder todos os dados.</string>
+  <string name="crypt_keeper_conditions_title">Sobre encriptar o dispositivo</string>
+  <string name="crypt_keeper_content">Pode encriptar contas, definições, aplicações transferidas e dados, média e outros ficheiros.</string>
+  <string name="crypt_keeper_content_title">Encriptar dispositivo</string>
+  <string name="crypt_keeper_decrypt_methods">Depois de encriptar o dispositivo, assumindo que configurou um bloqueio de ecrã (padrão ou PIN numéric ou senha), terá de desbloquear o ecrã para desencriptar o dispositivo sempre que o ligar. A única forma de o desencriptar é repondo as definições de fábrica e apagar todos os dados.</string>
+  <string name="crypt_keeper_decrypt_methods_title">Desencriptar dispositivo</string>
 </resources>
