@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="unit_en_billion">B</string>
+  <string name="unit_en_million">M</string>
+  <string name="unit_en_thounsand">K</string>
+</resources>
