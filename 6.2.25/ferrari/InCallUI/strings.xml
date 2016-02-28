@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
+  <string name="call_recording_deny_permission_msg">"You denied record permission, can't record."</string>
+</resources>

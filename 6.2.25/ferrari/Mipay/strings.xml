@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="mipay_bill_add_mail_box_bill">Please add bill mailbox</string>
+  <string name="mipay_bill_goto_set">Set now</string>
+  <string name="mipay_bill_not_get_bill_value">Did not get the current bill</string>
+  <string name="mipay_bill_set_repay_due_date">Set repayment date</string>
+  <string name="mipay_bill_setting">Setting</string>
+  <string name="mipay_bill_setting_allow_read_sms">Allow read bill from sms</string>
+  <string name="mipay_bill_setting_mail_bill">Mailbox bill</string>
+  <string name="mipay_bill_setting_sms_bill">Sms bill</string>
+  <string name="mipay_bill_sms_exception">Read sms bill error</string>
+  <string name="mipay_bill_sms_will_read_background">Will read sms bill background</string>
+</resources>
