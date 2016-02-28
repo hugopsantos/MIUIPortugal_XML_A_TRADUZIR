@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="button_previous">Previous</string>
-  <string name="exchange_rules">Help</string>
-  <string name="exchange_traffic">Get mobile data</string>
-  <string name="install_fail">"Can't install app: %s"</string>
-  <string name="not_enough_pisces">Not enough tokens</string>
-  <string name="unlock_at_level_x">Unlocks at level %d</string>
+  <string name="button_previous">Anterior</string>
+  <string name="exchange_rules">Ajuda</string>
+  <string name="exchange_traffic">Obter dados móveis</string>
+  <string name="install_fail">Não foi possível instalar aplicação: %s</string>
+  <string name="not_enough_pisces">Sem tokens suficientes</string>
+  <string name="unlock_at_level_x">Desbloqueia no nível %d</string>
 </resources>

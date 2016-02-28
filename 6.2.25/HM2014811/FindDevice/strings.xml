@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="find_device_error_account_unknown_error">Mi Account error (%s)</string>
-  <string name="unlock_help">"Stay connected to the network
-Make sure you've installed a working SIM card, and your device is not connected to an ineffective WLAN network
+  <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
+  <string name="unlock_help">"Mantenha-se ligado à rede
+Certifique-se que tem o SIM instalado, que este está a funcionar e que o dispositivo não está ligado a uma rede Wi-Fi inactiva
 
-Forgot password?
-Go to id.mi.com to reset your password
+Esqueceu-se da palavra passe?
+Vá a id.mi.com para repor a palavra passe
 
-Other reasons
-Sign in to i.mi.com and try unlocking your device from there"</string>
-  <string name="unlock_help_title">Unlock help:</string>
+Outros motivos
+Inicie sessão em i.mi.com e tente desbloquear o dispositivo"</string>
+  <string name="unlock_help_title">Ajuda no desbloqueio:</string>
 </resources>

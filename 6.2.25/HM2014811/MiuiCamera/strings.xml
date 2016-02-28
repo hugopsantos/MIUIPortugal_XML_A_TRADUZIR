@@ -1,14 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="face_beauty_age_alias_0_7">0-7</string>
-  <string name="face_beauty_age_alias_18_30">18-30</string>
-  <string name="face_beauty_age_alias_31_44">31-44</string>
-  <string name="face_beauty_age_alias_45_60">45-60</string>
-  <string name="face_beauty_age_alias_60_m">60+</string>
-  <string name="face_beauty_age_alias_8_17">8-17</string>
-  <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
-  <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
-  <string name="pref_camera_face_info_watermark_title">Show face info in photo</string>
-  <string name="pref_camera_magic_mirror_title">Magic mirror</string>
-  <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Alinhe a seta com a linha de referência</string>
+  <string name="pano_how_to_use_prompt_slow_down">Por favor diminua a velocidade</string>
+  <string name="pref_camera_face_info_watermark_title">Mostrar informação do rosto na foto</string>
+  <string name="pref_camera_magic_mirror_title">Espelho mágico</string>
+  <string name="simple_mode_button_text_magic_mirror">Desligar Espelho mágico</string>
 </resources>
