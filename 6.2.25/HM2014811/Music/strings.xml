@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="more_settings">More advanced settings</string>
+  <string name="more_settings_summary">Download settings, Sleep mode, mobile data, file filters, etc.</string>
+  <string name="music_service">Music Service</string>
+  <string name="service_and_settings">Service and settings</string>
+  <string name="subed">On</string>
+  <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
+  <string name="ticket_title">Show tickets</string>
+</resources>
