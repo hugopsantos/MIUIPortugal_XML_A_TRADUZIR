@@ -578,7 +578,7 @@ e nunca os perca!"</string>
     <string name="hot_video">Vídeos populares</string>
     <string name="hot_sticker">Rótulos populares</string>
     <string name="tab_common_app">Aplicações básicas</string>
-    <string name="kuaipan_logged_in">Sessão iniciada em</string>
+    <string name="kuaipan_logged_in">Sessão iniciada</string>
     <string name="kuaipan_not_logged_in">Sem sessão iniciada</string>
     <string name="category_files">Arquivos</string>
     <string name="copy_to">Copiar para…</string>
@@ -613,7 +613,7 @@ e nunca os perca!"</string>
     <string name="good_tip">Feito!</string>
     <string name="share_dialog_msg">Partilhar o vídeo que assistiu com os amigos para trazer a diversão para o próximo nível!</string>
     <string name="mobile_network_dialog_title">Não está ligado à Wi-Fi</string>
-    <string name="mobile_network_dialog_tip"Se usar dados móveis para ver vídeos online. Pode causar gastos elevados.</string>
+    <string name="mobile_network_dialog_tip">Se usar dados móveis para ver vídeos online. Pode causar gastos elevados.</string>
     <string name="mobile_network_dialog_tip2">Está a usar dados móveis para ver vídeos online. Pode causar gastos elevados.</string>
     <string name="mobile_network_dialog_cancle">Cancelar</string>
     <string name="mobile_network_dialog_confirm">OK</string>
@@ -621,8 +621,8 @@ e nunca os perca!"</string>
     <string name="upload_video_dialog_title">Vídeo partilhado com sucesso</string>
     <string name="upload_video_dialog_message">O vídeo será mostrado entre os vídeos populares após a sua verificação</string>
     <string name="upload_video_success">O vídeo foi partilhado, verificar agora…</string>
-    <string name="upload_video_failed">Não é possível partilhar este vídio, tente novamente</string>
-    <string name="repeat_upload_video">TEste vídeo já foi partilhado, escolha outro.</string>
+    <string name="upload_video_failed">Não é possível partilhar este vídeo, tente novamente</string>
+    <string name="repeat_upload_video">Este vídeo já foi partilhado, escolha outro.</string>
     <string name="no_network_tip">Não é possível ligar à rede. Verifique a ligação e tente novamente.</string>
     <string name="video_play_failed">Erro desconhecido</string>
     <string name="report_porn">Pornografia</string>
@@ -631,7 +631,7 @@ e nunca os perca!"</string>
     <string name="report_advertisement">Publicidades</string>
     <string name="report_politics">Politicamente incorrectos</string>
     <string name="report_other">Outro</string>
-    <string name="video_replay">tente novamente</string>
+    <string name="video_replay">Reproduzir novamente</string>
     <string name="midrop_send_files">Seleccionar ficheiros a enviar</string>
     <string name="pick_file">Seleccionar ficheiros</string>
     <string name="disk_available">Disponível:</string>
